@@ -1,0 +1,58 @@
+[RECOMMENDED]		[GUID]		[TEXT THAT SHOWS WHEN HOVERING OVER IT]				[TABS THAT SHOW HOVERING OVER RECOMMENDED]
+Team Picks			g820626		Community Team Picks		
+Level of The Day		g820604		Community Level of The Day 						First option from the left
+Companion Capers		g823389		"Levels featuring Oddsock, Toggle, and Swoop!"			Third option from the left
+Most Hearted		g820607		The Most Hearted Content		
+Newest Levels		g820623		The most recently published content		
+Busiest			g820602		Levels being played right now!		
+Most Played			g820608		The most played content		
+My Playlists		g820613		Your playlists		
+My Queue			g820614		Your queued content		
+My Hearted Content	g820611		Content you've hearted		
+Recently Played		g820616		Your recently played content						Fourth option from the left
+Recommended For You	g820625		Stuff we think you'll like						Second option from the left
+					
+
+
+[EXTRA REMOVED RECOMMENDED TABS]		[Since I have no proper way of knowing I guessed on what these would be]		
+Broadcast Content		g820601		"(No idea what this is, could be something for ps4 live streams??)"		
+Highest Rated		g820603		Community Highest Rated content		
+Lucky Dip			g820605		Randomized uploaded content		
+My Friends			g820610		Content created by your friends!		
+My Hearted Creators	g820612		Creators you've hearted		
+Popular Playlists		g820615		Community popular playlists		
+Top Creators		g820627		The most hearted creators		
+Great New Content		g823389		Popular content uploaded recently		
+
+----------------------------------------------------------------------------------------------------------------------------------
+					
+[GENRES]						[This is literally what the text says when hovering over it]		
+Driving			g1088841		Driving									Third option from the left
+Cinematic			g1088842		Cinematic									Second option from the left
+Arcade			g1088809		Arcade									First option from the left
+1st & 3rd Person		g1090302		1st & 3rd person		
+Vehicle Shooters		g1088802		Vehicle Shooters		
+Tutorials			g1088803		Tutorials		
+Top-Down			g1088806		Top-Down		
+Time Trials			g1088835		Time Trials		
+Survival Challenges	g1088810		Survival Challenges		
+Stylisted Platformers	g1088833		Stylisted Platformers		
+Strategy			g1088811		Strategy		
+Story				g1088801		Story		
+Sports			g1088812		Sports		
+Social			g1088813		Social		
+Shooters			g1088814		Shooters		
+RPG				g1088815		RPG		
+Puzzle			g1088832		Puzzle		
+Platformers			g1090307		Platformers		
+Platform Shooters		g1088834		Platform Shooters		
+Multiplayer			g1088836		Multiplayer		
+Mini-Games			g1088837		Mini-Games		
+Gallery			g1088839		Gallery		
+Fighters			g1088840		Fighters									Fourth option from the left
+					
+
+
+[EXTRA REMOVED GENRES]				[Since I have no proper way of knowing I guessed on what these would be]		
+Music Gallery		g1090306		Music Gallery		
+Halloween			g1088838		Halloween		
