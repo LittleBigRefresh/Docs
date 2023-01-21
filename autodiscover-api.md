@@ -1,10 +1,10 @@
-# Autodiscover API
+# Autodiscover API Documentation
 
 ## Rationale
 
 To verify if a URL points to a custom server and if it is working, Refresher will contact the server. (well soon, anyways)
 
-While this API originated from Refresh, it is intended to be used by any LBP custom server.
+While this API originated from Refresh, it is intended to be used by any LBP custom server thus this document.
 
 The Autodiscover API has two main purposes:
 
@@ -46,4 +46,4 @@ If the server wants to, it can change the output of the `url` parameter based on
 ### Version 1
 `serverBrand`: A friendly name of the server. For Refresh it is simply `Refresh`, but you can put anything you want here. Generally it's the same as `lbpEnvVer`.
 
-`url`: The URL that should be recommended to the client.
+`url`: The URL that should be recommended to the client. This is the URL that you or your players will be patching and connecting with.
