@@ -2,9 +2,9 @@
 
 ## Information
 
-These files contain information and metadata for pins taken from LittleBigPlanet. These are stored as standard JSON files.
+These files contain information and metadata for pins taken from LittleBigPlanet. These are exported as standard JSON files.
 
-These fields are meant to be unsigned, however they were dumped using Java which is a language that does not support them. Thus, the data is stored as signed. So, be careful.
+These fields are meant to be unsigned, however they were dumped using Java which is a language that does not support unsigned integers. Thus, the data is stored as signed. So, be careful.
 
 Huge thanks to [Ennuo](https://github.com/ennuo/) for providing these!
 
