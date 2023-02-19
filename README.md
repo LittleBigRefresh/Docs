@@ -12,3 +12,5 @@ Documentation surrounding LittleBigPlanet and Refresh.
 [Community Tab Data](https://littlebigrefresh.github.io/Docs/LBP3_community_tab_data.txt)
 
 [Pins Metadata for LittleBigPlanet](https://littlebigrefresh.github.io/Docs/pins)
+
+[Tags/Labels Metadata for LittleBigPlanet](https://littlebigrefresh.github.io/Docs/labels)
