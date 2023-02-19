@@ -1,0 +1,6785 @@
+[
+  {
+    "id": -1229228749,
+    "progressType": -1041523786,
+    "category": 0,
+    "titleLamsKey": 496359963,
+    "descriptionLamsKey": 405173359,
+    "translatedName": "It\u0027s Story Time %1!",
+    "translatedDescription": "Actively play Story levels for %1 minutes.",
+    "icon": {
+      "value": 122255,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 60,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1317557516,
+    "progressType": -1041523786,
+    "category": 0,
+    "titleLamsKey": 496359963,
+    "descriptionLamsKey": 405173359,
+    "translatedName": "It\u0027s Story Time %1!",
+    "translatedDescription": "Actively play Story levels for %1 minutes.",
+    "icon": {
+      "value": 122255,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 175,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -1405886283,
+    "progressType": -1041523786,
+    "category": 0,
+    "titleLamsKey": 496359963,
+    "descriptionLamsKey": 405173359,
+    "translatedName": "It\u0027s Story Time %1!",
+    "translatedDescription": "Actively play Story levels for %1 minutes.",
+    "icon": {
+      "value": 122255,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 325,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -1494215050,
+    "progressType": -1041523786,
+    "category": 0,
+    "titleLamsKey": 496359963,
+    "descriptionLamsKey": 405173359,
+    "translatedName": "It\u0027s Story Time %1!",
+    "translatedDescription": "Actively play Story levels for %1 minutes.",
+    "icon": {
+      "value": 122255,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 750,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -1582543817,
+    "progressType": -1041523786,
+    "category": 0,
+    "titleLamsKey": 496359963,
+    "descriptionLamsKey": 405173359,
+    "translatedName": "It\u0027s Story Time %1!",
+    "translatedDescription": "Actively play Story levels for %1 minutes.",
+    "icon": {
+      "value": 122255,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1440,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -1731321742,
+    "progressType": -958255037,
+    "category": 0,
+    "titleLamsKey": -920306934,
+    "descriptionLamsKey": 912622054,
+    "translatedName": "Ace %1 Story Levels",
+    "translatedDescription": "Complete %1 unique Story levels without being killed.",
+    "icon": {
+      "value": 122565,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 3,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 178768845,
+    "progressType": -958255037,
+    "category": 0,
+    "titleLamsKey": -920306934,
+    "descriptionLamsKey": 912622054,
+    "translatedName": "Ace %1 Story Levels",
+    "translatedDescription": "Complete %1 unique Story levels without being killed.",
+    "icon": {
+      "value": 122565,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 8,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": 2088859432,
+    "progressType": -958255037,
+    "category": 0,
+    "titleLamsKey": -920306934,
+    "descriptionLamsKey": 912622054,
+    "translatedName": "Ace %1 Story Levels",
+    "translatedDescription": "Complete %1 unique Story levels without being killed.",
+    "icon": {
+      "value": 122565,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 12,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -296017277,
+    "progressType": -958255037,
+    "category": 0,
+    "titleLamsKey": -920306934,
+    "descriptionLamsKey": 912622054,
+    "translatedName": "Ace %1 Story Levels",
+    "translatedDescription": "Complete %1 unique Story levels without being killed.",
+    "icon": {
+      "value": 122565,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 18,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 1614073310,
+    "progressType": -958255037,
+    "category": 0,
+    "titleLamsKey": -920306934,
+    "descriptionLamsKey": 912622054,
+    "translatedName": "Ace %1 Story Levels",
+    "translatedDescription": "Complete %1 unique Story levels without being killed.",
+    "icon": {
+      "value": 122565,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 25,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 83736026,
+    "progressType": -1727285421,
+    "category": 0,
+    "titleLamsKey": -70686234,
+    "descriptionLamsKey": -1623206166,
+    "translatedName": "Aces In Spades %1",
+    "translatedDescription": "Complete %1 Story levels in a row without being killed.",
+    "icon": {
+      "value": 122261,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 2,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1666234989,
+    "progressType": -1727285421,
+    "category": 0,
+    "titleLamsKey": -70686234,
+    "descriptionLamsKey": -1623206166,
+    "translatedName": "Aces In Spades %1",
+    "translatedDescription": "Complete %1 Story levels in a row without being killed.",
+    "icon": {
+      "value": 122261,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 6,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -1046233344,
+    "progressType": -1727285421,
+    "category": 0,
+    "titleLamsKey": -70686234,
+    "descriptionLamsKey": -1623206166,
+    "translatedName": "Aces In Spades %1",
+    "translatedDescription": "Complete %1 Story levels in a row without being killed.",
+    "icon": {
+      "value": 122261,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10,
+    "trophyToUnlock": 8,
+    "behaviourFlags": 160
+  },
+  {
+    "id": 536265619,
+    "progressType": -1727285421,
+    "category": 0,
+    "titleLamsKey": -70686234,
+    "descriptionLamsKey": -1623206166,
+    "translatedName": "Aces In Spades %1",
+    "translatedDescription": "Complete %1 Story levels in a row without being killed.",
+    "icon": {
+      "value": 122261,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 14,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 2118764582,
+    "progressType": -1727285421,
+    "category": 0,
+    "titleLamsKey": -70686234,
+    "descriptionLamsKey": -1623206166,
+    "translatedName": "Aces In Spades %1",
+    "translatedDescription": "Complete %1 Story levels in a row without being killed.",
+    "icon": {
+      "value": 122261,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 18,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -1487521934,
+    "progressType": -1487521934,
+    "category": 0,
+    "titleLamsKey": 1718921647,
+    "descriptionLamsKey": 397376107,
+    "translatedName": "Complete La Marionetta",
+    "translatedDescription": "Complete the main path of La Marionetta.",
+    "icon": {
+      "value": 1165560,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 999,
+    "trophyToUnlock": 1,
+    "behaviourFlags": 34
+  },
+  {
+    "id": 1720014108,
+    "progressType": 1720014108,
+    "category": 0,
+    "titleLamsKey": 469025725,
+    "descriptionLamsKey": -1581499151,
+    "translatedName": "Ace La Marionetta",
+    "translatedDescription": "Ace the main path of La Marionetta.",
+    "icon": {
+      "value": 1210207,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 999,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1678384673,
+    "progressType": -1678384673,
+    "category": 0,
+    "titleLamsKey": -1256329410,
+    "descriptionLamsKey": -1929783206,
+    "translatedName": "Complete Land of Odd",
+    "translatedDescription": "Complete the main path of Land of Odd.",
+    "icon": {
+      "value": 1165561,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 999,
+    "trophyToUnlock": 2,
+    "behaviourFlags": 34
+  },
+  {
+    "id": -583020125,
+    "progressType": -583020125,
+    "category": 0,
+    "titleLamsKey": 278162986,
+    "descriptionLamsKey": 186976382,
+    "translatedName": "Ace Land of Odd",
+    "translatedDescription": "Ace the main path of Land of Odd.",
+    "icon": {
+      "value": 1210208,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 999,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1093342026,
+    "progressType": -1093342026,
+    "category": 0,
+    "titleLamsKey": 1538045211,
+    "descriptionLamsKey": 534661903,
+    "translatedName": "Complete Jackpot City",
+    "translatedDescription": "Complete the main path of Jackpot City.",
+    "icon": {
+      "value": 1165562,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 999,
+    "trophyToUnlock": 3,
+    "behaviourFlags": 34
+  },
+  {
+    "id": -2092438040,
+    "progressType": -2092438040,
+    "category": 0,
+    "titleLamsKey": 863205633,
+    "descriptionLamsKey": -1598832675,
+    "translatedName": "Ace Jackpot City",
+    "translatedDescription": "Ace the main path of Jackpot City.",
+    "icon": {
+      "value": 1210205,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 999,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 2084428481,
+    "progressType": 2084428481,
+    "category": 0,
+    "titleLamsKey": 1827445172,
+    "descriptionLamsKey": 1601033618,
+    "translatedName": "Complete Coaster Valley",
+    "translatedDescription": "Complete the main path of Coaster Valley.",
+    "icon": {
+      "value": 1165563,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 999,
+    "trophyToUnlock": 4,
+    "behaviourFlags": 34
+  },
+  {
+    "id": -921106231,
+    "progressType": -921106231,
+    "category": 0,
+    "titleLamsKey": -253991156,
+    "descriptionLamsKey": 216412040,
+    "translatedName": "Ace Coaster Valley",
+    "translatedDescription": "Ace the main path of Coaster Valley.",
+    "icon": {
+      "value": 1210204,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 999,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1810522625,
+    "progressType": 1810522625,
+    "category": 0,
+    "titleLamsKey": -563895948,
+    "descriptionLamsKey": -790307502,
+    "translatedName": "Complete Spooky Mansion",
+    "translatedDescription": "Complete the main path of Spooky Mansion.",
+    "icon": {
+      "value": 1165564,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 999,
+    "trophyToUnlock": 5,
+    "behaviourFlags": 34
+  },
+  {
+    "id": 70315657,
+    "progressType": 70315657,
+    "category": 0,
+    "titleLamsKey": -527897012,
+    "descriptionLamsKey": -57493816,
+    "translatedName": "Ace Spooky Mansion",
+    "translatedDescription": "Ace the main path of Spooky Mansion.",
+    "icon": {
+      "value": 1210210,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 999,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 699011411,
+    "progressType": 699011411,
+    "category": 0,
+    "titleLamsKey": -1391366982,
+    "descriptionLamsKey": -920963786,
+    "translatedName": "Complete Story Mode",
+    "translatedDescription": "Complete the main path of the Story.",
+    "icon": {
+      "value": 122268,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 999,
+    "trophyToUnlock": 6,
+    "behaviourFlags": 16
+  },
+  {
+    "id": -1487059713,
+    "progressType": -1487059713,
+    "category": 0,
+    "titleLamsKey": -1639408226,
+    "descriptionLamsKey": 1394634258,
+    "translatedName": "Aced Story Mode",
+    "translatedDescription": "Ace the main path of the Story.",
+    "icon": {
+      "value": 122610,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 999,
+    "trophyToUnlock": 7,
+    "behaviourFlags": 8
+  },
+  {
+    "id": -380843712,
+    "progressType": 983075891,
+    "category": 0,
+    "titleLamsKey": -744060838,
+    "descriptionLamsKey": 1285839494,
+    "translatedName": "%1 Score Bubbles",
+    "translatedDescription": "Collect %1 Score Bubbles in Story levels.",
+    "icon": {
+      "value": 122280,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1809379793,
+    "progressType": 983075891,
+    "category": 0,
+    "titleLamsKey": -744060838,
+    "descriptionLamsKey": 1285839494,
+    "translatedName": "%1 Score Bubbles",
+    "translatedDescription": "Collect %1 Score Bubbles in Story levels.",
+    "icon": {
+      "value": 122280,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -295363998,
+    "progressType": 983075891,
+    "category": 0,
+    "titleLamsKey": -744060838,
+    "descriptionLamsKey": 1285839494,
+    "translatedName": "%1 Score Bubbles",
+    "translatedDescription": "Collect %1 Score Bubbles in Story levels.",
+    "icon": {
+      "value": 122280,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 1894859507,
+    "progressType": 983075891,
+    "category": 0,
+    "titleLamsKey": -744060838,
+    "descriptionLamsKey": 1285839494,
+    "translatedName": "%1 Score Bubbles",
+    "translatedDescription": "Collect %1 Score Bubbles in Story levels.",
+    "icon": {
+      "value": 122280,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 75000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -209884284,
+    "progressType": 983075891,
+    "category": 0,
+    "titleLamsKey": -744060838,
+    "descriptionLamsKey": 1285839494,
+    "translatedName": "%1 Score Bubbles",
+    "translatedDescription": "Collect %1 Score Bubbles in Story levels.",
+    "icon": {
+      "value": 122280,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 250000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -861961228,
+    "progressType": 501958375,
+    "category": 0,
+    "titleLamsKey": 151042454,
+    "descriptionLamsKey": -2114024510,
+    "translatedName": "%1%% Prize Collector",
+    "translatedDescription": "Find and collect %1%% of the Prize Bubbles in Story levels.",
+    "icon": {
+      "value": 122277,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1328262277,
+    "progressType": 501958375,
+    "category": 0,
+    "titleLamsKey": 151042454,
+    "descriptionLamsKey": -2114024510,
+    "translatedName": "%1%% Prize Collector",
+    "translatedDescription": "Find and collect %1%% of the Prize Bubbles in Story levels.",
+    "icon": {
+      "value": 122277,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 30,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -776481514,
+    "progressType": 501958375,
+    "category": 0,
+    "titleLamsKey": 151042454,
+    "descriptionLamsKey": -2114024510,
+    "translatedName": "%1%% Prize Collector",
+    "translatedDescription": "Find and collect %1%% of the Prize Bubbles in Story levels.",
+    "icon": {
+      "value": 122277,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50,
+    "trophyToUnlock": 9,
+    "behaviourFlags": 160
+  },
+  {
+    "id": 1413741991,
+    "progressType": 501958375,
+    "category": 0,
+    "titleLamsKey": 151042454,
+    "descriptionLamsKey": -2114024510,
+    "translatedName": "%1%% Prize Collector",
+    "translatedDescription": "Find and collect %1%% of the Prize Bubbles in Story levels.",
+    "icon": {
+      "value": 122277,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 70,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -691001800,
+    "progressType": 501958375,
+    "category": 0,
+    "titleLamsKey": 151042454,
+    "descriptionLamsKey": -2114024510,
+    "translatedName": "%1%% Prize Collector",
+    "translatedDescription": "Find and collect %1%% of the Prize Bubbles in Story levels.",
+    "icon": {
+      "value": 122277,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": 46,
+    "behaviourFlags": 528
+  },
+  {
+    "id": -1747198258,
+    "progressType": 56389911,
+    "category": 0,
+    "titleLamsKey": -703677530,
+    "descriptionLamsKey": 1938089890,
+    "translatedName": "Multiplier x%1",
+    "translatedDescription": "Score a x%1 multiplier in a Story level.",
+    "icon": {
+      "value": 122281,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": 11,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 1043765841,
+    "progressType": 56389911,
+    "category": 0,
+    "titleLamsKey": -703677530,
+    "descriptionLamsKey": 1938089890,
+    "translatedName": "Multiplier x%1",
+    "translatedDescription": "Score a x%1 multiplier in a Story level.",
+    "icon": {
+      "value": 122281,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 8,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -460237356,
+    "progressType": 56389911,
+    "category": 0,
+    "titleLamsKey": -703677530,
+    "descriptionLamsKey": 1938089890,
+    "translatedName": "Multiplier x%1",
+    "translatedDescription": "Score a x%1 multiplier in a Story level.",
+    "icon": {
+      "value": 122281,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10,
+    "trophyToUnlock": 12,
+    "behaviourFlags": 160
+  },
+  {
+    "id": -1964240553,
+    "progressType": 56389911,
+    "category": 0,
+    "titleLamsKey": -703677530,
+    "descriptionLamsKey": 1938089890,
+    "translatedName": "Multiplier x%1",
+    "translatedDescription": "Score a x%1 multiplier in a Story level.",
+    "icon": {
+      "value": 122281,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 15,
+    "trophyToUnlock": 44,
+    "behaviourFlags": 272
+  },
+  {
+    "id": 826723546,
+    "progressType": 56389911,
+    "category": 0,
+    "titleLamsKey": -703677530,
+    "descriptionLamsKey": 1938089890,
+    "translatedName": "Multiplier x%1",
+    "translatedDescription": "Score a x%1 multiplier in a Story level.",
+    "icon": {
+      "value": 122281,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 30,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -581883267,
+    "progressType": 191183438,
+    "category": 0,
+    "titleLamsKey": -658058333,
+    "descriptionLamsKey": 1174870655,
+    "translatedName": "Scoreboard %1%%",
+    "translatedDescription": "Place in the top %1%% of a Story Level scoreboard containing more than 50 scores.",
+    "icon": {
+      "value": 122276,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 100,
+    "targetValue": 50,
+    "trophyToUnlock": 13,
+    "behaviourFlags": 33
+  },
+  {
+    "id": 1328207320,
+    "progressType": 191183438,
+    "category": 0,
+    "titleLamsKey": -658058333,
+    "descriptionLamsKey": 1174870655,
+    "translatedName": "Scoreboard %1%%",
+    "translatedDescription": "Place in the top %1%% of a Story Level scoreboard containing more than 50 scores.",
+    "icon": {
+      "value": 122276,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 100,
+    "targetValue": 35,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 65
+  },
+  {
+    "id": -1056669389,
+    "progressType": 191183438,
+    "category": 0,
+    "titleLamsKey": -658058333,
+    "descriptionLamsKey": 1174870655,
+    "translatedName": "Scoreboard %1%%",
+    "translatedDescription": "Place in the top %1%% of a Story Level scoreboard containing more than 50 scores.",
+    "icon": {
+      "value": 122276,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 100,
+    "targetValue": 25,
+    "trophyToUnlock": 14,
+    "behaviourFlags": 145
+  },
+  {
+    "id": 853421198,
+    "progressType": 191183438,
+    "category": 0,
+    "titleLamsKey": -658058333,
+    "descriptionLamsKey": 1174870655,
+    "translatedName": "Scoreboard %1%%",
+    "translatedDescription": "Place in the top %1%% of a Story Level scoreboard containing more than 50 scores.",
+    "icon": {
+      "value": 122276,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 100,
+    "targetValue": 15,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 257
+  },
+  {
+    "id": -1531455511,
+    "progressType": 191183438,
+    "category": 0,
+    "titleLamsKey": -658058333,
+    "descriptionLamsKey": 1174870655,
+    "translatedName": "Scoreboard %1%%",
+    "translatedDescription": "Place in the top %1%% of a Story Level scoreboard containing more than 50 scores.",
+    "icon": {
+      "value": 122276,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 100,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 513
+  },
+  {
+    "id": 63679969,
+    "progressType": -1765196414,
+    "category": 0,
+    "titleLamsKey": 2047414597,
+    "descriptionLamsKey": 1020148713,
+    "translatedName": "%1 Online Story Cooperative Wins",
+    "translatedDescription": "Win %1 Cooperative Story levels against at least one other online player.",
+    "icon": {
+      "value": 122259,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 3,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -929827540,
+    "progressType": -1765196414,
+    "category": 0,
+    "titleLamsKey": 2047414597,
+    "descriptionLamsKey": 1020148713,
+    "translatedName": "%1 Online Story Cooperative Wins",
+    "translatedDescription": "Win %1 Cooperative Story levels against at least one other online player.",
+    "icon": {
+      "value": 122259,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 25,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -1923335049,
+    "progressType": -1765196414,
+    "category": 0,
+    "titleLamsKey": 2047414597,
+    "descriptionLamsKey": 1020148713,
+    "translatedName": "%1 Online Story Cooperative Wins",
+    "translatedDescription": "Win %1 Cooperative Story levels against at least one other online player.",
+    "icon": {
+      "value": 122259,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 1378124738,
+    "progressType": -1765196414,
+    "category": 0,
+    "titleLamsKey": 2047414597,
+    "descriptionLamsKey": 1020148713,
+    "translatedName": "%1 Online Story Cooperative Wins",
+    "translatedDescription": "Win %1 Cooperative Story levels against at least one other online player.",
+    "icon": {
+      "value": 122259,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 275,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 384617229,
+    "progressType": -1765196414,
+    "category": 0,
+    "titleLamsKey": 2047414597,
+    "descriptionLamsKey": 1020148713,
+    "translatedName": "%1 Online Story Cooperative Wins",
+    "translatedDescription": "Win %1 Cooperative Story levels against at least one other online player.",
+    "icon": {
+      "value": 122259,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 500,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 388430316,
+    "progressType": 169261587,
+    "category": 0,
+    "titleLamsKey": -2091731912,
+    "descriptionLamsKey": 2056703100,
+    "translatedName": "%1 Story Cooperative Games",
+    "translatedDescription": "Complete %1 Story Cooperative mode games against at least 1 other player.",
+    "icon": {
+      "value": 122257,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 244204345,
+    "progressType": 169261587,
+    "category": 0,
+    "titleLamsKey": -2091731912,
+    "descriptionLamsKey": 2056703100,
+    "translatedName": "%1 Story Cooperative Games",
+    "translatedDescription": "Complete %1 Story Cooperative mode games against at least 1 other player.",
+    "icon": {
+      "value": 122257,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": 99978374,
+    "progressType": 169261587,
+    "category": 0,
+    "titleLamsKey": -2091731912,
+    "descriptionLamsKey": 2056703100,
+    "translatedName": "%1 Story Cooperative Games",
+    "translatedDescription": "Complete %1 Story Cooperative mode games against at least 1 other player.",
+    "icon": {
+      "value": 122257,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 175,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -44247597,
+    "progressType": 169261587,
+    "category": 0,
+    "titleLamsKey": -2091731912,
+    "descriptionLamsKey": 2056703100,
+    "translatedName": "%1 Story Cooperative Games",
+    "translatedDescription": "Complete %1 Story Cooperative mode games against at least 1 other player.",
+    "icon": {
+      "value": 122257,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 400,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -188473568,
+    "progressType": 169261587,
+    "category": 0,
+    "titleLamsKey": -2091731912,
+    "descriptionLamsKey": 2056703100,
+    "translatedName": "%1 Story Cooperative Games",
+    "translatedDescription": "Complete %1 Story Cooperative mode games against at least 1 other player.",
+    "icon": {
+      "value": 122257,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 750,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 375931813,
+    "progressType": 748145250,
+    "category": 0,
+    "titleLamsKey": -1141485211,
+    "descriptionLamsKey": -689198575,
+    "translatedName": "%1 Online Story Versus Wins",
+    "translatedDescription": "Win %1 Versus Story levels against at least one other online player.",
+    "icon": {
+      "value": 122204,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 3,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 43268004,
+    "progressType": 748145250,
+    "category": 0,
+    "titleLamsKey": -1141485211,
+    "descriptionLamsKey": -689198575,
+    "translatedName": "%1 Online Story Versus Wins",
+    "translatedDescription": "Win %1 Versus Story levels against at least one other online player.",
+    "icon": {
+      "value": 122204,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 25,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -289395805,
+    "progressType": 748145250,
+    "category": 0,
+    "titleLamsKey": -1141485211,
+    "descriptionLamsKey": -689198575,
+    "translatedName": "%1 Online Story Versus Wins",
+    "translatedDescription": "Win %1 Versus Story levels against at least one other online player.",
+    "icon": {
+      "value": 122204,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -622059614,
+    "progressType": 748145250,
+    "category": 0,
+    "titleLamsKey": -1141485211,
+    "descriptionLamsKey": -689198575,
+    "translatedName": "%1 Online Story Versus Wins",
+    "translatedDescription": "Win %1 Versus Story levels against at least one other online player.",
+    "icon": {
+      "value": 122204,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 275,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -954723423,
+    "progressType": 748145250,
+    "category": 0,
+    "titleLamsKey": -1141485211,
+    "descriptionLamsKey": -689198575,
+    "translatedName": "%1 Online Story Versus Wins",
+    "translatedDescription": "Win %1 Versus Story levels against at least one other online player.",
+    "icon": {
+      "value": 122204,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 500,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 1230045518,
+    "progressType": -295380333,
+    "category": 0,
+    "titleLamsKey": 1018774966,
+    "descriptionLamsKey": 772539714,
+    "translatedName": "%1 Story Versus Games",
+    "translatedDescription": "Complete %1 Story Versus mode games against at least 1 other player.",
+    "icon": {
+      "value": 122256,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1078979621,
+    "progressType": -295380333,
+    "category": 0,
+    "titleLamsKey": 1018774966,
+    "descriptionLamsKey": 772539714,
+    "translatedName": "%1 Story Versus Games",
+    "translatedDescription": "Complete %1 Story Versus mode games against at least 1 other player.",
+    "icon": {
+      "value": 122256,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": 927913724,
+    "progressType": -295380333,
+    "category": 0,
+    "titleLamsKey": 1018774966,
+    "descriptionLamsKey": 772539714,
+    "translatedName": "%1 Story Versus Games",
+    "translatedDescription": "Complete %1 Story Versus mode games against at least 1 other player.",
+    "icon": {
+      "value": 122256,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 175,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 776847827,
+    "progressType": -295380333,
+    "category": 0,
+    "titleLamsKey": 1018774966,
+    "descriptionLamsKey": 772539714,
+    "translatedName": "%1 Story Versus Games",
+    "translatedDescription": "Complete %1 Story Versus mode games against at least 1 other player.",
+    "icon": {
+      "value": 122256,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 400,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 625781930,
+    "progressType": -295380333,
+    "category": 0,
+    "titleLamsKey": 1018774966,
+    "descriptionLamsKey": 772539714,
+    "translatedName": "%1 Story Versus Games",
+    "translatedDescription": "Complete %1 Story Versus mode games against at least 1 other player.",
+    "icon": {
+      "value": 122256,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 750,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -615079823,
+    "progressType": -615079823,
+    "category": 0,
+    "titleLamsKey": -284714428,
+    "descriptionLamsKey": -511125982,
+    "translatedName": "Huge Air!",
+    "translatedDescription": "Bounce off 20 different Bouncepads without landing.",
+    "icon": {
+      "value": 122262,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 20,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1661528449,
+    "progressType": -900872524,
+    "category": 0,
+    "titleLamsKey": -317111125,
+    "descriptionLamsKey": -1312635273,
+    "translatedName": "High Achiever %1",
+    "translatedDescription": "Place in the top 25%% of %1 Story level scoreboards (with at least 50 other players in them).",
+    "icon": {
+      "value": 123124,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 2,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 639690662,
+    "progressType": -900872524,
+    "category": 0,
+    "titleLamsKey": -317111125,
+    "descriptionLamsKey": -1312635273,
+    "translatedName": "High Achiever %1",
+    "translatedDescription": "Place in the top 25%% of %1 Story level scoreboards (with at least 50 other players in them).",
+    "icon": {
+      "value": 123124,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 4,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -1354057523,
+    "progressType": -900872524,
+    "category": 0,
+    "titleLamsKey": -317111125,
+    "descriptionLamsKey": -1312635273,
+    "translatedName": "High Achiever %1",
+    "translatedDescription": "Place in the top 25%% of %1 Story level scoreboards (with at least 50 other players in them).",
+    "icon": {
+      "value": 123124,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 6,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 947161588,
+    "progressType": -900872524,
+    "category": 0,
+    "titleLamsKey": -317111125,
+    "descriptionLamsKey": -1312635273,
+    "translatedName": "High Achiever %1",
+    "translatedDescription": "Place in the top 25%% of %1 Story level scoreboards (with at least 50 other players in them).",
+    "icon": {
+      "value": 123124,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 8,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -1046586597,
+    "progressType": -900872524,
+    "category": 0,
+    "titleLamsKey": -317111125,
+    "descriptionLamsKey": -1312635273,
+    "translatedName": "High Achiever %1",
+    "translatedDescription": "Place in the top 25%% of %1 Story level scoreboards (with at least 50 other players in them).",
+    "icon": {
+      "value": 123124,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 451708578,
+    "progressType": 451708578,
+    "category": 0,
+    "titleLamsKey": 1006838463,
+    "descriptionLamsKey": 915651859,
+    "translatedName": "Tired Of Life",
+    "translatedDescription": "Accumulate 20 deaths in one Story level.",
+    "icon": {
+      "value": 124747,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 20,
+    "trophyToUnlock": 16,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -1063495493,
+    "progressType": -1063495493,
+    "category": 0,
+    "titleLamsKey": -1704618702,
+    "descriptionLamsKey": 1586965286,
+    "translatedName": "Ouch!",
+    "translatedDescription": "You\u0027ve died in a Story level.",
+    "icon": {
+      "value": 122270,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 53811281,
+    "progressType": 53811281,
+    "category": 0,
+    "titleLamsKey": -82479900,
+    "descriptionLamsKey": 1620620672,
+    "translatedName": "Just A Flying Visit",
+    "translatedDescription": "Finish the Story in under 3 hours.",
+    "icon": {
+      "value": 1270312,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1586451628,
+    "progressType": -1844218881,
+    "category": 0,
+    "titleLamsKey": -693909682,
+    "descriptionLamsKey": -1954834494,
+    "translatedName": "Born To Skill %1",
+    "translatedDescription": "Earn %1 Skill Rewards in Story Mode.",
+    "icon": {
+      "value": 1270314,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 328193149,
+    "progressType": -1844218881,
+    "category": 0,
+    "titleLamsKey": -693909682,
+    "descriptionLamsKey": -1954834494,
+    "translatedName": "Born To Skill %1",
+    "translatedDescription": "Earn %1 Skill Rewards in Story Mode.",
+    "icon": {
+      "value": 1270314,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -2052129370,
+    "progressType": -1844218881,
+    "category": 0,
+    "titleLamsKey": -693909682,
+    "descriptionLamsKey": -1954834494,
+    "translatedName": "Born To Skill %1",
+    "translatedDescription": "Earn %1 Skill Rewards in Story Mode.",
+    "icon": {
+      "value": 1270314,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 15,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -137484593,
+    "progressType": -1844218881,
+    "category": 0,
+    "titleLamsKey": -693909682,
+    "descriptionLamsKey": -1954834494,
+    "translatedName": "Born To Skill %1",
+    "translatedDescription": "Earn %1 Skill Rewards in Story Mode.",
+    "icon": {
+      "value": 1270314,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 30,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 1777160184,
+    "progressType": -1844218881,
+    "category": 0,
+    "titleLamsKey": -693909682,
+    "descriptionLamsKey": -1954834494,
+    "translatedName": "Born To Skill %1",
+    "translatedDescription": "Earn %1 Skill Rewards in Story Mode.",
+    "icon": {
+      "value": 1270314,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 45,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 1307753007,
+    "progressType": 510577794,
+    "category": 1,
+    "titleLamsKey": 1514411871,
+    "descriptionLamsKey": 1330396275,
+    "translatedName": "U Know U A Playa %1",
+    "translatedDescription": "Actively play community levels for %1 minutes.",
+    "icon": {
+      "value": 122246,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 60,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -522932256,
+    "progressType": 510577794,
+    "category": 1,
+    "titleLamsKey": 1514411871,
+    "descriptionLamsKey": 1330396275,
+    "translatedName": "U Know U A Playa %1",
+    "translatedDescription": "Actively play community levels for %1 minutes.",
+    "icon": {
+      "value": 122246,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 300,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": 1941349777,
+    "progressType": 510577794,
+    "category": 1,
+    "titleLamsKey": 1514411871,
+    "descriptionLamsKey": 1330396275,
+    "translatedName": "U Know U A Playa %1",
+    "translatedDescription": "Actively play community levels for %1 minutes.",
+    "icon": {
+      "value": 122246,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1440,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 110664514,
+    "progressType": 510577794,
+    "category": 1,
+    "titleLamsKey": 1514411871,
+    "descriptionLamsKey": 1330396275,
+    "translatedName": "U Know U A Playa %1",
+    "translatedDescription": "Actively play community levels for %1 minutes.",
+    "icon": {
+      "value": 122246,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 2500,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -1720020749,
+    "progressType": 510577794,
+    "category": 1,
+    "titleLamsKey": 1514411871,
+    "descriptionLamsKey": 1330396275,
+    "translatedName": "U Know U A Playa %1",
+    "translatedDescription": "Actively play community levels for %1 minutes.",
+    "icon": {
+      "value": 122246,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 7500,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -614904058,
+    "progressType": -663798329,
+    "category": 1,
+    "titleLamsKey": -1210627666,
+    "descriptionLamsKey": 121355202,
+    "translatedName": "Ace %1 community levels",
+    "translatedDescription": "Complete %1 unique community levels without being killed.",
+    "icon": {
+      "value": 122205,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1496201393,
+    "progressType": -663798329,
+    "category": 1,
+    "titleLamsKey": -1210627666,
+    "descriptionLamsKey": 121355202,
+    "translatedName": "Ace %1 community levels",
+    "translatedDescription": "Complete %1 unique community levels without being killed.",
+    "icon": {
+      "value": 122205,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 75,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -687660452,
+    "progressType": -663798329,
+    "category": 1,
+    "titleLamsKey": -1210627666,
+    "descriptionLamsKey": 121355202,
+    "translatedName": "Ace %1 community levels",
+    "translatedDescription": "Complete %1 unique community levels without being killed.",
+    "icon": {
+      "value": 122205,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 250,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 1423444999,
+    "progressType": -663798329,
+    "category": 1,
+    "titleLamsKey": -1210627666,
+    "descriptionLamsKey": 121355202,
+    "translatedName": "Ace %1 community levels",
+    "translatedDescription": "Complete %1 unique community levels without being killed.",
+    "icon": {
+      "value": 122205,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 650,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -760416846,
+    "progressType": -663798329,
+    "category": 1,
+    "titleLamsKey": -1210627666,
+    "descriptionLamsKey": 121355202,
+    "translatedName": "Ace %1 community levels",
+    "translatedDescription": "Complete %1 unique community levels without being killed.",
+    "icon": {
+      "value": 122205,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1500,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 2082209505,
+    "progressType": 2033315234,
+    "category": 1,
+    "titleLamsKey": -194826305,
+    "descriptionLamsKey": -868280101,
+    "translatedName": "Community Scoreboard %1%%",
+    "translatedDescription": "Place in the top %1%% of a community level scoreboard containing more than 50 other scores.",
+    "icon": {
+      "value": 122207,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 100,
+    "targetValue": 40,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 1
+  },
+  {
+    "id": -101652340,
+    "progressType": 2033315234,
+    "category": 1,
+    "titleLamsKey": -194826305,
+    "descriptionLamsKey": -868280101,
+    "translatedName": "Community Scoreboard %1%%",
+    "translatedDescription": "Place in the top %1%% of a community level scoreboard containing more than 50 other scores.",
+    "icon": {
+      "value": 122207,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 100,
+    "targetValue": 30,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 65
+  },
+  {
+    "id": 2009453111,
+    "progressType": 2033315234,
+    "category": 1,
+    "titleLamsKey": -194826305,
+    "descriptionLamsKey": -868280101,
+    "translatedName": "Community Scoreboard %1%%",
+    "translatedDescription": "Place in the top %1%% of a community level scoreboard containing more than 50 other scores.",
+    "icon": {
+      "value": 122207,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 100,
+    "targetValue": 20,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 129
+  },
+  {
+    "id": -174408734,
+    "progressType": 2033315234,
+    "category": 1,
+    "titleLamsKey": -194826305,
+    "descriptionLamsKey": -868280101,
+    "translatedName": "Community Scoreboard %1%%",
+    "translatedDescription": "Place in the top %1%% of a community level scoreboard containing more than 50 other scores.",
+    "icon": {
+      "value": 122207,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 100,
+    "targetValue": 10,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 257
+  },
+  {
+    "id": 1936696717,
+    "progressType": 2033315234,
+    "category": 1,
+    "titleLamsKey": -194826305,
+    "descriptionLamsKey": -868280101,
+    "translatedName": "Community Scoreboard %1%%",
+    "translatedDescription": "Place in the top %1%% of a community level scoreboard containing more than 50 other scores.",
+    "icon": {
+      "value": 122207,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 100,
+    "targetValue": 2,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 513
+  },
+  {
+    "id": -1864871163,
+    "progressType": 1109950816,
+    "category": 1,
+    "titleLamsKey": -622293975,
+    "descriptionLamsKey": -1625677283,
+    "translatedName": "Complete %1 Community Levels",
+    "translatedDescription": "Complete %1 unique community levels.",
+    "icon": {
+      "value": 122254,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 25,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -699598834,
+    "progressType": 1109950816,
+    "category": 1,
+    "titleLamsKey": -622293975,
+    "descriptionLamsKey": -1625677283,
+    "translatedName": "Complete %1 Community Levels",
+    "translatedDescription": "Complete %1 unique community levels.",
+    "icon": {
+      "value": 122254,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 150,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": 465673495,
+    "progressType": 1109950816,
+    "category": 1,
+    "titleLamsKey": -622293975,
+    "descriptionLamsKey": -1625677283,
+    "translatedName": "Complete %1 Community Levels",
+    "translatedDescription": "Complete %1 unique community levels.",
+    "icon": {
+      "value": 122254,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 425,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 1630945824,
+    "progressType": 1109950816,
+    "category": 1,
+    "titleLamsKey": -622293975,
+    "descriptionLamsKey": -1625677283,
+    "translatedName": "Complete %1 Community Levels",
+    "translatedDescription": "Complete %1 unique community levels.",
+    "icon": {
+      "value": 122254,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 950,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -1498749143,
+    "progressType": 1109950816,
+    "category": 1,
+    "titleLamsKey": -622293975,
+    "descriptionLamsKey": -1625677283,
+    "translatedName": "Complete %1 Community Levels",
+    "translatedDescription": "Complete %1 unique community levels.",
+    "icon": {
+      "value": 122254,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 2000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -116836085,
+    "progressType": 1524408084,
+    "category": 1,
+    "titleLamsKey": -1114825115,
+    "descriptionLamsKey": 700748371,
+    "translatedName": "Complete %1 Cooperative Levels",
+    "translatedDescription": "Complete %1 unique Cooperative community levels.",
+    "icon": {
+      "value": 123127,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 25,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -831081010,
+    "progressType": 1524408084,
+    "category": 1,
+    "titleLamsKey": -1114825115,
+    "descriptionLamsKey": 700748371,
+    "translatedName": "Complete %1 Cooperative Levels",
+    "translatedDescription": "Complete %1 unique Cooperative community levels.",
+    "icon": {
+      "value": 123127,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 75,
+    "trophyToUnlock": 19,
+    "behaviourFlags": 80
+  },
+  {
+    "id": -1545325935,
+    "progressType": 1524408084,
+    "category": 1,
+    "titleLamsKey": -1114825115,
+    "descriptionLamsKey": 700748371,
+    "translatedName": "Complete %1 Cooperative Levels",
+    "translatedDescription": "Complete %1 unique Cooperative community levels.",
+    "icon": {
+      "value": 123127,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 250,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 2035396436,
+    "progressType": 1524408084,
+    "category": 1,
+    "titleLamsKey": -1114825115,
+    "descriptionLamsKey": 700748371,
+    "translatedName": "Complete %1 Cooperative Levels",
+    "translatedDescription": "Complete %1 unique Cooperative community levels.",
+    "icon": {
+      "value": 123127,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 650,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 1321151511,
+    "progressType": 1524408084,
+    "category": 1,
+    "titleLamsKey": -1114825115,
+    "descriptionLamsKey": 700748371,
+    "translatedName": "Complete %1 Cooperative Levels",
+    "translatedDescription": "Complete %1 unique Cooperative community levels.",
+    "icon": {
+      "value": 123127,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 2000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -355103563,
+    "progressType": -2045478598,
+    "category": 1,
+    "titleLamsKey": 1054928095,
+    "descriptionLamsKey": 1497417579,
+    "translatedName": "Complete %1 Versus Levels",
+    "translatedDescription": "Complete %1 unique Versus community levels.",
+    "icon": {
+      "value": 122250,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 127550284,
+    "progressType": -2045478598,
+    "category": 1,
+    "titleLamsKey": 1054928095,
+    "descriptionLamsKey": 1497417579,
+    "translatedName": "Complete %1 Versus Levels",
+    "translatedDescription": "Complete %1 unique Versus community levels.",
+    "icon": {
+      "value": 122250,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 75,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": 610204131,
+    "progressType": -2045478598,
+    "category": 1,
+    "titleLamsKey": 1054928095,
+    "descriptionLamsKey": 1497417579,
+    "translatedName": "Complete %1 Versus Levels",
+    "translatedDescription": "Complete %1 unique Versus community levels.",
+    "icon": {
+      "value": 122250,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 250,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 1092857978,
+    "progressType": -2045478598,
+    "category": 1,
+    "titleLamsKey": 1054928095,
+    "descriptionLamsKey": 1497417579,
+    "translatedName": "Complete %1 Versus Levels",
+    "translatedDescription": "Complete %1 unique Versus community levels.",
+    "icon": {
+      "value": 122250,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 650,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 1575511825,
+    "progressType": -2045478598,
+    "category": 1,
+    "titleLamsKey": 1054928095,
+    "descriptionLamsKey": 1497417579,
+    "translatedName": "Complete %1 Versus Levels",
+    "translatedDescription": "Complete %1 unique Versus community levels.",
+    "icon": {
+      "value": 122250,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1375,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -1777836404,
+    "progressType": -1777836404,
+    "category": 1,
+    "titleLamsKey": -536504947,
+    "descriptionLamsKey": -969075103,
+    "translatedName": "Time Well Spent",
+    "translatedDescription": "Play LittleBigPlanet™ PlayStation®Vita on every day of the week.",
+    "icon": {
+      "value": 124756,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 24,
+    "behaviourFlags": 16
+  },
+  {
+    "id": 1402841543,
+    "progressType": 1402841543,
+    "category": 1,
+    "titleLamsKey": 1321717046,
+    "descriptionLamsKey": -331482830,
+    "translatedName": "Who Needs Breakfast?",
+    "translatedDescription": "Play LittleBigPlanet™ PlayStation®Vita before 9am.",
+    "icon": {
+      "value": 124755,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 2011140081,
+    "progressType": 2011140081,
+    "category": 1,
+    "titleLamsKey": -1045777212,
+    "descriptionLamsKey": -1229792808,
+    "translatedName": "Too Cool For School",
+    "translatedDescription": "Play LittleBigPlanet™ PlayStation®Vita between 8\u0026nbsp;AM and 3\u0026nbsp;PM.",
+    "icon": {
+      "value": 1270315,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1198208815,
+    "progressType": -1198208815,
+    "category": 1,
+    "titleLamsKey": -1947387292,
+    "descriptionLamsKey": -2038573896,
+    "translatedName": "Under The Thumb",
+    "translatedDescription": "Squash yourself or a friend with a Touchable object.",
+    "icon": {
+      "value": 1270316,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1671022190,
+    "progressType": -1671022190,
+    "category": 1,
+    "titleLamsKey": -983053041,
+    "descriptionLamsKey": 1500883139,
+    "translatedName": "Christmas Elf",
+    "translatedDescription": "Play LittleBigPlanet™ PlayStation®Vita on Christmas Day.",
+    "icon": {
+      "value": 124758,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1011401741,
+    "progressType": 1478789882,
+    "category": 1,
+    "titleLamsKey": 333598689,
+    "descriptionLamsKey": 445967821,
+    "translatedName": "%1 Online Versus Wins",
+    "translatedDescription": "Win %1 Versus Community levels against at least one other online player.",
+    "icon": {
+      "value": 122249,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -732079076,
+    "progressType": 1478789882,
+    "category": 1,
+    "titleLamsKey": 333598689,
+    "descriptionLamsKey": 445967821,
+    "translatedName": "%1 Online Versus Wins",
+    "translatedDescription": "Win %1 Versus Community levels against at least one other online player.",
+    "icon": {
+      "value": 122249,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 25,
+    "trophyToUnlock": 22,
+    "behaviourFlags": 96
+  },
+  {
+    "id": 1819407403,
+    "progressType": 1478789882,
+    "category": 1,
+    "titleLamsKey": 333598689,
+    "descriptionLamsKey": 445967821,
+    "translatedName": "%1 Online Versus Wins",
+    "translatedDescription": "Win %1 Versus Community levels against at least one other online player.",
+    "icon": {
+      "value": 122249,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 75926586,
+    "progressType": 1478789882,
+    "category": 1,
+    "titleLamsKey": 333598689,
+    "descriptionLamsKey": 445967821,
+    "translatedName": "%1 Online Versus Wins",
+    "translatedDescription": "Win %1 Versus Community levels against at least one other online player.",
+    "icon": {
+      "value": 122249,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 275,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -1667554231,
+    "progressType": 1478789882,
+    "category": 1,
+    "titleLamsKey": 333598689,
+    "descriptionLamsKey": 445967821,
+    "translatedName": "%1 Online Versus Wins",
+    "translatedDescription": "Win %1 Versus Community levels against at least one other online player.",
+    "icon": {
+      "value": 122249,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 550,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 2071781551,
+    "progressType": -376917874,
+    "category": 1,
+    "titleLamsKey": 957547487,
+    "descriptionLamsKey": -1253084093,
+    "translatedName": "%1 Online Cooperative Wins",
+    "translatedDescription": "Win %1 Cooperative community levels against at least one other online player.",
+    "icon": {
+      "value": 122253,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -137362460,
+    "progressType": -376917874,
+    "category": 1,
+    "titleLamsKey": 957547487,
+    "descriptionLamsKey": -1253084093,
+    "translatedName": "%1 Online Cooperative Wins",
+    "translatedDescription": "Win %1 Cooperative community levels against at least one other online player.",
+    "icon": {
+      "value": 122253,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 25,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": 1948460825,
+    "progressType": -376917874,
+    "category": 1,
+    "titleLamsKey": 957547487,
+    "descriptionLamsKey": -1253084093,
+    "translatedName": "%1 Online Cooperative Wins",
+    "translatedDescription": "Win %1 Cooperative community levels against at least one other online player.",
+    "icon": {
+      "value": 122253,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -260683186,
+    "progressType": -376917874,
+    "category": 1,
+    "titleLamsKey": 957547487,
+    "descriptionLamsKey": -1253084093,
+    "translatedName": "%1 Online Cooperative Wins",
+    "translatedDescription": "Win %1 Cooperative community levels against at least one other online player.",
+    "icon": {
+      "value": 122253,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 275,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 1825140099,
+    "progressType": -376917874,
+    "category": 1,
+    "titleLamsKey": 957547487,
+    "descriptionLamsKey": -1253084093,
+    "translatedName": "%1 Online Cooperative Wins",
+    "translatedDescription": "Win %1 Cooperative community levels against at least one other online player.",
+    "icon": {
+      "value": 122253,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 550,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -978489068,
+    "progressType": -1008897333,
+    "category": 1,
+    "titleLamsKey": -109544376,
+    "descriptionLamsKey": -1321041844,
+    "translatedName": "%1 Cooperative Games",
+    "translatedDescription": "Complete %1 community Cooperative mode games against at least 1 other player.",
+    "icon": {
+      "value": 122251,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -586378863,
+    "progressType": -1008897333,
+    "category": 1,
+    "titleLamsKey": -109544376,
+    "descriptionLamsKey": -1321041844,
+    "translatedName": "%1 Cooperative Games",
+    "translatedDescription": "Complete %1 community Cooperative mode games against at least 1 other player.",
+    "icon": {
+      "value": 122251,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -194268658,
+    "progressType": -1008897333,
+    "category": 1,
+    "titleLamsKey": -109544376,
+    "descriptionLamsKey": -1321041844,
+    "translatedName": "%1 Cooperative Games",
+    "translatedDescription": "Complete %1 community Cooperative mode games against at least 1 other player.",
+    "icon": {
+      "value": 122251,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 175,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 197841547,
+    "progressType": -1008897333,
+    "category": 1,
+    "titleLamsKey": -109544376,
+    "descriptionLamsKey": -1321041844,
+    "translatedName": "%1 Cooperative Games",
+    "translatedDescription": "Complete %1 community Cooperative mode games against at least 1 other player.",
+    "icon": {
+      "value": 122251,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 400,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 589951752,
+    "progressType": -1008897333,
+    "category": 1,
+    "titleLamsKey": -109544376,
+    "descriptionLamsKey": -1321041844,
+    "translatedName": "%1 Cooperative Games",
+    "translatedDescription": "Complete %1 community Cooperative mode games against at least 1 other player.",
+    "icon": {
+      "value": 122251,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 750,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 1869197018,
+    "progressType": 1869197018,
+    "category": 1,
+    "titleLamsKey": 470278695,
+    "descriptionLamsKey": -1340752421,
+    "translatedName": "Double 11",
+    "translatedDescription": "Play LittleBigPlanet™ PlayStation®Vita at 11 minutes past 11.",
+    "icon": {
+      "value": 124496,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 27,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -447496774,
+    "progressType": -447496774,
+    "category": 1,
+    "titleLamsKey": 1370216903,
+    "descriptionLamsKey": 109292091,
+    "translatedName": "Slapper",
+    "translatedDescription": "Slap a player.",
+    "icon": {
+      "value": 124499,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 753231045,
+    "progressType": 753231045,
+    "category": 1,
+    "titleLamsKey": 718475616,
+    "descriptionLamsKey": -674038238,
+    "translatedName": "Turbo Slapper",
+    "translatedDescription": "Slap more than one player at once.",
+    "icon": {
+      "value": 124494,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1157565082,
+    "progressType": 1157565082,
+    "category": 1,
+    "titleLamsKey": -1280263321,
+    "descriptionLamsKey": 1361504099,
+    "translatedName": "%1 in a row",
+    "translatedDescription": "Create a chain of %1 players all hanging together.",
+    "icon": {
+      "value": 124495,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 4,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 276715165,
+    "progressType": 1700253570,
+    "category": 1,
+    "titleLamsKey": -1173428321,
+    "descriptionLamsKey": -860709717,
+    "translatedName": "Actually Quite Good %1",
+    "translatedDescription": "Place in the top 25%% of %1 community level scoreboards (with at least 50 other players in them).",
+    "icon": {
+      "value": 122206,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 589519188,
+    "progressType": 1700253570,
+    "category": 1,
+    "titleLamsKey": -1173428321,
+    "descriptionLamsKey": -860709717,
+    "translatedName": "Actually Quite Good %1",
+    "translatedDescription": "Place in the top 25%% of %1 community level scoreboards (with at least 50 other players in them).",
+    "icon": {
+      "value": 122206,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 25,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": 902323211,
+    "progressType": 1700253570,
+    "category": 1,
+    "titleLamsKey": -1173428321,
+    "descriptionLamsKey": -860709717,
+    "translatedName": "Actually Quite Good %1",
+    "translatedDescription": "Place in the top 25%% of %1 community level scoreboards (with at least 50 other players in them).",
+    "icon": {
+      "value": 122206,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 1215127234,
+    "progressType": 1700253570,
+    "category": 1,
+    "titleLamsKey": -1173428321,
+    "descriptionLamsKey": -860709717,
+    "translatedName": "Actually Quite Good %1",
+    "translatedDescription": "Place in the top 25%% of %1 community level scoreboards (with at least 50 other players in them).",
+    "icon": {
+      "value": 122206,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 275,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 1527931257,
+    "progressType": 1700253570,
+    "category": 1,
+    "titleLamsKey": -1173428321,
+    "descriptionLamsKey": -860709717,
+    "translatedName": "Actually Quite Good %1",
+    "translatedDescription": "Place in the top 25%% of %1 community level scoreboards (with at least 50 other players in them).",
+    "icon": {
+      "value": 122206,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 550,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 1963684316,
+    "progressType": 1166509103,
+    "category": 1,
+    "titleLamsKey": 2022467246,
+    "descriptionLamsKey": 1838451650,
+    "translatedName": "%1 Races",
+    "translatedDescription": "Complete %1 races",
+    "icon": {
+      "value": 124775,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 132999053,
+    "progressType": 1166509103,
+    "category": 1,
+    "titleLamsKey": 2022467246,
+    "descriptionLamsKey": 1838451650,
+    "translatedName": "%1 Races",
+    "translatedDescription": "Complete %1 races",
+    "icon": {
+      "value": 124775,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 25,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -1697686210,
+    "progressType": 1166509103,
+    "category": 1,
+    "titleLamsKey": 2022467246,
+    "descriptionLamsKey": 1838451650,
+    "translatedName": "%1 Races",
+    "translatedDescription": "Complete %1 races",
+    "icon": {
+      "value": 124775,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 766595823,
+    "progressType": 1166509103,
+    "category": 1,
+    "titleLamsKey": 2022467246,
+    "descriptionLamsKey": 1838451650,
+    "translatedName": "%1 Races",
+    "translatedDescription": "Complete %1 races",
+    "icon": {
+      "value": 124775,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 275,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -1064089440,
+    "progressType": 1166509103,
+    "category": 1,
+    "titleLamsKey": 2022467246,
+    "descriptionLamsKey": 1838451650,
+    "translatedName": "%1 Races",
+    "translatedDescription": "Complete %1 races",
+    "icon": {
+      "value": 124775,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 550,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -1653662413,
+    "progressType": -215054612,
+    "category": 1,
+    "titleLamsKey": 1122186669,
+    "descriptionLamsKey": 1436955113,
+    "translatedName": "Win %1 Races",
+    "translatedDescription": "Win %1 races against at least one other player.",
+    "icon": {
+      "value": 124776,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 3,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1497860986,
+    "progressType": -215054612,
+    "category": 1,
+    "titleLamsKey": 1122186669,
+    "descriptionLamsKey": 1436955113,
+    "translatedName": "Win %1 Races",
+    "translatedDescription": "Win %1 races against at least one other player.",
+    "icon": {
+      "value": 124776,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -1342059559,
+    "progressType": -215054612,
+    "category": 1,
+    "titleLamsKey": 1122186669,
+    "descriptionLamsKey": 1436955113,
+    "translatedName": "Win %1 Races",
+    "translatedDescription": "Win %1 races against at least one other player.",
+    "icon": {
+      "value": 124776,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -1186258132,
+    "progressType": -215054612,
+    "category": 1,
+    "titleLamsKey": 1122186669,
+    "descriptionLamsKey": 1436955113,
+    "translatedName": "Win %1 Races",
+    "translatedDescription": "Win %1 races against at least one other player.",
+    "icon": {
+      "value": 124776,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 175,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -1030456705,
+    "progressType": -215054612,
+    "category": 1,
+    "titleLamsKey": 1122186669,
+    "descriptionLamsKey": 1436955113,
+    "translatedName": "Win %1 Races",
+    "translatedDescription": "Win %1 races against at least one other player.",
+    "icon": {
+      "value": 124776,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 400,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -23004494,
+    "progressType": -23004494,
+    "category": 1,
+    "titleLamsKey": -741948049,
+    "descriptionLamsKey": -271544853,
+    "translatedName": "Slow Coach",
+    "translatedDescription": "Come last in a race with more than one player.",
+    "icon": {
+      "value": 124774,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1846856863,
+    "progressType": -288165222,
+    "category": 1,
+    "titleLamsKey": -657940365,
+    "descriptionLamsKey": 1670651839,
+    "translatedName": "Sticker Smart %1",
+    "translatedDescription": "Activate %1 Sticker Sensors.",
+    "icon": {
+      "value": 125481,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 2,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 791957896,
+    "progressType": -288165222,
+    "category": 1,
+    "titleLamsKey": -657940365,
+    "descriptionLamsKey": 1670651839,
+    "translatedName": "Sticker Smart %1",
+    "translatedDescription": "Activate %1 Sticker Sensors.",
+    "icon": {
+      "value": 125481,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -262941071,
+    "progressType": -288165222,
+    "category": 1,
+    "titleLamsKey": -657940365,
+    "descriptionLamsKey": 1670651839,
+    "translatedName": "Sticker Smart %1",
+    "translatedDescription": "Activate %1 Sticker Sensors.",
+    "icon": {
+      "value": 125481,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 25,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -1317840038,
+    "progressType": -288165222,
+    "category": 1,
+    "titleLamsKey": -657940365,
+    "descriptionLamsKey": 1670651839,
+    "translatedName": "Sticker Smart %1",
+    "translatedDescription": "Activate %1 Sticker Sensors.",
+    "icon": {
+      "value": 125481,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 1922228291,
+    "progressType": -288165222,
+    "category": 1,
+    "titleLamsKey": -657940365,
+    "descriptionLamsKey": 1670651839,
+    "translatedName": "Sticker Smart %1",
+    "translatedDescription": "Activate %1 Sticker Sensors.",
+    "icon": {
+      "value": 125481,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 1600196991,
+    "progressType": 1600196991,
+    "category": 1,
+    "titleLamsKey": 1144002334,
+    "descriptionLamsKey": -248511520,
+    "translatedName": "Community Ouch!",
+    "translatedDescription": "You\u0027ve died in a Community Level.",
+    "icon": {
+      "value": 124773,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 43465812,
+    "progressType": -515035849,
+    "category": 1,
+    "titleLamsKey": 1634527886,
+    "descriptionLamsKey": -1628804614,
+    "translatedName": "%1 Community Bubbles",
+    "translatedDescription": "Collect %1 Score Bubbles in Community levels.",
+    "icon": {
+      "value": 124754,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -515572925,
+    "progressType": -515035849,
+    "category": 1,
+    "titleLamsKey": 1634527886,
+    "descriptionLamsKey": -1628804614,
+    "translatedName": "%1 Community Bubbles",
+    "translatedDescription": "Collect %1 Score Bubbles in Community levels.",
+    "icon": {
+      "value": 124754,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 4000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -1074611662,
+    "progressType": -515035849,
+    "category": 1,
+    "titleLamsKey": 1634527886,
+    "descriptionLamsKey": -1628804614,
+    "translatedName": "%1 Community Bubbles",
+    "translatedDescription": "Collect %1 Score Bubbles in Community levels.",
+    "icon": {
+      "value": 124754,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 16000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -1633650399,
+    "progressType": -515035849,
+    "category": 1,
+    "titleLamsKey": 1634527886,
+    "descriptionLamsKey": -1628804614,
+    "translatedName": "%1 Community Bubbles",
+    "translatedDescription": "Collect %1 Score Bubbles in Community levels.",
+    "icon": {
+      "value": 124754,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 60000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 2102278160,
+    "progressType": -515035849,
+    "category": 1,
+    "titleLamsKey": 1634527886,
+    "descriptionLamsKey": -1628804614,
+    "translatedName": "%1 Community Bubbles",
+    "translatedDescription": "Collect %1 Score Bubbles in Community levels.",
+    "icon": {
+      "value": 124754,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 250000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -1832256568,
+    "progressType": 1904209067,
+    "category": 1,
+    "titleLamsKey": -1469671414,
+    "descriptionLamsKey": -438036618,
+    "translatedName": "%1 Community Surprises",
+    "translatedDescription": "Collect %1 Prize Bubbles from community levels. And I\u0027m sure they\u0027re all wonderful!",
+    "icon": {
+      "value": 122208,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 25,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1903671991,
+    "progressType": 1904209067,
+    "category": 1,
+    "titleLamsKey": -1469671414,
+    "descriptionLamsKey": -438036618,
+    "translatedName": "%1 Community Surprises",
+    "translatedDescription": "Collect %1 Prize Bubbles from community levels. And I\u0027m sure they\u0027re all wonderful!",
+    "icon": {
+      "value": 122208,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 150,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": 1344633254,
+    "progressType": 1904209067,
+    "category": 1,
+    "titleLamsKey": -1469671414,
+    "descriptionLamsKey": -438036618,
+    "translatedName": "%1 Community Surprises",
+    "translatedDescription": "Collect %1 Prize Bubbles from community levels. And I\u0027m sure they\u0027re all wonderful!",
+    "icon": {
+      "value": 122208,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 425,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 785594517,
+    "progressType": 1904209067,
+    "category": 1,
+    "titleLamsKey": -1469671414,
+    "descriptionLamsKey": -438036618,
+    "translatedName": "%1 Community Surprises",
+    "translatedDescription": "Collect %1 Prize Bubbles from community levels. And I\u0027m sure they\u0027re all wonderful!",
+    "icon": {
+      "value": 122208,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 950,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 226555780,
+    "progressType": 1904209067,
+    "category": 1,
+    "titleLamsKey": -1469671414,
+    "descriptionLamsKey": -438036618,
+    "translatedName": "%1 Community Surprises",
+    "translatedDescription": "Collect %1 Prize Bubbles from community levels. And I\u0027m sure they\u0027re all wonderful!",
+    "icon": {
+      "value": 122208,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 2000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 823783865,
+    "progressType": -1615459940,
+    "category": 1,
+    "titleLamsKey": -1024379587,
+    "descriptionLamsKey": -1456949743,
+    "translatedName": "Dive in %1",
+    "translatedDescription": "Dive in to %1 levels with other players online (and don\u0027t leave immediately after joining!)",
+    "icon": {
+      "value": 122245,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 25,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -214521190,
+    "progressType": -1615459940,
+    "category": 1,
+    "titleLamsKey": -1024379587,
+    "descriptionLamsKey": -1456949743,
+    "translatedName": "Dive in %1",
+    "translatedDescription": "Dive in to %1 levels with other players online (and don\u0027t leave immediately after joining!)",
+    "icon": {
+      "value": 122245,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -1252826245,
+    "progressType": -1615459940,
+    "category": 1,
+    "titleLamsKey": -1024379587,
+    "descriptionLamsKey": -1456949743,
+    "translatedName": "Dive in %1",
+    "translatedDescription": "Dive in to %1 levels with other players online (and don\u0027t leave immediately after joining!)",
+    "icon": {
+      "value": 122245,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 75,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 2003835996,
+    "progressType": -1615459940,
+    "category": 1,
+    "titleLamsKey": -1024379587,
+    "descriptionLamsKey": -1456949743,
+    "translatedName": "Dive in %1",
+    "translatedDescription": "Dive in to %1 levels with other players online (and don\u0027t leave immediately after joining!)",
+    "icon": {
+      "value": 122245,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 965530941,
+    "progressType": -1615459940,
+    "category": 1,
+    "titleLamsKey": -1024379587,
+    "descriptionLamsKey": -1456949743,
+    "translatedName": "Dive in %1",
+    "translatedDescription": "Dive in to %1 levels with other players online (and don\u0027t leave immediately after joining!)",
+    "icon": {
+      "value": 122245,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 150,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 2029671630,
+    "progressType": 2029671630,
+    "category": 1,
+    "titleLamsKey": 707127075,
+    "descriptionLamsKey": -1557939889,
+    "translatedName": "Explodinator",
+    "translatedDescription": "Kill another player with explosives.",
+    "icon": {
+      "value": 125474,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1958003294,
+    "progressType": 1958003294,
+    "category": 1,
+    "titleLamsKey": -381431213,
+    "descriptionLamsKey": -607842767,
+    "translatedName": "Play With Fire",
+    "translatedDescription": "Fall into Fire without dying.",
+    "icon": {
+      "value": 125478,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1858489148,
+    "progressType": 1858489148,
+    "category": 1,
+    "titleLamsKey": 1608366911,
+    "descriptionLamsKey": -1654965589,
+    "translatedName": "Swoosh!",
+    "translatedDescription": "Throw another player using the Grabinators.",
+    "icon": {
+      "value": 125469,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -468953379,
+    "progressType": -468953379,
+    "category": 1,
+    "titleLamsKey": -1318784664,
+    "descriptionLamsKey": -1992238460,
+    "translatedName": "I\u0027m Innocent!",
+    "translatedDescription": "Hold onto another player and kill them by dragging them into something Lethal.",
+    "icon": {
+      "value": 125482,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -468776379,
+    "progressType": -468776379,
+    "category": 1,
+    "titleLamsKey": 112082400,
+    "descriptionLamsKey": -561371396,
+    "translatedName": "Oops!",
+    "translatedDescription": "Slap another player to their death.",
+    "icon": {
+      "value": 125472,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -61207129,
+    "progressType": -61207129,
+    "category": 1,
+    "titleLamsKey": -122729514,
+    "descriptionLamsKey": 2121712906,
+    "translatedName": "Color Co-ordination",
+    "translatedDescription": "All players in a game are wearing the same Costume.",
+    "icon": {
+      "value": 125471,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1441043796,
+    "progressType": 1441043796,
+    "category": 1,
+    "titleLamsKey": -483816667,
+    "descriptionLamsKey": -130914791,
+    "translatedName": "Deep Blue",
+    "translatedDescription": "Drown!",
+    "icon": {
+      "value": 125473,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1990595250,
+    "progressType": 1990595250,
+    "category": 1,
+    "titleLamsKey": 1050135919,
+    "descriptionLamsKey": -636587773,
+    "translatedName": "Group Photo",
+    "translatedDescription": "Take a group photo.",
+    "icon": {
+      "value": 125476,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1213428507,
+    "progressType": -1213428507,
+    "category": 1,
+    "titleLamsKey": -1690364224,
+    "descriptionLamsKey": 142564764,
+    "translatedName": "Gotcha!",
+    "translatedDescription": "Grapple another player.",
+    "icon": {
+      "value": 125475,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1468100894,
+    "progressType": -1468100894,
+    "category": 1,
+    "titleLamsKey": 2052658559,
+    "descriptionLamsKey": -1927540293,
+    "translatedName": "Popper",
+    "translatedDescription": "Pop yourself to Retry. It\u0027s really not too bad...",
+    "icon": {
+      "value": 125479,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -224086378,
+    "progressType": 548980327,
+    "category": 1,
+    "titleLamsKey": 174851094,
+    "descriptionLamsKey": 2007780082,
+    "translatedName": "%1 Different Multipliers",
+    "translatedDescription": "Achieve any score multiplier %1 times.",
+    "icon": {
+      "value": 122244,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 25,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1686004209,
+    "progressType": 548980327,
+    "category": 1,
+    "titleLamsKey": 174851094,
+    "descriptionLamsKey": 2007780082,
+    "translatedName": "%1 Different Multipliers",
+    "translatedDescription": "Achieve any score multiplier %1 times.",
+    "icon": {
+      "value": 122244,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 150,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -698872500,
+    "progressType": 548980327,
+    "category": 1,
+    "titleLamsKey": 174851094,
+    "descriptionLamsKey": 2007780082,
+    "translatedName": "%1 Different Multipliers",
+    "translatedDescription": "Achieve any score multiplier %1 times.",
+    "icon": {
+      "value": 122244,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 425,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 1211218087,
+    "progressType": 548980327,
+    "category": 1,
+    "titleLamsKey": 174851094,
+    "descriptionLamsKey": 2007780082,
+    "translatedName": "%1 Different Multipliers",
+    "translatedDescription": "Achieve any score multiplier %1 times.",
+    "icon": {
+      "value": 122244,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 950,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -1173658622,
+    "progressType": 548980327,
+    "category": 1,
+    "titleLamsKey": 174851094,
+    "descriptionLamsKey": 2007780082,
+    "translatedName": "%1 Different Multipliers",
+    "translatedDescription": "Achieve any score multiplier %1 times.",
+    "icon": {
+      "value": 122244,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 2000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -1650319787,
+    "progressType": -1650319787,
+    "category": 2,
+    "titleLamsKey": -1245790064,
+    "descriptionLamsKey": 1788252420,
+    "translatedName": "Sticky!",
+    "translatedDescription": "Place a Sticker in a level, on your Sackboy, or on your Pod.",
+    "icon": {
+      "value": 122216,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -2035787424,
+    "progressType": -2035787424,
+    "category": 2,
+    "titleLamsKey": 1183306793,
+    "descriptionLamsKey": 1498075237,
+    "translatedName": "Fashionista",
+    "translatedDescription": "Choose a costume including a base material, a head piece and a body piece for your Sackboy.",
+    "icon": {
+      "value": 122212,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 29,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 476065977,
+    "progressType": 1928306284,
+    "category": 2,
+    "titleLamsKey": 869206061,
+    "descriptionLamsKey": -817517631,
+    "translatedName": "%1 minutes of Create",
+    "translatedDescription": "Spend %1 active minutes in Create mode.",
+    "icon": {
+      "value": 122239,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10,
+    "trophyToUnlock": 30,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -1477314678,
+    "progressType": 1928306284,
+    "category": 2,
+    "titleLamsKey": 869206061,
+    "descriptionLamsKey": -817517631,
+    "translatedName": "%1 minutes of Create",
+    "translatedDescription": "Spend %1 active minutes in Create mode.",
+    "icon": {
+      "value": 122239,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 120,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": 864271963,
+    "progressType": 1928306284,
+    "category": 2,
+    "titleLamsKey": 869206061,
+    "descriptionLamsKey": -817517631,
+    "translatedName": "%1 minutes of Create",
+    "translatedDescription": "Spend %1 active minutes in Create mode.",
+    "icon": {
+      "value": 122239,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 720,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -1089108692,
+    "progressType": 1928306284,
+    "category": 2,
+    "titleLamsKey": 869206061,
+    "descriptionLamsKey": -817517631,
+    "translatedName": "%1 minutes of Create",
+    "translatedDescription": "Spend %1 active minutes in Create mode.",
+    "icon": {
+      "value": 122239,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1440,
+    "trophyToUnlock": 31,
+    "behaviourFlags": 264
+  },
+  {
+    "id": 1252477949,
+    "progressType": 1928306284,
+    "category": 2,
+    "titleLamsKey": 869206061,
+    "descriptionLamsKey": -817517631,
+    "translatedName": "%1 minutes of Create",
+    "translatedDescription": "Spend %1 active minutes in Create mode.",
+    "icon": {
+      "value": 122239,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 7500,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 1801831675,
+    "progressType": -1568223452,
+    "category": 2,
+    "titleLamsKey": -2135010027,
+    "descriptionLamsKey": -1664606831,
+    "translatedName": "%1 Plays",
+    "translatedDescription": "A level you published has been played %1 times.",
+    "icon": {
+      "value": 122231,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1606501602,
+    "progressType": -1568223452,
+    "category": 2,
+    "titleLamsKey": -2135010027,
+    "descriptionLamsKey": -1664606831,
+    "translatedName": "%1 Plays",
+    "translatedDescription": "A level you published has been played %1 times.",
+    "icon": {
+      "value": 122231,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -719867583,
+    "progressType": -1568223452,
+    "category": 2,
+    "titleLamsKey": -2135010027,
+    "descriptionLamsKey": -1664606831,
+    "translatedName": "%1 Plays",
+    "translatedDescription": "A level you published has been played %1 times.",
+    "icon": {
+      "value": 122231,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 250,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 166766436,
+    "progressType": -1568223452,
+    "category": 2,
+    "titleLamsKey": -2135010027,
+    "descriptionLamsKey": -1664606831,
+    "translatedName": "%1 Plays",
+    "translatedDescription": "A level you published has been played %1 times.",
+    "icon": {
+      "value": 122231,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 1053400455,
+    "progressType": -1568223452,
+    "category": 2,
+    "titleLamsKey": -2135010027,
+    "descriptionLamsKey": -1664606831,
+    "translatedName": "%1 Plays",
+    "translatedDescription": "A level you published has been played %1 times.",
+    "icon": {
+      "value": 122231,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -1142705959,
+    "progressType": 1461886302,
+    "category": 2,
+    "titleLamsKey": 1626475499,
+    "descriptionLamsKey": 2068964983,
+    "translatedName": "%1 Total Plays",
+    "translatedDescription": "All of your levels were played %1 times combined.",
+    "icon": {
+      "value": 125503,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -660052112,
+    "progressType": 1461886302,
+    "category": 2,
+    "titleLamsKey": 1626475499,
+    "descriptionLamsKey": 2068964983,
+    "translatedName": "%1 Total Plays",
+    "translatedDescription": "All of your levels were played %1 times combined.",
+    "icon": {
+      "value": 125503,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 500,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -177398265,
+    "progressType": 1461886302,
+    "category": 2,
+    "titleLamsKey": 1626475499,
+    "descriptionLamsKey": 2068964983,
+    "translatedName": "%1 Total Plays",
+    "translatedDescription": "All of your levels were played %1 times combined.",
+    "icon": {
+      "value": 125503,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 305255582,
+    "progressType": 1461886302,
+    "category": 2,
+    "titleLamsKey": 1626475499,
+    "descriptionLamsKey": 2068964983,
+    "translatedName": "%1 Total Plays",
+    "translatedDescription": "All of your levels were played %1 times combined.",
+    "icon": {
+      "value": 125503,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 787909429,
+    "progressType": 1461886302,
+    "category": 2,
+    "titleLamsKey": 1626475499,
+    "descriptionLamsKey": 2068964983,
+    "translatedName": "%1 Total Plays",
+    "translatedDescription": "All of your levels were played %1 times combined.",
+    "icon": {
+      "value": 125503,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 500000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -740023265,
+    "progressType": -1474600758,
+    "category": 2,
+    "titleLamsKey": 1323442551,
+    "descriptionLamsKey": -69071303,
+    "translatedName": "%1 Unique Players",
+    "translatedDescription": "A level you published has been played by %1 unique players.",
+    "icon": {
+      "value": 123355,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1402768232,
+    "progressType": -1474600758,
+    "category": 2,
+    "titleLamsKey": 1323442551,
+    "descriptionLamsKey": -69071303,
+    "translatedName": "%1 Unique Players",
+    "translatedDescription": "A level you published has been played by %1 unique players.",
+    "icon": {
+      "value": 123355,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50,
+    "trophyToUnlock": 33,
+    "behaviourFlags": 96
+  },
+  {
+    "id": -2065513199,
+    "progressType": -1474600758,
+    "category": 2,
+    "titleLamsKey": 1323442551,
+    "descriptionLamsKey": -69071303,
+    "translatedName": "%1 Unique Players",
+    "translatedDescription": "A level you published has been played by %1 unique players.",
+    "icon": {
+      "value": 123355,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 250,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 1566709130,
+    "progressType": -1474600758,
+    "category": 2,
+    "titleLamsKey": 1323442551,
+    "descriptionLamsKey": -69071303,
+    "translatedName": "%1 Unique Players",
+    "translatedDescription": "A level you published has been played by %1 unique players.",
+    "icon": {
+      "value": 123355,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 903964163,
+    "progressType": -1474600758,
+    "category": 2,
+    "titleLamsKey": 1323442551,
+    "descriptionLamsKey": -69071303,
+    "translatedName": "%1 Unique Players",
+    "translatedDescription": "A level you published has been played by %1 unique players.",
+    "icon": {
+      "value": 123355,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -451582287,
+    "progressType": -717004368,
+    "category": 2,
+    "titleLamsKey": 417534763,
+    "descriptionLamsKey": -843465969,
+    "translatedName": "%1 Total Unique Players",
+    "translatedDescription": "All of your levels were played by %1 unique players combined.",
+    "icon": {
+      "value": 122222,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -280924090,
+    "progressType": -717004368,
+    "category": 2,
+    "titleLamsKey": 417534763,
+    "descriptionLamsKey": -843465969,
+    "translatedName": "%1 Total Unique Players",
+    "translatedDescription": "All of your levels were played by %1 unique players combined.",
+    "icon": {
+      "value": 122222,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 500,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -110265893,
+    "progressType": -717004368,
+    "category": 2,
+    "titleLamsKey": 417534763,
+    "descriptionLamsKey": -843465969,
+    "translatedName": "%1 Total Unique Players",
+    "translatedDescription": "All of your levels were played by %1 unique players combined.",
+    "icon": {
+      "value": 122222,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 60392304,
+    "progressType": -717004368,
+    "category": 2,
+    "titleLamsKey": 417534763,
+    "descriptionLamsKey": -843465969,
+    "translatedName": "%1 Total Unique Players",
+    "translatedDescription": "All of your levels were played by %1 unique players combined.",
+    "icon": {
+      "value": 122222,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 231050501,
+    "progressType": -717004368,
+    "category": 2,
+    "titleLamsKey": 417534763,
+    "descriptionLamsKey": -843465969,
+    "translatedName": "%1 Total Unique Players",
+    "translatedDescription": "All of your levels were played by %1 unique players combined.",
+    "icon": {
+      "value": 122222,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 500000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 357969579,
+    "progressType": -439205634,
+    "category": 2,
+    "titleLamsKey": -427098317,
+    "descriptionLamsKey": -611113913,
+    "translatedName": "Level \"Hearted\" by %1",
+    "translatedDescription": "Get a level you have published Hearted by %1 unique players.",
+    "icon": {
+      "value": 122230,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1472715684,
+    "progressType": -439205634,
+    "category": 2,
+    "titleLamsKey": -427098317,
+    "descriptionLamsKey": -611113913,
+    "translatedName": "Level \"Hearted\" by %1",
+    "translatedDescription": "Get a level you have published Hearted by %1 unique players.",
+    "icon": {
+      "value": 122230,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": 991566349,
+    "progressType": -439205634,
+    "category": 2,
+    "titleLamsKey": -427098317,
+    "descriptionLamsKey": -611113913,
+    "translatedName": "Level \"Hearted\" by %1",
+    "translatedDescription": "Get a level you have published Hearted by %1 unique players.",
+    "icon": {
+      "value": 122230,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 250,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -839118914,
+    "progressType": -439205634,
+    "category": 2,
+    "titleLamsKey": -427098317,
+    "descriptionLamsKey": -611113913,
+    "translatedName": "Level \"Hearted\" by %1",
+    "translatedDescription": "Get a level you have published Hearted by %1 unique players.",
+    "icon": {
+      "value": 122230,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 1625163119,
+    "progressType": -439205634,
+    "category": 2,
+    "titleLamsKey": -427098317,
+    "descriptionLamsKey": -611113913,
+    "translatedName": "Level \"Hearted\" by %1",
+    "translatedDescription": "Get a level you have published Hearted by %1 unique players.",
+    "icon": {
+      "value": 122230,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -368515655,
+    "progressType": 1235998656,
+    "category": 2,
+    "titleLamsKey": -1365246019,
+    "descriptionLamsKey": 1992035457,
+    "translatedName": "%1 Total Hearts",
+    "translatedDescription": "All of your levels were hearted by %1 unique players combined.",
+    "icon": {
+      "value": 122221,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -221763674,
+    "progressType": 1235998656,
+    "category": 2,
+    "titleLamsKey": -1365246019,
+    "descriptionLamsKey": 1992035457,
+    "translatedName": "%1 Total Hearts",
+    "translatedDescription": "All of your levels were hearted by %1 unique players combined.",
+    "icon": {
+      "value": 122221,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 500,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -75011693,
+    "progressType": 1235998656,
+    "category": 2,
+    "titleLamsKey": -1365246019,
+    "descriptionLamsKey": 1992035457,
+    "translatedName": "%1 Total Hearts",
+    "translatedDescription": "All of your levels were hearted by %1 unique players combined.",
+    "icon": {
+      "value": 122221,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 71740288,
+    "progressType": 1235998656,
+    "category": 2,
+    "titleLamsKey": -1365246019,
+    "descriptionLamsKey": 1992035457,
+    "translatedName": "%1 Total Hearts",
+    "translatedDescription": "All of your levels were hearted by %1 unique players combined.",
+    "icon": {
+      "value": 122221,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 218492269,
+    "progressType": 1235998656,
+    "category": 2,
+    "titleLamsKey": -1365246019,
+    "descriptionLamsKey": 1992035457,
+    "translatedName": "%1 Total Hearts",
+    "translatedDescription": "All of your levels were hearted by %1 unique players combined.",
+    "icon": {
+      "value": 122221,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 500000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 1161627955,
+    "progressType": 2086540124,
+    "category": 2,
+    "titleLamsKey": 602196093,
+    "descriptionLamsKey": 1072599289,
+    "translatedName": "Highly Rated %1",
+    "translatedDescription": "Get a level you have published rated \"Yay\" by %1 unique players.",
+    "icon": {
+      "value": 122228,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 2048261974,
+    "progressType": 2086540124,
+    "category": 2,
+    "titleLamsKey": 602196093,
+    "descriptionLamsKey": 1072599289,
+    "translatedName": "Highly Rated %1",
+    "translatedDescription": "Get a level you have published rated \"Yay\" by %1 unique players.",
+    "icon": {
+      "value": 122228,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -1360071303,
+    "progressType": 2086540124,
+    "category": 2,
+    "titleLamsKey": 602196093,
+    "descriptionLamsKey": 1072599289,
+    "translatedName": "Highly Rated %1",
+    "translatedDescription": "Get a level you have published rated \"Yay\" by %1 unique players.",
+    "icon": {
+      "value": 122228,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 250,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -473437284,
+    "progressType": 2086540124,
+    "category": 2,
+    "titleLamsKey": 602196093,
+    "descriptionLamsKey": 1072599289,
+    "translatedName": "Highly Rated %1",
+    "translatedDescription": "Get a level you have published rated \"Yay\" by %1 unique players.",
+    "icon": {
+      "value": 122228,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 413196735,
+    "progressType": 2086540124,
+    "category": 2,
+    "titleLamsKey": 602196093,
+    "descriptionLamsKey": 1072599289,
+    "translatedName": "Highly Rated %1",
+    "translatedDescription": "Get a level you have published rated \"Yay\" by %1 unique players.",
+    "icon": {
+      "value": 122228,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -254421247,
+    "progressType": -1944796282,
+    "category": 2,
+    "titleLamsKey": -397816157,
+    "descriptionLamsKey": 44673327,
+    "translatedName": "%1 Highly Rated Total",
+    "translatedDescription": "All of your levels were rated \"Yay\" by %1 unique players combined.",
+    "icon": {
+      "value": 122220,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 228232600,
+    "progressType": -1944796282,
+    "category": 2,
+    "titleLamsKey": -397816157,
+    "descriptionLamsKey": 44673327,
+    "translatedName": "%1 Highly Rated Total",
+    "translatedDescription": "All of your levels were rated \"Yay\" by %1 unique players combined.",
+    "icon": {
+      "value": 122220,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 500,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": 710886447,
+    "progressType": -1944796282,
+    "category": 2,
+    "titleLamsKey": -397816157,
+    "descriptionLamsKey": 44673327,
+    "translatedName": "%1 Highly Rated Total",
+    "translatedDescription": "All of your levels were rated \"Yay\" by %1 unique players combined.",
+    "icon": {
+      "value": 122220,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 1193540294,
+    "progressType": -1944796282,
+    "category": 2,
+    "titleLamsKey": -397816157,
+    "descriptionLamsKey": 44673327,
+    "translatedName": "%1 Highly Rated Total",
+    "translatedDescription": "All of your levels were rated \"Yay\" by %1 unique players combined.",
+    "icon": {
+      "value": 122220,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 1676194141,
+    "progressType": -1944796282,
+    "category": 2,
+    "titleLamsKey": -397816157,
+    "descriptionLamsKey": 44673327,
+    "translatedName": "%1 Highly Rated Total",
+    "translatedDescription": "All of your levels were rated \"Yay\" by %1 unique players combined.",
+    "icon": {
+      "value": 122220,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 500000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -1152592380,
+    "progressType": -1152592380,
+    "category": 2,
+    "titleLamsKey": 2007130287,
+    "descriptionLamsKey": -1835550373,
+    "translatedName": "Positive Result",
+    "translatedDescription": "A level you published has received mostly positive feedback (after 100 feedback).",
+    "icon": {
+      "value": 122227,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 975425892,
+    "progressType": 975425892,
+    "category": 2,
+    "titleLamsKey": -557080987,
+    "descriptionLamsKey": -703613271,
+    "translatedName": "Totally Positive Result",
+    "translatedDescription": "All of your levels have received mostly positive feedback (after 100 feedback).",
+    "icon": {
+      "value": 125468,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -280812097,
+    "progressType": -280812097,
+    "category": 2,
+    "titleLamsKey": -1771805992,
+    "descriptionLamsKey": 556786212,
+    "translatedName": "Toasty!",
+    "translatedDescription": "Fill the thermometer in Create mode.",
+    "icon": {
+      "value": 122238,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -440143323,
+    "progressType": -440143323,
+    "category": 2,
+    "titleLamsKey": 893184128,
+    "descriptionLamsKey": 219730332,
+    "translatedName": "What... Is It?",
+    "translatedDescription": "Make an overly complicated shape in Create mode.",
+    "icon": {
+      "value": 122214,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1701977522,
+    "progressType": 1701977522,
+    "category": 2,
+    "titleLamsKey": 1313236591,
+    "descriptionLamsKey": -79277263,
+    "translatedName": "Controlinator Creator",
+    "translatedDescription": "Place a Controlinator in Create mode.",
+    "icon": {
+      "value": 122215,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 938248997,
+    "progressType": 938248997,
+    "category": 2,
+    "titleLamsKey": 920050560,
+    "descriptionLamsKey": 1390453756,
+    "translatedName": "As If By Magic",
+    "translatedDescription": "Use an Emitter in Create mode.",
+    "icon": {
+      "value": 122240,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 414013175,
+    "progressType": 414013175,
+    "category": 2,
+    "titleLamsKey": -118714298,
+    "descriptionLamsKey": 1696859188,
+    "translatedName": "Sunsetter",
+    "translatedDescription": "Use the Global Lighting Tool in Create mode.",
+    "icon": {
+      "value": 122241,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 259701840,
+    "progressType": 259701840,
+    "category": 2,
+    "titleLamsKey": -1738666375,
+    "descriptionLamsKey": 94262613,
+    "translatedName": "Poseidon Would Be Impressed",
+    "translatedDescription": "Use water in a level you create.",
+    "icon": {
+      "value": 122219,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 99164704,
+    "progressType": 99164704,
+    "category": 2,
+    "titleLamsKey": -1478411159,
+    "descriptionLamsKey": -1569597763,
+    "translatedName": "You\u0027re a Keeper",
+    "translatedDescription": "Capture an object into Popit and reuse it later.",
+    "icon": {
+      "value": 122211,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 2023392314,
+    "progressType": 2023392314,
+    "category": 2,
+    "titleLamsKey": -790245049,
+    "descriptionLamsKey": -319841853,
+    "translatedName": "My Little Friend",
+    "translatedDescription": "Place a Sackbot.",
+    "icon": {
+      "value": 122234,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -9378824,
+    "progressType": -9378824,
+    "category": 2,
+    "titleLamsKey": 1523413425,
+    "descriptionLamsKey": -293588731,
+    "translatedName": "Behavior Changer",
+    "translatedDescription": "Change a Sackbot\u0027s Behavior",
+    "icon": {
+      "value": 122233,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1132205680,
+    "progressType": -1132205680,
+    "category": 2,
+    "titleLamsKey": 544897081,
+    "descriptionLamsKey": -716027731,
+    "translatedName": "Share \u0026 Share Alike",
+    "translatedDescription": "Publish a level.",
+    "icon": {
+      "value": 122217,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 32,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 1671263379,
+    "progressType": 1671263379,
+    "category": 2,
+    "titleLamsKey": 2115922042,
+    "descriptionLamsKey": -1708642058,
+    "translatedName": "A Series Of Tubes",
+    "translatedDescription": "Publish a level containing a Level Link to another level.",
+    "icon": {
+      "value": 122225,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 678686527,
+    "progressType": 678686527,
+    "category": 2,
+    "titleLamsKey": -97368482,
+    "descriptionLamsKey": -281384078,
+    "translatedName": "Step into my Arena!",
+    "translatedDescription": "Publish a Versus mode level.",
+    "icon": {
+      "value": 122223,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1138644437,
+    "progressType": 1138644437,
+    "category": 2,
+    "titleLamsKey": 1616966416,
+    "descriptionLamsKey": 1525779812,
+    "translatedName": "Mr Know-It-All",
+    "translatedDescription": "Watch all the tutorials.",
+    "icon": {
+      "value": 122242,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 38,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 1491422953,
+    "progressType": 1491422953,
+    "category": 2,
+    "titleLamsKey": -590875028,
+    "descriptionLamsKey": -1912420568,
+    "translatedName": "Mindful Vandalism",
+    "translatedDescription": "Place a sticker or a decoration on another player\u0027s Sackperson.",
+    "icon": {
+      "value": 1165536,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 34,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 614160912,
+    "progressType": 614160912,
+    "category": 2,
+    "titleLamsKey": -1751155271,
+    "descriptionLamsKey": -1935170867,
+    "translatedName": "Quick Badge Job",
+    "translatedDescription": "Publish a level with a custom badge created from a Camera photo or an in-game photo.",
+    "icon": {
+      "value": 122210,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 36,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 441559590,
+    "progressType": 441559590,
+    "category": 2,
+    "titleLamsKey": -716979477,
+    "descriptionLamsKey": -943391031,
+    "translatedName": "Grapple Creator",
+    "translatedDescription": "Use the Grappling Hook in a level you create.",
+    "icon": {
+      "value": 125467,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -159034033,
+    "progressType": -159034033,
+    "category": 2,
+    "titleLamsKey": 2006126350,
+    "descriptionLamsKey": 684580810,
+    "translatedName": "Creatinator Creator",
+    "translatedDescription": "Use the Creatinator in a level you create.",
+    "icon": {
+      "value": 125466,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1714656567,
+    "progressType": 1714656567,
+    "category": 2,
+    "titleLamsKey": 1231099142,
+    "descriptionLamsKey": 1004687588,
+    "translatedName": "Grabinators Creator",
+    "translatedDescription": "Use the Grabinators in a level you create.",
+    "icon": {
+      "value": 125505,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1969340841,
+    "progressType": -1969340841,
+    "category": 2,
+    "titleLamsKey": 1528169830,
+    "descriptionLamsKey": 1301758276,
+    "translatedName": "Ghostly things going on",
+    "translatedDescription": "Dephysicalize an object in create mode",
+    "icon": {
+      "value": 1270319,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1020757165,
+    "progressType": -1020757165,
+    "category": 2,
+    "titleLamsKey": -1726235974,
+    "descriptionLamsKey": -1910251570,
+    "translatedName": "Touch the Community",
+    "translatedDescription": "Publish a level that uses touch.",
+    "icon": {
+      "value": 1270320,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1811663313,
+    "progressType": -1811663313,
+    "category": 2,
+    "titleLamsKey": -1158755154,
+    "descriptionLamsKey": -688351958,
+    "translatedName": "Optimist/Pessimist",
+    "translatedDescription": "Fill a level half full/empty of water, depending on your outlook!",
+    "icon": {
+      "value": 1270322,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -883767325,
+    "progressType": -883767325,
+    "category": 2,
+    "titleLamsKey": 835312362,
+    "descriptionLamsKey": -817887514,
+    "translatedName": "Ooh, Touchy!",
+    "translatedDescription": "Use touch to scroll through your Popit.",
+    "icon": {
+      "value": 1270323,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -509201780,
+    "progressType": -509201780,
+    "category": 2,
+    "titleLamsKey": 895824269,
+    "descriptionLamsKey": -1696042455,
+    "translatedName": "Never Forget",
+    "translatedDescription": "Publish a level using the Memorizer.",
+    "icon": {
+      "value": 1270324,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1210934738,
+    "progressType": -1210934738,
+    "category": 2,
+    "titleLamsKey": -203446717,
+    "descriptionLamsKey": 1002060959,
+    "translatedName": "Novelist",
+    "translatedDescription": "Create a level with at least 2000 words in text bubbles.",
+    "icon": {
+      "value": 1270325,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -101249417,
+    "progressType": -101249417,
+    "category": 2,
+    "titleLamsKey": 355680966,
+    "descriptionLamsKey": 826084162,
+    "translatedName": "More of Everything!",
+    "translatedDescription": "Use all new tools in Create mode.",
+    "icon": {
+      "value": 1270326,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 668304829,
+    "progressType": 668304829,
+    "category": 3,
+    "titleLamsKey": 529221896,
+    "descriptionLamsKey": 438035292,
+    "translatedName": "Dear Player...",
+    "translatedDescription": "Comment on someone\u0027s profile.",
+    "icon": {
+      "value": 125498,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -483804735,
+    "progressType": -483804735,
+    "category": 3,
+    "titleLamsKey": 1347473076,
+    "descriptionLamsKey": 1163457480,
+    "translatedName": "Well if he said so...",
+    "translatedDescription": "Find a level via another player\u0027s review.",
+    "icon": {
+      "value": 124760,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -419078912,
+    "progressType": -419078912,
+    "category": 3,
+    "titleLamsKey": -1860855799,
+    "descriptionLamsKey": -157755227,
+    "translatedName": "Happy Snapper",
+    "translatedDescription": "Upload a photo.",
+    "icon": {
+      "value": 123354,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 42,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -679286285,
+    "progressType": -679286285,
+    "category": 3,
+    "titleLamsKey": 82068220,
+    "descriptionLamsKey": 1113703016,
+    "translatedName": "Check us out!",
+    "translatedDescription": "Upload a photo containing you and another online player.",
+    "icon": {
+      "value": 124076,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1690814737,
+    "progressType": 1690814737,
+    "category": 3,
+    "titleLamsKey": -235219676,
+    "descriptionLamsKey": 79548768,
+    "translatedName": "Everyone\u0027s A Critic",
+    "translatedDescription": "Submit a review for a level.",
+    "icon": {
+      "value": 123353,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 41,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 500368152,
+    "progressType": -101667293,
+    "category": 3,
+    "titleLamsKey": 66164650,
+    "descriptionLamsKey": -1984360226,
+    "translatedName": "%1 Players Agree",
+    "translatedDescription": "Your review is rated highly by %1 unique players.",
+    "icon": {
+      "value": 124080,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 3,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 533206449,
+    "progressType": -101667293,
+    "category": 3,
+    "titleLamsKey": 66164650,
+    "descriptionLamsKey": -1984360226,
+    "translatedName": "%1 Players Agree",
+    "translatedDescription": "Your review is rated highly by %1 unique players.",
+    "icon": {
+      "value": 124080,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 75,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": 566044746,
+    "progressType": -101667293,
+    "category": 3,
+    "titleLamsKey": 66164650,
+    "descriptionLamsKey": -1984360226,
+    "translatedName": "%1 Players Agree",
+    "translatedDescription": "Your review is rated highly by %1 unique players.",
+    "icon": {
+      "value": 124080,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 250,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 598883043,
+    "progressType": -101667293,
+    "category": 3,
+    "titleLamsKey": 66164650,
+    "descriptionLamsKey": -1984360226,
+    "translatedName": "%1 Players Agree",
+    "translatedDescription": "Your review is rated highly by %1 unique players.",
+    "icon": {
+      "value": 124080,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 650,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 631721340,
+    "progressType": -101667293,
+    "category": 3,
+    "titleLamsKey": 66164650,
+    "descriptionLamsKey": -1984360226,
+    "translatedName": "%1 Players Agree",
+    "translatedDescription": "Your review is rated highly by %1 unique players.",
+    "icon": {
+      "value": 124080,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1500,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -1981965937,
+    "progressType": -529725630,
+    "category": 3,
+    "titleLamsKey": -896522849,
+    "descriptionLamsKey": 1711720755,
+    "translatedName": "%1 People Love you!",
+    "translatedDescription": "You have been \"Hearted\" by %1 unique players.",
+    "icon": {
+      "value": 124761,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 3,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 359620704,
+    "progressType": -529725630,
+    "category": 3,
+    "titleLamsKey": -896522849,
+    "descriptionLamsKey": 1711720755,
+    "translatedName": "%1 People Love you!",
+    "translatedDescription": "You have been \"Hearted\" by %1 unique players.",
+    "icon": {
+      "value": 124761,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 75,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -1593759951,
+    "progressType": -529725630,
+    "category": 3,
+    "titleLamsKey": -896522849,
+    "descriptionLamsKey": 1711720755,
+    "translatedName": "%1 People Love you!",
+    "translatedDescription": "You have been \"Hearted\" by %1 unique players.",
+    "icon": {
+      "value": 124761,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 250,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 747826690,
+    "progressType": -529725630,
+    "category": 3,
+    "titleLamsKey": -896522849,
+    "descriptionLamsKey": 1711720755,
+    "translatedName": "%1 People Love you!",
+    "translatedDescription": "You have been \"Hearted\" by %1 unique players.",
+    "icon": {
+      "value": 124761,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 650,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -1205553965,
+    "progressType": -529725630,
+    "category": 3,
+    "titleLamsKey": -896522849,
+    "descriptionLamsKey": 1711720755,
+    "translatedName": "%1 People Love you!",
+    "translatedDescription": "You have been \"Hearted\" by %1 unique players.",
+    "icon": {
+      "value": 124761,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1500,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 628967857,
+    "progressType": 628967857,
+    "category": 3,
+    "titleLamsKey": -1716594684,
+    "descriptionLamsKey": 1317447800,
+    "translatedName": "Level Lover",
+    "translatedDescription": "Heart a level.",
+    "icon": {
+      "value": 124770,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1637782320,
+    "progressType": -1637782320,
+    "category": 3,
+    "titleLamsKey": -1297951751,
+    "descriptionLamsKey": -983183307,
+    "translatedName": "I like you!",
+    "translatedDescription": "Heart a player.",
+    "icon": {
+      "value": 124771,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1603818971,
+    "progressType": -1603818971,
+    "category": 3,
+    "titleLamsKey": -1415917440,
+    "descriptionLamsKey": 1192326164,
+    "translatedName": "LBP.me",
+    "translatedDescription": "Log in to LBP.me using your Online ID.",
+    "icon": {
+      "value": 124763,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1965011384,
+    "progressType": 1965011384,
+    "category": 3,
+    "titleLamsKey": -2074805429,
+    "descriptionLamsKey": -1043170633,
+    "translatedName": "I Can Love You From Afar",
+    "translatedDescription": "Add a player to your \"Hearted\" list using LBP.me",
+    "icon": {
+      "value": 124762,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1461156299,
+    "progressType": -1461156299,
+    "category": 3,
+    "titleLamsKey": 1864231728,
+    "descriptionLamsKey": 1680216132,
+    "translatedName": "One For Later",
+    "translatedDescription": "Add a level to your Queue using LBP.me",
+    "icon": {
+      "value": 124764,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1960691410,
+    "progressType": -1960691410,
+    "category": 3,
+    "titleLamsKey": -260760765,
+    "descriptionLamsKey": -1264144073,
+    "translatedName": "Queued Up",
+    "translatedDescription": "Play a level that has been added to your Queue.",
+    "icon": {
+      "value": 124765,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 25,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 84783612,
+    "progressType": 84783612,
+    "category": 3,
+    "titleLamsKey": 1568626013,
+    "descriptionLamsKey": 176112159,
+    "translatedName": "What have we here?",
+    "translatedDescription": "View another player\u0027s profile.",
+    "icon": {
+      "value": 124058,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1006147621,
+    "progressType": -1006147621,
+    "category": 3,
+    "titleLamsKey": 498149266,
+    "descriptionLamsKey": -1318852890,
+    "translatedName": "DO Cross The Streams",
+    "translatedDescription": "View another player\u0027s Recent Activity.",
+    "icon": {
+      "value": 124768,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1383545547,
+    "progressType": -1383545547,
+    "category": 3,
+    "titleLamsKey": 2141601840,
+    "descriptionLamsKey": 820056300,
+    "translatedName": "A Dip In The Stream",
+    "translatedDescription": "Play a level from your Recent Activity.",
+    "icon": {
+      "value": 124767,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -934480704,
+    "progressType": -934480704,
+    "category": 3,
+    "titleLamsKey": -1594522295,
+    "descriptionLamsKey": 883442845,
+    "translatedName": "Attention to Detail",
+    "translatedDescription": "Publish a level with a complete description (Name, Description, Tagged, Badge Icon).",
+    "icon": {
+      "value": 124034,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 560276154,
+    "progressType": 1333342859,
+    "category": 3,
+    "titleLamsKey": -1849999582,
+    "descriptionLamsKey": -17070594,
+    "translatedName": "%1 Yays!",
+    "translatedDescription": "Give positive feedback on %1 community levels.",
+    "icon": {
+      "value": 124040,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1824600555,
+    "progressType": 1333342859,
+    "category": 3,
+    "titleLamsKey": -1849999582,
+    "descriptionLamsKey": -17070594,
+    "translatedName": "%1 Yays!",
+    "translatedDescription": "Give positive feedback on %1 community levels.",
+    "icon": {
+      "value": 124040,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 40,
+    "trophyToUnlock": 39,
+    "behaviourFlags": 96
+  },
+  {
+    "id": 85490032,
+    "progressType": 1333342859,
+    "category": 3,
+    "titleLamsKey": -1849999582,
+    "descriptionLamsKey": -17070594,
+    "translatedName": "%1 Yays!",
+    "translatedDescription": "Give positive feedback on %1 community levels.",
+    "icon": {
+      "value": 124040,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 160,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": 1995580619,
+    "progressType": 1333342859,
+    "category": 3,
+    "titleLamsKey": -1849999582,
+    "descriptionLamsKey": -17070594,
+    "translatedName": "%1 Yays!",
+    "translatedDescription": "Give positive feedback on %1 community levels.",
+    "icon": {
+      "value": 124040,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 600,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -389296090,
+    "progressType": 1333342859,
+    "category": 3,
+    "titleLamsKey": -1849999582,
+    "descriptionLamsKey": -17070594,
+    "translatedName": "%1 Yays!",
+    "translatedDescription": "Give positive feedback on %1 community levels.",
+    "icon": {
+      "value": 124040,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1500,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 1970710514,
+    "progressType": 1970710514,
+    "category": 3,
+    "titleLamsKey": 89960239,
+    "descriptionLamsKey": 560363435,
+    "translatedName": "Nice Outfit",
+    "translatedDescription": "Save a costume.",
+    "icon": {
+      "value": 124050,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1778143657,
+    "progressType": 1778143657,
+    "category": 3,
+    "titleLamsKey": 427793580,
+    "descriptionLamsKey": 201382026,
+    "translatedName": "I just threw this on!",
+    "translatedDescription": "Use the Randomize costume tool in popit.",
+    "icon": {
+      "value": 124769,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -2124653137,
+    "progressType": -2124653137,
+    "category": 3,
+    "titleLamsKey": -417444050,
+    "descriptionLamsKey": -1090897846,
+    "translatedName": "Band of Brothers",
+    "translatedDescription": "Play some multiplayer games across 3 levels without anyone leaving the group.",
+    "icon": {
+      "value": 125495,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 983339692,
+    "progressType": 983339692,
+    "category": 3,
+    "titleLamsKey": 645766893,
+    "descriptionLamsKey": -1404757983,
+    "translatedName": "Scared Of Nothing",
+    "translatedDescription": "Accepted your first challenge using \"near\"",
+    "icon": {
+      "value": 1270329,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -202218013,
+    "progressType": -202218013,
+    "category": 3,
+    "titleLamsKey": -1680022294,
+    "descriptionLamsKey": -1209619098,
+    "translatedName": "Challenge Overlord",
+    "translatedDescription": "Created your first challenge using \"near\"",
+    "icon": {
+      "value": 1270328,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1915366542,
+    "progressType": -285147781,
+    "category": 3,
+    "titleLamsKey": 129953794,
+    "descriptionLamsKey": 444722238,
+    "translatedName": "Won %1 Challenges",
+    "translatedDescription": "Won %1 challenges using \"near\"",
+    "icon": {
+      "value": 1270331,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1759565115,
+    "progressType": -285147781,
+    "category": 3,
+    "titleLamsKey": 129953794,
+    "descriptionLamsKey": 444722238,
+    "translatedName": "Won %1 Challenges",
+    "translatedDescription": "Won %1 challenges using \"near\"",
+    "icon": {
+      "value": 1270331,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -1603763688,
+    "progressType": -285147781,
+    "category": 3,
+    "titleLamsKey": 129953794,
+    "descriptionLamsKey": 444722238,
+    "translatedName": "Won %1 Challenges",
+    "translatedDescription": "Won %1 challenges using \"near\"",
+    "icon": {
+      "value": 1270331,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 25,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -1447962261,
+    "progressType": -285147781,
+    "category": 3,
+    "titleLamsKey": 129953794,
+    "descriptionLamsKey": 444722238,
+    "translatedName": "Won %1 Challenges",
+    "translatedDescription": "Won %1 challenges using \"near\"",
+    "icon": {
+      "value": 1270331,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 50,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": -1292160834,
+    "progressType": -285147781,
+    "category": 3,
+    "titleLamsKey": 129953794,
+    "descriptionLamsKey": 444722238,
+    "translatedName": "Won %1 Challenges",
+    "translatedDescription": "Won %1 challenges using \"near\"",
+    "icon": {
+      "value": 1270331,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 1516705701,
+    "progressType": 1516705701,
+    "category": 4,
+    "titleLamsKey": 501257472,
+    "descriptionLamsKey": 317241876,
+    "translatedName": "Group hug of %1",
+    "translatedDescription": "Play online at the same time as %1 other players.",
+    "icon": {
+      "value": 125487,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 20000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 947118302,
+    "progressType": 947118302,
+    "category": 4,
+    "titleLamsKey": 1576702419,
+    "descriptionLamsKey": -234328697,
+    "translatedName": "Master of the Internets",
+    "translatedDescription": "Run an awesome LittleBigPlanet™ PlayStation®Vita fansite.",
+    "icon": {
+      "value": 124852,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 792777243,
+    "progressType": 792777243,
+    "category": 4,
+    "titleLamsKey": -1348399022,
+    "descriptionLamsKey": -1439585626,
+    "translatedName": "Team Picked!",
+    "translatedDescription": "Have one of your levels featured in Team Picks.",
+    "icon": {
+      "value": 125488,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 467756946,
+    "progressType": 467756946,
+    "category": 4,
+    "titleLamsKey": -1419770097,
+    "descriptionLamsKey": -1852340253,
+    "translatedName": "Who\u0027s Who",
+    "translatedDescription": "Watch the credits all the way through.",
+    "icon": {
+      "value": 125483,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1675480291,
+    "progressType": 1675480291,
+    "category": 4,
+    "titleLamsKey": -1600196118,
+    "descriptionLamsKey": -1691382722,
+    "translatedName": "Platinum Club",
+    "translatedDescription": "Earn all LittleBigPlanet™ PlayStation®Vita trophies.",
+    "icon": {
+      "value": 124854,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 491729108,
+    "progressType": 491729108,
+    "category": 0,
+    "titleLamsKey": 1857522085,
+    "descriptionLamsKey": -1231937535,
+    "translatedName": "Hi Score",
+    "translatedDescription": "Collect 1,000,000 points over all story levels you have played.",
+    "icon": {
+      "value": 1165397,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 23,
+    "behaviourFlags": 16
+  },
+  {
+    "id": 78370608,
+    "progressType": 78370608,
+    "category": 1,
+    "titleLamsKey": 1644956185,
+    "descriptionLamsKey": -41767507,
+    "translatedName": "The Tourist",
+    "translatedDescription": "Complete a Community level.",
+    "icon": {
+      "value": 1165538,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 15,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 1437845855,
+    "progressType": 1437845855,
+    "category": 1,
+    "titleLamsKey": -11226690,
+    "descriptionLamsKey": 459176506,
+    "translatedName": "First Among Equals",
+    "translatedDescription": "Win a 4-player game.",
+    "icon": {
+      "value": 1165525,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 17,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -1516231326,
+    "progressType": -1516231326,
+    "category": 1,
+    "titleLamsKey": 816315647,
+    "descriptionLamsKey": -444609165,
+    "translatedName": "Social Animal",
+    "translatedDescription": "Complete a level with more than one player.",
+    "icon": {
+      "value": 1165537,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 18,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 1540353923,
+    "progressType": 1540353923,
+    "category": 0,
+    "titleLamsKey": -1546736950,
+    "descriptionLamsKey": -1637923554,
+    "translatedName": "Pianist Pioneer",
+    "translatedDescription": "Play \u0027Do Re Mi\u0027 on the piano in La Marionetta.",
+    "icon": {
+      "value": 1165544,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 20,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -1558180661,
+    "progressType": -1558180661,
+    "category": 0,
+    "titleLamsKey": 491321314,
+    "descriptionLamsKey": -1195402378,
+    "translatedName": "Insert Coin",
+    "translatedDescription": "Complete all achievements in one game from The Arcade.",
+    "icon": {
+      "value": 1165542,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 21,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -1940642727,
+    "progressType": -1940642727,
+    "category": 0,
+    "titleLamsKey": -482407364,
+    "descriptionLamsKey": 1220693208,
+    "translatedName": "Finger Cramp",
+    "translatedDescription": "Bash 1000 bonces in Bonce Tappin\u0027.",
+    "icon": {
+      "value": 1165540,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 26,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 2067943424,
+    "progressType": 2067943424,
+    "category": 2,
+    "titleLamsKey": 306522377,
+    "descriptionLamsKey": -1744002499,
+    "translatedName": "Aspiring Director",
+    "translatedDescription": "Publish a cut scene level.",
+    "icon": {
+      "value": 1165522,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 28,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -549428360,
+    "progressType": -549428360,
+    "category": 1,
+    "titleLamsKey": -1609647055,
+    "descriptionLamsKey": 1424395429,
+    "translatedName": "Balancing Act",
+    "translatedDescription": "Balance another Sackperson on an object while lifting it with touch.",
+    "icon": {
+      "value": 1165523,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 35,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 595844005,
+    "progressType": 595844005,
+    "category": 4,
+    "titleLamsKey": 1177452800,
+    "descriptionLamsKey": -509270892,
+    "translatedName": "God Complex",
+    "translatedDescription": "Spin any of the planets 720 degrees with a single flick.",
+    "icon": {
+      "value": 1165541,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 37,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 1880154075,
+    "progressType": 1880154075,
+    "category": 0,
+    "titleLamsKey": 689328018,
+    "descriptionLamsKey": 1004096462,
+    "translatedName": "Just A Scratch",
+    "translatedDescription": "Spin the LP disc in Jackpot City.",
+    "icon": {
+      "value": 1165543,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 43,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -1591399097,
+    "progressType": -1591399097,
+    "category": 0,
+    "titleLamsKey": -876952650,
+    "descriptionLamsKey": 1731290954,
+    "translatedName": "Rising Star",
+    "translatedDescription": "Collect 50%% of Skill Rewards in Story Mode.",
+    "icon": {
+      "value": 1165545,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 45,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -1583522988,
+    "progressType": -1583522988,
+    "category": 0,
+    "titleLamsKey": -795849435,
+    "descriptionLamsKey": -887036039,
+    "translatedName": "Arcade Champion",
+    "translatedDescription": "Complete all achievements in all games from The Arcade.",
+    "icon": {
+      "value": 1165539,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 40,
+    "behaviourFlags": 8
+  },
+  {
+    "id": -528752355,
+    "progressType": -528752355,
+    "category": 4,
+    "titleLamsKey": 1597258280,
+    "descriptionLamsKey": -89465412,
+    "translatedName": "House Proud",
+    "translatedDescription": "Place 10 stickers or decorations in your pod.",
+    "icon": {
+      "value": 1165726,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 10,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 104630839,
+    "progressType": 104630839,
+    "category": 4,
+    "titleLamsKey": 1524541314,
+    "descriptionLamsKey": 497275430,
+    "translatedName": "Contraption Challenge Winner",
+    "translatedDescription": "You won a Contraption Challenge!",
+    "icon": {
+      "value": 194815,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1466784541,
+    "progressType": 1466784541,
+    "category": 4,
+    "titleLamsKey": 1064712232,
+    "descriptionLamsKey": -1200354732,
+    "translatedName": "LittleBigPlanet™ Central Contest Winner",
+    "translatedDescription": "A pin awarded by LittleBigPlanet™ Central",
+    "icon": {
+      "value": 194816,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1163947039,
+    "progressType": 1163947039,
+    "category": 4,
+    "titleLamsKey": -170510338,
+    "descriptionLamsKey": -396921892,
+    "translatedName": "LittleBigLand",
+    "translatedDescription": "A pin awarded by LittleBigLand.",
+    "icon": {
+      "value": 194817,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1305437914,
+    "progressType": -1305437914,
+    "category": 4,
+    "titleLamsKey": -56116211,
+    "descriptionLamsKey": -1608636143,
+    "translatedName": "LittleBigPlanetarium",
+    "translatedDescription": "A pin awarded by LittleBigPlanetarium.",
+    "icon": {
+      "value": 194820,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 641053296,
+    "progressType": 641053296,
+    "category": 4,
+    "titleLamsKey": 1819094489,
+    "descriptionLamsKey": -660299321,
+    "translatedName": "LittleBigNetwork",
+    "translatedDescription": "A pin awarded by LittleBigNetwork.",
+    "icon": {
+      "value": 194818,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 896332631,
+    "progressType": 896332631,
+    "category": 4,
+    "titleLamsKey": 1217768550,
+    "descriptionLamsKey": 544314754,
+    "translatedName": "I went to a LittleBigPlanet™ Meetup!",
+    "translatedDescription": "Thanks for coming!",
+    "icon": {
+      "value": 194819,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 333199942,
+    "progressType": 333199942,
+    "category": 4,
+    "titleLamsKey": -643022773,
+    "descriptionLamsKey": -869434327,
+    "translatedName": "Sackie Award Winner",
+    "translatedDescription": "You\u0027ve won a prestigious Sackie Award!",
+    "icon": {
+      "value": 194821,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1785363595,
+    "progressType": 1785363595,
+    "category": 4,
+    "titleLamsKey": -259445470,
+    "descriptionLamsKey": -485857024,
+    "translatedName": "Awesomesauce",
+    "translatedDescription": "Congratulations! You are more awesome than awesome!",
+    "icon": {
+      "value": 194814,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1496833861,
+    "progressType": 1496833861,
+    "category": 4,
+    "titleLamsKey": -99007264,
+    "descriptionLamsKey": -1752207140,
+    "translatedName": "Tarsian",
+    "translatedDescription": "You worked on LittleBigPlanet™ PlayStation®Vita",
+    "icon": {
+      "value": 1270327,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -777010754,
+    "progressType": -777010754,
+    "category": 7,
+    "titleLamsKey": -2095832193,
+    "descriptionLamsKey": 806621249,
+    "translatedName": "Baby Steps",
+    "translatedDescription": "Complete your first run",
+    "icon": {
+      "value": 1724839,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 48,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -1150037977,
+    "progressType": -1150037977,
+    "category": 7,
+    "titleLamsKey": 1502300558,
+    "descriptionLamsKey": -977093252,
+    "translatedName": "New Recruit",
+    "translatedDescription": "Unlock your first hero",
+    "icon": {
+      "value": 1724843,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 47,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 1654211455,
+    "progressType": 1654211455,
+    "category": 7,
+    "titleLamsKey": 1648536812,
+    "descriptionLamsKey": 1422125258,
+    "translatedName": "\"Puny God!\"",
+    "translatedDescription": "Defeat an enemy",
+    "icon": {
+      "value": 1724844,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 49,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -138649473,
+    "progressType": -138649473,
+    "category": 7,
+    "titleLamsKey": -272375695,
+    "descriptionLamsKey": -498787249,
+    "translatedName": "\"It\u0027s clobberin\u0027 time!\"",
+    "translatedDescription": "Destroy 5 enemies in a single run!",
+    "icon": {
+      "value": 1724840,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 50,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -2014299254,
+    "progressType": -2014299254,
+    "category": 7,
+    "titleLamsKey": 954217418,
+    "descriptionLamsKey": -862784738,
+    "translatedName": "Assemble!",
+    "translatedDescription": "Unlock all heroes",
+    "icon": {
+      "value": 1724838,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 51,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -1651132774,
+    "progressType": -1651132774,
+    "category": 7,
+    "titleLamsKey": 280921355,
+    "descriptionLamsKey": -1271598577,
+    "translatedName": "Marvel Marathon",
+    "translatedDescription": "Reach 2,000 metres in one run!",
+    "icon": {
+      "value": 1724841,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 52,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -1469617550,
+    "progressType": -1469617550,
+    "category": 7,
+    "titleLamsKey": -458100477,
+    "descriptionLamsKey": -1485366361,
+    "translatedName": "Super Soldier",
+    "translatedDescription": "Reach Rank 20",
+    "icon": {
+      "value": 1724846,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 53,
+    "behaviourFlags": 16
+  },
+  {
+    "id": -955290051,
+    "progressType": -955290051,
+    "category": 7,
+    "titleLamsKey": 986271464,
+    "descriptionLamsKey": -1278795500,
+    "translatedName": "Richer Than Stark",
+    "translatedDescription": "Collect 20000 Marvel coins in a single run!",
+    "icon": {
+      "value": 1724845,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 54,
+    "behaviourFlags": 16
+  },
+  {
+    "id": 1931523552,
+    "progressType": 1931523552,
+    "category": 7,
+    "titleLamsKey": 1833556761,
+    "descriptionLamsKey": 281036829,
+    "translatedName": "Mighty Heroes",
+    "translatedDescription": "Use each hero at least once",
+    "icon": {
+      "value": 1724842,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 55,
+    "behaviourFlags": 16
+  },
+  {
+    "id": 2144738493,
+    "progressType": 2144738493,
+    "category": 7,
+    "titleLamsKey": 264144425,
+    "descriptionLamsKey": -673541395,
+    "translatedName": "Ultimate Collector",
+    "translatedDescription": "Purchase everything in Hero Rush!",
+    "icon": {
+      "value": 1724847,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 56,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -135763094,
+    "progressType": -135763094,
+    "category": 8,
+    "titleLamsKey": -2143782755,
+    "descriptionLamsKey": 1924772987,
+    "translatedName": "Avenger",
+    "translatedDescription": "Complete one puzzle",
+    "icon": {
+      "value": 1735575,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 57,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -339791975,
+    "progressType": -339791975,
+    "category": 8,
+    "titleLamsKey": -2056371215,
+    "descriptionLamsKey": 2012184527,
+    "translatedName": "Hulk out!",
+    "translatedDescription": "Smash 4 crates in a row with Hulk",
+    "icon": {
+      "value": 1735580,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 58,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -2141232109,
+    "progressType": -2141232109,
+    "category": 8,
+    "titleLamsKey": 1626759808,
+    "descriptionLamsKey": 305214268,
+    "translatedName": "Player",
+    "translatedDescription": "Play with all 4 characters",
+    "icon": {
+      "value": 1735574,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 59,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 1091627475,
+    "progressType": 1091627475,
+    "category": 8,
+    "titleLamsKey": -1961362175,
+    "descriptionLamsKey": 122973541,
+    "translatedName": "Never miss an issue",
+    "translatedDescription": "Purchase every asset in the Vault",
+    "icon": {
+      "value": 1735577,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 60,
+    "behaviourFlags": 16
+  },
+  {
+    "id": 1952500258,
+    "progressType": 1952500258,
+    "category": 8,
+    "titleLamsKey": 2067084677,
+    "descriptionLamsKey": 745539137,
+    "translatedName": "Bagged and boarded",
+    "translatedDescription": "Purchase all 3 bonus chapters",
+    "icon": {
+      "value": 1735578,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 61,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -1760707356,
+    "progressType": -1760707356,
+    "category": 8,
+    "titleLamsKey": -1590126626,
+    "descriptionLamsKey": 494209090,
+    "translatedName": "Avengers Together!",
+    "translatedDescription": "Complete one 4 character puzzle",
+    "icon": {
+      "value": 1735582,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 62,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 910189655,
+    "progressType": 910189655,
+    "category": 8,
+    "titleLamsKey": -547062331,
+    "descriptionLamsKey": -1574328215,
+    "translatedName": "First edition",
+    "translatedDescription": "Complete one chapter",
+    "icon": {
+      "value": 1735583,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 63,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 442689062,
+    "progressType": 442689062,
+    "category": 8,
+    "titleLamsKey": -666740938,
+    "descriptionLamsKey": 1148832548,
+    "translatedName": "Best seller",
+    "translatedDescription": "Earn 2000 Marvel coins",
+    "icon": {
+      "value": 1735584,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 64,
+    "behaviourFlags": 16
+  },
+  {
+    "id": 322942373,
+    "progressType": 322942373,
+    "category": 8,
+    "titleLamsKey": 2086459611,
+    "descriptionLamsKey": 533939679,
+    "translatedName": "Limited edition",
+    "translatedDescription": "Complete one character\u0027s puzzles",
+    "icon": {
+      "value": 1735579,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 65,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -1264682644,
+    "progressType": -1264682644,
+    "category": 8,
+    "titleLamsKey": -734288397,
+    "descriptionLamsKey": -960699951,
+    "translatedName": "Avenged!",
+    "translatedDescription": "Escape the Complex!",
+    "icon": {
+      "value": 1735581,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 66,
+    "behaviourFlags": 16
+  },
+  {
+    "id": -1891576513,
+    "progressType": -1891576513,
+    "category": 9,
+    "titleLamsKey": 335055789,
+    "descriptionLamsKey": -986489751,
+    "translatedName": "Weapon X",
+    "translatedDescription": "Achieve a 5X multiplier",
+    "icon": {
+      "value": 1735603,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 67,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 464084001,
+    "progressType": 464084001,
+    "category": 9,
+    "titleLamsKey": -931817321,
+    "descriptionLamsKey": -1959083205,
+    "translatedName": "You wouldn\u0027t like me when I\u0027m angry",
+    "translatedDescription": "Send three enemies flying simultaneously with any power or weapon",
+    "icon": {
+      "value": 1735604,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 68,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -591393384,
+    "progressType": -591393384,
+    "category": 9,
+    "titleLamsKey": 1300442157,
+    "descriptionLamsKey": -21103383,
+    "translatedName": "Hawkeye",
+    "translatedDescription": "Defeat 5 enemies in 5 seconds",
+    "icon": {
+      "value": 1735595,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 69,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 159512960,
+    "progressType": 159512960,
+    "category": 9,
+    "titleLamsKey": 2101628821,
+    "descriptionLamsKey": -377764989,
+    "translatedName": "Billionaire industrialist",
+    "translatedDescription": "Earn 200 Marvel coins in a single level",
+    "icon": {
+      "value": 1735601,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 70,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 638209653,
+    "progressType": 638209653,
+    "category": 9,
+    "titleLamsKey": 924676084,
+    "descriptionLamsKey": -1285955496,
+    "translatedName": "Threat Intercepted",
+    "translatedDescription": "Finish the main campaign",
+    "icon": {
+      "value": 1735599,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 71,
+    "behaviourFlags": 16
+  },
+  {
+    "id": -526844884,
+    "progressType": -526844884,
+    "category": 9,
+    "titleLamsKey": -1282051639,
+    "descriptionLamsKey": 1046540565,
+    "translatedName": "Man without fear",
+    "translatedDescription": "Earn a score of 800 without using your primary weapon in any mode",
+    "icon": {
+      "value": 1735600,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 72,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -803334595,
+    "progressType": -803334595,
+    "category": 9,
+    "titleLamsKey": 1121062722,
+    "descriptionLamsKey": -271451132,
+    "translatedName": "The invincible Iron Man",
+    "translatedDescription": "Earn a score of 500 without taking any damage in any mode",
+    "icon": {
+      "value": 1735598,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 73,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -496129375,
+    "progressType": -496129375,
+    "category": 9,
+    "titleLamsKey": 177652398,
+    "descriptionLamsKey": -1639349758,
+    "translatedName": "I\u0027m the best there is at what I do...",
+    "translatedDescription": "Achieve 3000 points in The Gauntlet",
+    "icon": {
+      "value": 1735597,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 74,
+    "behaviourFlags": 16
+  },
+  {
+    "id": 670298732,
+    "progressType": 670298732,
+    "category": 9,
+    "titleLamsKey": -365522758,
+    "descriptionLamsKey": -1758036612,
+    "translatedName": "War Machine!",
+    "translatedDescription": "Purchase all ship upgrades",
+    "icon": {
+      "value": 1735602,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 75,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 1444047705,
+    "progressType": 1444047705,
+    "category": 9,
+    "titleLamsKey": 2077275038,
+    "descriptionLamsKey": 1403821242,
+    "translatedName": "Agent of S.H.I.E.L.D.",
+    "translatedDescription": "Earn all gold medals in the campaign.",
+    "icon": {
+      "value": 1735596,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 76,
+    "behaviourFlags": 16
+  },
+  {
+    "id": -814398193,
+    "progressType": -814398193,
+    "category": 10,
+    "titleLamsKey": 503301198,
+    "descriptionLamsKey": -1149898678,
+    "translatedName": "Powered Up",
+    "translatedDescription": "Power up all of the Reactor cores in the Watchtower.",
+    "icon": {
+      "value": 1758040,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1941827735,
+    "progressType": 1941827735,
+    "category": 10,
+    "titleLamsKey": 1311942122,
+    "descriptionLamsKey": 1085530568,
+    "translatedName": "Victory Is Thine",
+    "translatedDescription": "Complete every story level in the DC Comics™ Premium Level Pack.",
+    "icon": {
+      "value": 1758046,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -707620013,
+    "progressType": -707620013,
+    "category": 10,
+    "titleLamsKey": -707745954,
+    "descriptionLamsKey": 1322154378,
+    "translatedName": "Just-Ace League",
+    "translatedDescription": "Ace every story level in the DC Comics™ Premium Level Pack.",
+    "icon": {
+      "value": 1758065,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": 77,
+    "behaviourFlags": 8
+  },
+  {
+    "id": 1127551703,
+    "progressType": 1259417992,
+    "category": 10,
+    "titleLamsKey": 2079473773,
+    "descriptionLamsKey": -399920037,
+    "translatedName": "The Greatest Cape",
+    "translatedDescription": "Stay airborne with the Hero Cape for %1 seconds.",
+    "icon": {
+      "value": 1758071,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5,
+    "trophyToUnlock": 78,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 2057442770,
+    "progressType": 1259417992,
+    "category": 10,
+    "titleLamsKey": 2079473773,
+    "descriptionLamsKey": -399920037,
+    "translatedName": "The Greatest Cape",
+    "translatedDescription": "Stay airborne with the Hero Cape for %1 seconds.",
+    "icon": {
+      "value": 1758071,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 15,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -1307633459,
+    "progressType": 1259417992,
+    "category": 10,
+    "titleLamsKey": 2079473773,
+    "descriptionLamsKey": -399920037,
+    "translatedName": "The Greatest Cape",
+    "translatedDescription": "Stay airborne with the Hero Cape for %1 seconds.",
+    "icon": {
+      "value": 1758071,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 30,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -377742392,
+    "progressType": 1259417992,
+    "category": 10,
+    "titleLamsKey": 2079473773,
+    "descriptionLamsKey": -399920037,
+    "translatedName": "The Greatest Cape",
+    "translatedDescription": "Stay airborne with the Hero Cape for %1 seconds.",
+    "icon": {
+      "value": 1758071,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 60,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 552148675,
+    "progressType": 1259417992,
+    "category": 10,
+    "titleLamsKey": 2079473773,
+    "descriptionLamsKey": -399920037,
+    "translatedName": "The Greatest Cape",
+    "translatedDescription": "Stay airborne with the Hero Cape for %1 seconds.",
+    "icon": {
+      "value": 1758071,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 120,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": -1979165070,
+    "progressType": -1979165070,
+    "category": 10,
+    "titleLamsKey": 65799179,
+    "descriptionLamsKey": -1255746361,
+    "translatedName": "Gone Loopy",
+    "translatedDescription": "Use the Hero Cape to fly in a loop.",
+    "icon": {
+      "value": 1758031,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1890140805,
+    "progressType": -1890140805,
+    "category": 10,
+    "titleLamsKey": -1508183722,
+    "descriptionLamsKey": -1692199318,
+    "translatedName": "Drop The Bald",
+    "translatedDescription": "Defeat Lex Luthor.",
+    "icon": {
+      "value": 1758069,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 79,
+    "behaviourFlags": 32
+  },
+  {
+    "id": -1634837351,
+    "progressType": -1634837351,
+    "category": 10,
+    "titleLamsKey": 23127406,
+    "descriptionLamsKey": -1529392526,
+    "translatedName": "League Of Friends",
+    "translatedDescription": "Play any level in the DC Comics™ Premium Level Pack with one or more friends.",
+    "icon": {
+      "value": 1758073,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 80,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 1489366660,
+    "progressType": 1176104871,
+    "category": 10,
+    "titleLamsKey": 1475943962,
+    "descriptionLamsKey": 83430108,
+    "translatedName": "Super Collector",
+    "translatedDescription": "Collect %1%% of the Prize Bubbles in the DC Comics™ Premium Level Pack.",
+    "icon": {
+      "value": 1758067,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 20,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 569369893,
+    "progressType": 1176104871,
+    "category": 10,
+    "titleLamsKey": 1475943962,
+    "descriptionLamsKey": 83430108,
+    "translatedName": "Super Collector",
+    "translatedDescription": "Collect %1%% of the Prize Bubbles in the DC Comics™ Premium Level Pack.",
+    "icon": {
+      "value": 1758067,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 40,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": -350626874,
+    "progressType": 1176104871,
+    "category": 10,
+    "titleLamsKey": 1475943962,
+    "descriptionLamsKey": 83430108,
+    "translatedName": "Super Collector",
+    "translatedDescription": "Collect %1%% of the Prize Bubbles in the DC Comics™ Premium Level Pack.",
+    "icon": {
+      "value": 1758067,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 60,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -1270623641,
+    "progressType": 1176104871,
+    "category": 10,
+    "titleLamsKey": 1475943962,
+    "descriptionLamsKey": 83430108,
+    "translatedName": "Super Collector",
+    "translatedDescription": "Collect %1%% of the Prize Bubbles in the DC Comics™ Premium Level Pack.",
+    "icon": {
+      "value": 1758067,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 80,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 2104346888,
+    "progressType": 1176104871,
+    "category": 10,
+    "titleLamsKey": 1475943962,
+    "descriptionLamsKey": 83430108,
+    "translatedName": "Super Collector",
+    "translatedDescription": "Collect %1%% of the Prize Bubbles in the DC Comics™ Premium Level Pack.",
+    "icon": {
+      "value": 1758067,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": 81,
+    "behaviourFlags": 528
+  },
+  {
+    "id": 1651877107,
+    "progressType": 1651877107,
+    "category": 10,
+    "titleLamsKey": -1846189926,
+    "descriptionLamsKey": 762053678,
+    "translatedName": "Great Caper",
+    "translatedDescription": "Publish a level containing the Hero Cape.",
+    "icon": {
+      "value": 1758054,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 82,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 1131880794,
+    "progressType": 1131880794,
+    "category": 10,
+    "titleLamsKey": -186401369,
+    "descriptionLamsKey": 128367075,
+    "translatedName": "The Power of Green",
+    "translatedDescription": "Trigger all Green Lantern material in the DC Comics™ Premium Level Pack.",
+    "icon": {
+      "value": 1758056,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": 83,
+    "behaviourFlags": 32
+  },
+  {
+    "id": 1828651724,
+    "progressType": -1693248867,
+    "category": 10,
+    "titleLamsKey": 1882253992,
+    "descriptionLamsKey": 94083452,
+    "translatedName": "Slippery Character",
+    "translatedDescription": "Spend %1 seconds sliding on Wall Jump material.",
+    "icon": {
+      "value": 1758050,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 30,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -556224985,
+    "progressType": -1693248867,
+    "category": 10,
+    "titleLamsKey": 1882253992,
+    "descriptionLamsKey": 94083452,
+    "translatedName": "Slippery Character",
+    "translatedDescription": "Spend %1 seconds sliding on Wall Jump material.",
+    "icon": {
+      "value": 1758050,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 60,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 64
+  },
+  {
+    "id": 1353865602,
+    "progressType": -1693248867,
+    "category": 10,
+    "titleLamsKey": 1882253992,
+    "descriptionLamsKey": 94083452,
+    "translatedName": "Slippery Character",
+    "translatedDescription": "Spend %1 seconds sliding on Wall Jump material.",
+    "icon": {
+      "value": 1758050,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 180,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 128
+  },
+  {
+    "id": -1031011107,
+    "progressType": -1693248867,
+    "category": 10,
+    "titleLamsKey": 1882253992,
+    "descriptionLamsKey": 94083452,
+    "translatedName": "Slippery Character",
+    "translatedDescription": "Spend %1 seconds sliding on Wall Jump material.",
+    "icon": {
+      "value": 1758050,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 300,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 256
+  },
+  {
+    "id": 879079480,
+    "progressType": -1693248867,
+    "category": 10,
+    "titleLamsKey": 1882253992,
+    "descriptionLamsKey": 94083452,
+    "translatedName": "Slippery Character",
+    "translatedDescription": "Spend %1 seconds sliding on Wall Jump material.",
+    "icon": {
+      "value": 1758050,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 600,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 512
+  },
+  {
+    "id": 1790428229,
+    "progressType": 1790428229,
+    "category": 10,
+    "titleLamsKey": 856161248,
+    "descriptionLamsKey": 764974644,
+    "translatedName": "Sidekick",
+    "translatedDescription": "Complete the 2 player section on Paradise Island.",
+    "icon": {
+      "value": 1758049,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 32808333,
+    "progressType": 32808333,
+    "category": 10,
+    "titleLamsKey": -164832008,
+    "descriptionLamsKey": 149936436,
+    "translatedName": "No Problem Too Big",
+    "translatedDescription": "Solve all the puzzles on Paradise Island.",
+    "icon": {
+      "value": 1758043,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1071929888,
+    "progressType": -1071929888,
+    "category": 10,
+    "titleLamsKey": 1829359017,
+    "descriptionLamsKey": -762507707,
+    "translatedName": "Snake Charmer",
+    "translatedDescription": "Don\u0027t get hit by the \u0027Fire snake\u0027 on Paradise Island.",
+    "icon": {
+      "value": 1758051,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1091168626,
+    "progressType": -1091168626,
+    "category": 10,
+    "titleLamsKey": 1694982755,
+    "descriptionLamsKey": -767055553,
+    "translatedName": "Jungle Justice",
+    "translatedDescription": "Ace No Pause On Paradise Island.",
+    "icon": {
+      "value": 1758044,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1060217586,
+    "progressType": 1060217586,
+    "category": 10,
+    "titleLamsKey": -708208593,
+    "descriptionLamsKey": -1969133405,
+    "translatedName": "Hit the Snooze Button",
+    "translatedDescription": "Smash all the Joker\u0027s Clock-bots in Toxic Terror.",
+    "icon": {
+      "value": 1758037,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1746692813,
+    "progressType": 1746692813,
+    "category": 10,
+    "titleLamsKey": 290858680,
+    "descriptionLamsKey": 199672076,
+    "translatedName": "Terminal Velocity",
+    "translatedDescription": "Reach maximum speed with the cape.",
+    "icon": {
+      "value": 1758053,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 100,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1538600368,
+    "progressType": -1538600368,
+    "category": 10,
+    "titleLamsKey": 1008943225,
+    "descriptionLamsKey": -251981587,
+    "translatedName": "Super Scorer",
+    "translatedDescription": "Collect %1 bubbles while airborne in Toxic Terror.",
+    "icon": {
+      "value": 1758052,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 10,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1250418015,
+    "progressType": 1250418015,
+    "category": 10,
+    "titleLamsKey": -689893954,
+    "descriptionLamsKey": 1143035034,
+    "translatedName": "No Joke",
+    "translatedDescription": "Ace Toxic Terror.",
+    "icon": {
+      "value": 1758039,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 711971952,
+    "progressType": 711971952,
+    "category": 10,
+    "titleLamsKey": 417162201,
+    "descriptionLamsKey": -2044876107,
+    "translatedName": "Bot Buster",
+    "translatedDescription": "Open the Laboratory door in 30 seconds.",
+    "icon": {
+      "value": 1758036,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -2018940412,
+    "progressType": -2018940412,
+    "category": 10,
+    "titleLamsKey": -547565387,
+    "descriptionLamsKey": -232796943,
+    "translatedName": "Buzz Off",
+    "translatedDescription": "Destroy all of Killer Frost\u0027s flying drones.",
+    "icon": {
+      "value": 1758032,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -245038645,
+    "progressType": -245038645,
+    "category": 10,
+    "titleLamsKey": -1514840350,
+    "descriptionLamsKey": 1093403254,
+    "translatedName": "Burn Baby Burn",
+    "translatedDescription": "Burn all of the fuse blocks in A Frosty Reception.",
+    "icon": {
+      "value": 1758030,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1363060347,
+    "progressType": -1363060347,
+    "category": 10,
+    "titleLamsKey": -895492704,
+    "descriptionLamsKey": 2138549780,
+    "translatedName": "Frosty Temperament",
+    "translatedDescription": "Keep shooting Killer Frost until she is annoyed.",
+    "icon": {
+      "value": 1758034,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -702962640,
+    "progressType": -702962640,
+    "category": 10,
+    "titleLamsKey": 1220196633,
+    "descriptionLamsKey": -1241841675,
+    "translatedName": "Chill Out",
+    "translatedDescription": "Ace A Frosty Reception.",
+    "icon": {
+      "value": 1758033,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -908635851,
+    "progressType": -908635851,
+    "category": 10,
+    "titleLamsKey": -858602448,
+    "descriptionLamsKey": 844498124,
+    "translatedName": "Fists Of Fury",
+    "translatedDescription": "Avoid being hit by Mecha-Lex\u0027s fists!",
+    "icon": {
+      "value": 1758035,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": -1544160936,
+    "progressType": -1544160936,
+    "category": 10,
+    "titleLamsKey": 543301841,
+    "descriptionLamsKey": -2048564883,
+    "translatedName": "Like a Flash",
+    "translatedDescription": "Complete the Mecha-Lex Madness in 9 minutes or less.",
+    "icon": {
+      "value": 1758038,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 1638624001,
+    "progressType": 1638624001,
+    "category": 10,
+    "titleLamsKey": -1164680076,
+    "descriptionLamsKey": 668248912,
+    "translatedName": "Mecha Mercy",
+    "translatedDescription": "Ace Mecha-Lex Madness.",
+    "icon": {
+      "value": 1758042,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 1,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  },
+  {
+    "id": 676219177,
+    "progressType": 676219177,
+    "category": 10,
+    "titleLamsKey": -457634004,
+    "descriptionLamsKey": -548820608,
+    "translatedName": "Raiding The Kitchen",
+    "translatedDescription": "Get a score of %1 in Raiding the Kitchen.",
+    "icon": {
+      "value": 1758048,
+      "type": "TEXTURE"
+    },
+    "initialProgressValue": 0,
+    "targetValue": 5000,
+    "trophyToUnlock": -1,
+    "behaviourFlags": 0
+  }
+]
