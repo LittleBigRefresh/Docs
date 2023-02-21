@@ -2,6 +2,9 @@
 
 ## Windows - Access denied on startup
 
+***As of Refresh v1.1.0, this problem should no longer be relevant.
+Please let us know if this is still required for Refresh to work on Windows.***
+
 You may get the following exception on startup while hosting as a standard user on Windows:
 
 ```

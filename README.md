@@ -7,6 +7,8 @@ Documentation surrounding LittleBigPlanet and Refresh.
 
 [Autodiscover API Documentation](https://littlebigrefresh.github.io/Docs/autodiscover-api)
 
+[Determining the URL to patch with](https://littlebigrefresh.github.io/Docs/patch-url)
+
 ## LittleBigPlanet
 
 [Community Tab Data](https://littlebigrefresh.github.io/Docs/LBP3_community_tab_data.txt)
