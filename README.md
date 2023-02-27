@@ -24,3 +24,5 @@ They are converted from Markdown into Discord messages automatically.
 This is what the tables at the top are for - to provide metadata to the converter.
 
 [Information](https://littlebigrefresh.github.io/Docs/discord/information)
+
+[Developer Information](https://littlebigrefresh.github.io/Docs/discord/dev-info)

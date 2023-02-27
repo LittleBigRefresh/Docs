@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: MarkdownToDiscord
-        uses: LittleBigRefresh/MarkdownToDiscord@v1.0.1
+        uses: LittleBigRefresh/MarkdownToDiscord@v1.1.3
         with:
           discordToken: ${{ secrets.DISCORD_TOKEN }}
           githubToken: ${{ secrets.GITHUB_TOKEN }}
