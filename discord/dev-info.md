@@ -25,7 +25,7 @@ If you're here to report a security vulnerability, Discord is not the place.
 
 You should use GitHub's private vulnerability reporting feature - this is enabled on all of our projects under the security tab.
 
-For Refresh, this accessible at <https://github.com/LittleBigRefresh/Refresh/security>.
+For Refresh, this is accessible at <https://github.com/LittleBigRefresh/Refresh/security>.
 
 # I just want to watch development progress!
 
