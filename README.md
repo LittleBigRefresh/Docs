@@ -17,6 +17,8 @@ Documentation surrounding LittleBigPlanet and Refresh.
 
 [Tags/Labels Metadata for LittleBigPlanet](https://littlebigrefresh.github.io/Docs/labels)
 
+[Recent Activity Event List](https://littlebigrefresh.github.io/Docs/recent-activity-events.txt)
+
 ## Discord
 
 These are the original source files for our "Meta" section on the Discord. 
