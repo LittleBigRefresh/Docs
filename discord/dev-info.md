@@ -3,7 +3,7 @@ channelId: 1049225653398016080
 ---
 # Welcome to the Refresh Development section!
 
-Here you can find discussions between developers working on Refresh and it's other projects such as Bunkum and Spycrab.
+Here you can find discussions between developers working on Refresh and its other projects such as Bunkum and Spycrab.
 
 You're welcome to contribute to these discussions even if you aren't a developer, but just try to keep discussion focused and on-topic.
 
