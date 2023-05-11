@@ -18,18 +18,17 @@ Here's an example request to the Autodiscover API:
 ```http
 GET /autodiscover HTTP/1.1
 Host: localhost:10061
-User-Agent: curl/7.87.0
+User-Agent: curl/8.0.1
 Accept: */*
-
+ 
 HTTP/1.1 200 OK
 Server: Bunkum
-X-Digest-B: a829b69a1aeb1d74bf10572b9527f18158c77226
-Content-Type: text/json
-X-Digest-A: 5122a3ea060b9c4753a39a80aad659be221a5ef2
-Date: Sat, 21 Jan 2023 09:21:57 GMT
-Transfer-Encoding: chunked
-
-{"version":1,"serverBrand":"Refresh","url":"http://127.0.0.1:10061"}
+Connection: close
+Date: Thu, 11 May 2023 23:22:16 GMT
+Content-Type: application/json
+Content-Length: 100
+ 
+{"version":2,"serverBrand":"Refresh","url":"http://127.0.0.1:10061/lbp/","usesCustomDigestKey":true}
 ```
 
 The server MUST reply with JSON data.
@@ -47,3 +46,9 @@ If the server wants to, it can change the output of the `url` parameter based on
 `serverBrand`: A friendly name of the server. For Refresh it is simply `Refresh`, but you can put anything you want here. Generally it's the same as `lbpEnvVer`.
 
 `url`: The URL that should be recommended to the client. This is the URL that you or your players will be patching and connecting with.
+
+### Version 2
+
+This version is the same as version 1, with the following addition:
+
+`usesCustomDigestKey`: A boolean, when true it represents that the LBP server will only accept the digest key `CustomServerDigest`. Otherwise, the server is using the default digest key.
