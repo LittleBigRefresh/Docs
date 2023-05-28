@@ -9,7 +9,7 @@ This is also the place for discussing the development of Refresh, a custom serve
 
 ![LittleBigRefresh Banner](https://raw.githubusercontent.com/LittleBigRefresh/Branding/main/banners/refresh_banner_1080x_notext.png)
 
-# Rules
+## Rules
 
 We try to be as fair as possible with these. If there are things you would like to suggest or criticize, you are welcome to create a GitHub issue on our documentation repo ([here](https://github.com/LittleBigRefresh/Docs/issues/new)) or contact a staff member.
 
@@ -25,7 +25,7 @@ These rules can basically be summarized to "don't be an a-hole" or "use common s
 
 5. Please keep criticism constructive. We generally won't take action for this, but it will be noticed if you are consistently negative when discussing topics with other members.
 
-# Enforcement
+## Enforcement
 
 We generally try to be hands-off when it comes to punishment. In most cases, the offending content will simply be deleted or you will receive a verbal warning.
 
@@ -35,7 +35,7 @@ More often than not, a compromise by a staff member is given. For example, one m
 
 If you have proven to consistently be disrespectful to the community, only then will you be banned.
 
-# Appealing
+## Appealing
 
 In the case that you've received a punishment (such as a ban or mute), you may feel this decision has been made unfairly.
 
@@ -47,6 +47,6 @@ Generally though, most punishments are given out for a reason. Due to our hands-
 
 For example, if your punishment was delivered as a result of bad behavior over the past month, we won't be accepting appeals regarding behavior over the past day. Some things may be what cause punishments, but more often than not they are not the whole story.
 
-# Server Invite
+## Server Invite
 
 https://discord.gg/xN5yKdxmWG

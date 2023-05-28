@@ -9,7 +9,7 @@ You're welcome to contribute to these discussions even if you aren't a developer
 
 In general, you should avoid privately messaging developers to keep all discussions documented and in one place.
 
-# Security
+## Security
 
 If you're here to report a security vulnerability, Discord isn't the best place.
 
@@ -17,7 +17,7 @@ Instead, you should use GitHub's private vulnerability reporting feature - this 
 
 For Refresh, this is accessible at <https://github.com/LittleBigRefresh/Refresh/security>.
 
-# Channel Guide
+## Channel Guide
 
 <#1102426423240691712> is a channel containing logs from all repositories on our GitHub organization. It contains things like issues, commits, pull requests, and more.
 
