@@ -2,7 +2,7 @@
 
 ## Rationale
 
-To verify if a URL points to a custom server and if it is working, Refresher will contact the server. (well soon, anyways)
+To verify if a URL points to a custom server and if it is working, Refresher will contact the server.
 
 While this API originated from Refresh, it is intended to be used by any LBP custom server thus this document.
 

@@ -28,3 +28,5 @@ This is what the tables at the top are for - to provide metadata to the converte
 [Information](https://littlebigrefresh.github.io/Docs/discord/information)
 
 [Developer Information](https://littlebigrefresh.github.io/Docs/discord/dev-info)
+
+[Frequently Asked Questions](https://littlebigrefresh.github.io/Docs/discord/faq)
