@@ -4,8 +4,7 @@ Refresher has native support for decrypting and patching RPCS3 games. This guide
 
 It also assumes that you've already downloaded Refresher. If you haven't head on over to the [GitHub page](https://github.com/LittleBigRefresh/Refresher) to grab yourself a copy.
 
-![A Screenshot of Refresher's RPCS3 patching screen](https://littlebigrefresh.github.io/Docs/patching/images/refresher-rpcs3-dark.png#gh-dark-mode-only)
-![A Screenshot of Refresher's RPCS3 patching screen](https://littlebigrefresh.github.io/Docs/patching/images/refresher-rpcs3-light.png#gh-light-mode-only)
+![A Screenshot of Refresher's RPCS3 patching screen](https://littlebigrefresh.github.io/Docs/patching/images/refresher-rpcs3.png)
 
 ## Step 1: Enter the location of RPCS3's filesystem.
 
