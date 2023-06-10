@@ -7,9 +7,11 @@ Documentation surrounding LittleBigPlanet, Refresh, and Bunkum.
 
 [Autodiscover API Documentation](https://littlebigrefresh.github.io/Docs/autodiscover-api)
 
-[Determining the URL to patch with](https://littlebigrefresh.github.io/Docs/patch-url)
-
 [Setting up a production server using Bunkum](https://littlebigrefresh.github.io/Docs/setup-bunkum-server)
+
+## Refresher Guides
+
+[Determining the URL to patch with](https://littlebigrefresh.github.io/Docs/patch-url)
 
 ## LittleBigPlanet
 
