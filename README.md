@@ -13,6 +13,8 @@ Documentation surrounding LittleBigPlanet, Refresh, and Bunkum.
 
 [Determining the URL to patch with](https://littlebigrefresh.github.io/Docs/patch-url)
 
+[Using Refresher to patch a game on RPCS3](https://littlebigrefresh.github.io/Docs/patching/rpcs3)
+
 ## LittleBigPlanet
 
 [Community Tab Data](https://littlebigrefresh.github.io/Docs/LBP3_community_tab_data.txt)

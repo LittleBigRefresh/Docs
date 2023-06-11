@@ -15,7 +15,7 @@ You can download the latest release from our GitHub. It's as easy as extracting 
 
 Refresh can't update itself, although we announce new releases in <#1049226545916551188>
 
-Patching isn't quite documented yet, but we recommend you use Refresher or UnionPatcher to do this.
+If you use RPCS3, we do have a guide for it available here: <https://littlebigrefresh.github.io/Docs/patching/rpcs3>
 
 ## Q: When will Refresh be complete?
 
