@@ -4,12 +4,13 @@
 
 To verify if a URL points to a custom server and if it is working, Refresher will contact the server.
 
-While this API originated from Refresh, it is intended to be used by any LBP custom server thus this document.
+While this API originated from Refresh, it is intended to be used by any custom server using HTTP.
 
 The Autodiscover API has two main purposes:
 
 1. Verify that the URL the user has given in patching software is correct.
 2. Provide extra information on how the patcher should work, and show metadata about the server to the user.
+3. Reassure the user that the settings they have chosen are correct.
 
 ## Example
 
@@ -52,3 +53,12 @@ If the server wants to, it can change the output of the `url` parameter based on
 This version is the same as version 1, with the following addition:
 
 `usesCustomDigestKey`: A boolean, when true it represents that the LBP server will only accept the digest key `CustomServerDigest`. Otherwise, the server is using the default digest key.
+
+## Implementations
+
+So far, there are only a few known implementations of Autodiscover.
+
+- [Bunkum.AutoDiscover](https://www.nuget.org/packages/Bunkum.AutoDiscover), a service for Bunkum to implement the protocol.
+- Refresh (via `Bunkum.AutoDiscover`)
+- SoundShapesServer (via `Bunkum.AutoDiscover`)
+- [ctbxserver](https://github.com/catboxteam/ctbxserver/blob/631adb1a2e08f5afd4663dcff567e3127e9be578/src/routes/Website/main.py#L122) (archived project, commented out)
