@@ -25,7 +25,7 @@ These rules can basically be summarized to "don't be an a-hole" or "use common s
 
 5. Please keep criticism constructive. We generally won't take action for this, but it will be noticed if you are consistently negative when discussing topics with other members.
 
-6. Discussion of piracy won't be tolerated. LittleBigRefresh is not the place to discuss this type of thing. We won't mute you for simply mentioning piracy, but we definitely will if you're discussing methods to enable piracy. Just keep it out of this server.
+6. Discussion of piracy won't be tolerated. LittleBigRefresh is not the place to discuss this type of thing. We won't mute you for simply mentioning piracy, but we definitely will if you're discussing methods to enable piracy, or suggesting that people commit piracy. Just keep it out of this server.
 
 ## Enforcement
 
