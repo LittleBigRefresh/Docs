@@ -27,7 +27,7 @@ These rules can basically be summarized to "don't be an a-hole" or "use common s
 
 6. Discussion of piracy won't be tolerated. LittleBigRefresh is not the place to discuss this type of thing. We won't mute you for simply mentioning piracy, but we definitely will if you're discussing methods to enable piracy, or suggesting that people commit piracy. Just keep it out of this server.
 
-7. We are not obliged to give you any technical support if we find that you pirated your copy LittleBigPlanet. If we helped you, it would present many legal issues between us and Sony.
+7. We are not obliged to give you any technical support if we find that you pirated your copy of the game. If we helped you, it would present many legal issues between us and Sony.
 ## Enforcement
 
 We generally try to be hands-off when it comes to punishment. In most cases, the offending content will simply be deleted or you will receive a verbal warning.
