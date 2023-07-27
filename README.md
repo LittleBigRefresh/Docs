@@ -36,3 +36,5 @@ This is what the tables at the top are for - to provide metadata to the converte
 [Developer Information](https://littlebigrefresh.github.io/Docs/discord/dev-info)
 
 [Frequently Asked Questions](https://littlebigrefresh.github.io/Docs/discord/faq)
+
+[Cool Servers](https://littlebigrefresh.github.io/Docs/discord/cool-servers)
