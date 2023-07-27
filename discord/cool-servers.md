@@ -8,7 +8,7 @@ The unofficial official Discord for LBP Vita. Genuinely the worst server in exis
 https://discord.gg/P9C2NnWpXB
 
 ## Imagisphere
-A community centered around reverse engineering, modding, and preserving development history around LittleBigPlanet. People make 
+A community centered around reverse engineering, modding, and preserving development history around LittleBigPlanet.
 
 https://discord.gg/mBTuPGMCH3
 
