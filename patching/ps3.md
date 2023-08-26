@@ -2,7 +2,7 @@
 
 Refresher has native support for decrypting, encrypting and patching PS3 games. This guide aims to show you how to operate Refresher's PS3 patcher.
 
-It also assumes that you've already downloaded Refresher. If you haven't head on over to the [GitHub page](https://github.com/LittleBigRefresh/Refresher) to grab yourself a copy.
+It also assumes that you've already downloaded Refresher. If you haven't, head on over to the [GitHub page](https://github.com/LittleBigRefresh/Refresher) to grab yourself a copy.
 
 ![A Screenshot of Refresher's PS3 patching screen](https://littlebigrefresh.github.io/Docs/patching/images/refresher-ps3.png)
 
