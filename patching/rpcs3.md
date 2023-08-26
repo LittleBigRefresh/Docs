@@ -24,7 +24,7 @@ You should have been given a URL by the person operating the server you're tryin
 
 Next, hit the button that says 'Autodiscover'. This will trigger Refresher to attempt to connect to the remote server to gather more details and extra patching instructions from it.
 
-Most servers based on Bunkum should support this protocol, most notably being Refresh. Other servers such as Project Lighthouse do not support this protocol.
+Most servers based on Bunkum, most notably Refresh, should support this protocol. Other servers such as Project Lighthouse do not support this protocol.
 
 If successful, Refresher will open a popup presenting the information it gathered from the server. Click 'Yes' to accept these settings, and Refresher will automatically do the rest when you patch.
 
@@ -33,7 +33,7 @@ If successful, Refresher will open a popup presenting the information it gathere
 > **Note**
 > If you are a developer of a custom server for any game, you can read up on our Autodiscover protocol's documentation [here](https://littlebigrefresh.github.io/Docs/autodiscover-api).
 >
-> We recommend you support it, as it helps users ensure that they are doing the correct thing before they launch the game.
+> We recommend you support it, as it helps users ensure that they are following the correct procedures before they launch the game.
 
 
 ## Step 3: Set the identifier

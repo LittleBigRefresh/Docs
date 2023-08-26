@@ -16,14 +16,14 @@ Once you've gotten a modded firmware up and running, head on over to GitHub and 
 
 Drop the installer .pkg on your PS3, and you should be all set after you run it.
 
-## Step 3: Find your PS3's IP Address
+## Step 2: Find your PS3's IP Address
 
 Head on over to your PS3, head to settings, then network settings, and open 'Settings and Connection Status List'.
 
 ![A screenshot of the PS3, showing the mentioned menu.](https://littlebigrefresh.github.io/Docs/patching/images/ps3-ip.png)
 
 Look for your 'IP Address', and write it down under the 'PS3s IP' field in Refresher.
-Click away from the textbox, and Refresher should start connecting. It may take a couple seconds for it to download all the game icons and metadata.
+Click away from the textbox, and Refresher should start connecting. It may take a couple of seconds for it to download all the game icons and metadata.
 
 ## Step 3: Fill in the server URL
 
@@ -31,7 +31,7 @@ You should have been given a URL by the person operating the server you're tryin
 
 Next, hit the button that says 'Autodiscover'. This will trigger Refresher to attempt to connect to the remote server to gather more details and extra patching instructions from it.
 
-Most servers based on Bunkum should support this protocol, most notably being Refresh. Other servers such as Project Lighthouse do not support this protocol.
+Most servers based on Bunkum, most notably Refresh, should support this protocol. Other servers such as Project Lighthouse do not support this protocol. Other servers such as Project Lighthouse do not support this protocol.
 
 If successful, Refresher will open a popup presenting the information it gathered from the server. Click 'Yes' to accept these settings, and Refresher will automatically do the rest when you patch.
 
@@ -40,7 +40,7 @@ If successful, Refresher will open a popup presenting the information it gathere
 > **Note**
 > If you are a developer of a custom server for any game, you can read up on our Autodiscover protocol's documentation [here](https://littlebigrefresh.github.io/Docs/autodiscover-api).
 >
-> We recommend you support it, as it helps users ensure that they are doing the correct thing before they launch the game.
+> We recommend you support it, as it helps users ensure that they are following the correct procedures before they launch the game.
 
 ## Step 4: Patch!
 
