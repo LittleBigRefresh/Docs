@@ -10,7 +10,7 @@ It also assumes that you've already downloaded Refresher. If you haven't, head o
 
 We can't help you with this, but there are various guides out there you can go out and find. We personally recommend MrMario2011's guides.
 
-In general, though, try to use latest firmware, use HEN for super slims, CFW for other models, etc., etc.
+In general, though, try to use the latest firmware, use HEN for super slims, CFW for other models, etc., etc.
 
 Once you've gotten a modded firmware up and running, head on over to GitHub and [Download webMAN](https://github.com/aldostools/webMAN-MOD/releases).
 
