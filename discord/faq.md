@@ -5,21 +5,17 @@ channelId: 1115713043163263027
 
 This channel contains answers frequently asked questions we see. If your question isn't answered in this channel, take a peek at our docs site online: <https://littlebigrefresh.github.io/Docs/>
 
-## Q: Does Refresh have a public server?
+## Q: Does Refresh have an official server?
 
-No, LittleBigRefresh has no public server currently. We plan to spin one up soon, so stay tuned.
+Yes! On August 26th, 2023, LittleBigRefresh launched. If you'd like to connect, head on over to <#1144875410786623568>
 
-## Q: How do I use Refresh?
+## Q: How do I make my own Refresh server?
 
 You can download the latest release from our GitHub. It's as easy as extracting a .zip to a comfortable spot, and running it.
 
-Refresh can't update itself, although we announce new releases in <#1049226545916551188>
+Refresh can't update itself, although we announce new releases in <#1049226545916551188>.
 
 If you use RPCS3, we do have a guide for it available here: <https://littlebigrefresh.github.io/Docs/patching/rpcs3>
-
-## Q: When will Refresh be complete?
-
-It's tough to say, but we're making steady progress. We try to post updates by means of releasing new versions of Refresh, but if you're extra curious you can watch the development channels. (particularly <#1102426423240691712> and <#1049225857350254632>)
 
 ## Q: What are Bunkum and Refresher?
 
