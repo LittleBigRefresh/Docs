@@ -31,7 +31,7 @@ You should have been given a URL by the person operating the server you're tryin
 
 Next, hit the button that says 'Autodiscover'. This will trigger Refresher to attempt to connect to the remote server to gather more details and extra patching instructions from it.
 
-Most servers based on Bunkum, most notably Refresh, should support this protocol. Other servers such as Project Lighthouse do not support this protocol. Other servers such as Project Lighthouse do not support this protocol.
+Most servers based on Bunkum, most notably Refresh, should support this protocol. Other servers such as Project Lighthouse do not support this protocol.
 
 If successful, Refresher will open a popup presenting the information it gathered from the server. Click 'Yes' to accept these settings, and Refresher will automatically do the rest when you patch.
 
