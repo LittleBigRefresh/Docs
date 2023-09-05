@@ -53,3 +53,5 @@ For example, if your punishment was delivered as a result of bad behavior over t
 ## Server Invite
 
 https://discord.gg/xN5yKdxmWG
+
+We are also available on Matrix: https://matrix.to/#/#littlebigrefresh:jvyden.xyz
