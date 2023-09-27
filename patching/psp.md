@@ -8,7 +8,7 @@ It also assumes that you've already downloaded Refresher. If you haven't, head o
 
 ## Step 1: Jailbreak your device and install a CFW
 
-We can't help you with this, but there are various guides out there you can go out and find. We personally recommend the guides on [pspunk](https://www.pspunk.com/psp-cfw/) and [vita.hacks.guide](https://vita.hacks.guide/), for PSP and Vita respectively.
+We can't help you with this directly, but there are various guides out there you can go out and find. We personally recommend the guides on [pspunk](https://www.pspunk.com/psp-cfw/) and [vita.hacks.guide](https://vita.hacks.guide/) for PSP and Vita respectively.
 
 ### PSP
 
