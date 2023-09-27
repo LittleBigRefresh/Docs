@@ -12,7 +12,7 @@ We can't help you with this directly, but there are various guides out there you
 
 ### PSP
 
-Try to use the latest firmware, and we reccomend PRO C over other CFWs, as they have not been thoroughly tested with Allefresher yet. It is possible to dual-boot CFWs, so if you need a CFW such as ARK-4 for other homebrew, we'd reccomend dual-booting PRO C as well until Allefresher is guarenteed to work well on ARK-4.
+Try to use the latest firmware, and we recommend PRO C over other CFWs, as they have not been thoroughly tested with Allefresher yet. It is possible to dual-boot CFWs, so if you need a CFW such as ARK-4 for other homebrew, we'd recommend dual-booting PRO C as well until Allefresher is guaranteed to work well on ARK-4.
 
 ### Vita
 
