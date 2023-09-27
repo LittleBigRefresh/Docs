@@ -22,6 +22,8 @@ You'll need to setup Adrenaline, and use the latest version of the Adrenaline eP
 
 Connect your console to your computer over USB, or plug your Memory Stick into a card reader.
 
+If you connected your PSP directly to your computer over USB, you should select USB Mode on the XMB.
+
 Mount the drive and open it in your file explorer.
 
 ## Step 3: Setup Refresher
