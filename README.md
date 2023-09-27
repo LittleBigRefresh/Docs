@@ -17,7 +17,7 @@ Documentation surrounding LittleBigPlanet, Refresh, and Bunkum.
 
 [Using Refresher to patch a game on PS3](https://littlebigrefresh.github.io/Docs/patching/ps3)
 
-[Using Refresher to setup Allefresher on PSP](https://littlebigrefresh.github.io/Docs/patching/psp)
+[Using Refresher to setup Allefresher on PSP/Vita](https://littlebigrefresh.github.io/Docs/patching/psp)
 
 ## LittleBigPlanet
 
