@@ -19,17 +19,17 @@ Here's an example request to the Autodiscover API:
 ```http
 GET /autodiscover HTTP/1.1
 Host: localhost:10061
-User-Agent: curl/8.0.1
+User-Agent: curl/8.3.0
 Accept: */*
- 
+
 HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 287
 Server: Bunkum
 Connection: close
-Date: Thu, 11 May 2023 23:22:16 GMT
-Content-Type: application/json
-Content-Length: 100
- 
-{"version":2,"serverBrand":"Refresh","url":"http://127.0.0.1:10061/lbp/","usesCustomDigestKey":true}
+Date: Thu, 12 Oct 2023 00:47:58 GMT
+
+{"version":3,"serverBrand":"LBR Dev (Refresh)","serverDescription":"The primary development instance for Refresh.","url":"https://refresh.jvyden.xyz/lbp","bannerImageUrl":"https://github.com/LittleBigRefresh/Branding/blob/main/logos/refresh_type.png?raw=true","usesCustomDigestKey":true}
 ```
 
 The server MUST reply with JSON data.
@@ -44,7 +44,7 @@ If the server wants to, it can change the output of the `url` parameter based on
 `version` refers to the schema version of the Autodiscover API. This is not a server version.
 
 ### Version 1
-`serverBrand`: A friendly name of the server. For Refresh it is simply `Refresh`, but you can put anything you want here. Generally it's the same as `lbpEnvVer`.
+`serverBrand`: A friendly name of the server. For Refresh it is simply `Refresh`, but you can put anything you want here. Generally it's the same as `lbpEnvVer` for LBP.
 
 `url`: The URL that should be recommended to the client. This is the URL that you or your players will be patching and connecting with.
 
@@ -53,6 +53,14 @@ If the server wants to, it can change the output of the `url` parameter based on
 This version is the same as version 1, with the following addition:
 
 `usesCustomDigestKey`: A boolean, when true it represents that the LBP server will only accept the digest key `CustomServerDigest`. Otherwise, the server is using the default digest key.
+
+### Version 3
+
+This version is the same as version 2, with the following additions:
+
+`serverDescription`: An optional friendly description of the server. You can put anything you like here. Not nullable, but will be empty by default.
+
+`bannerImageUrl`: An optional image that the client may retrieve. You can put any URL here as long as the link points to an image, however PNG is recommended. Can be null.
 
 ## Implementations
 
