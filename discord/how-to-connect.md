@@ -16,8 +16,8 @@ For patching, you'll probably want to grab Refresher. The latest release can be 
 
 ## Patching for RPCS3
 
-View this guide on GitHub: https://littlebigrefresh.github.io/Docs/patching/rpcs3
+View this guide on GitHub: https://docs.littlebigrefresh.com/patching/rpcs3
 
 ## Patching for PS3
 
-View this guide on GitHub: https://littlebigrefresh.github.io/Docs/patching/ps3
+View this guide on GitHub: https://docs.littlebigrefresh.com/patching/ps3

@@ -3,7 +3,7 @@ channelId: 1115713043163263027
 ---
 # FAQ
 
-This channel contains answers frequently asked questions we see. If your question isn't answered in this channel, take a peek at our docs site online: <https://littlebigrefresh.github.io/Docs/>
+This channel contains answers frequently asked questions we see. If your question isn't answered in this channel, take a peek at our docs site online: <https://docs.littlebigrefresh.com/>
 
 ## Q: Does Refresh have an official server?
 
@@ -15,7 +15,7 @@ You can download the latest release from our GitHub. It's as easy as extracting 
 
 Refresh can't update itself, although we announce new releases in <#1049226545916551188>.
 
-If you use RPCS3, we do have a guide for it available here: <https://littlebigrefresh.github.io/Docs/patching/rpcs3>
+If you use RPCS3, we do have a guide for it available here: <https://docs.littlebigrefresh.com/patching/rpcs3>
 
 ## Q: What are Bunkum and Refresher?
 

@@ -4,7 +4,7 @@ Refresher has native support for decrypting, encrypting and patching PS3 games. 
 
 It also assumes that you've already downloaded Refresher. If you haven't, head on over to the [GitHub page](https://github.com/LittleBigRefresh/Refresher) to grab yourself a copy.
 
-![A Screenshot of Refresher's PS3 patching screen](https://littlebigrefresh.github.io/Docs/patching/images/refresher-ps3.png)
+![A Screenshot of Refresher's PS3 patching screen](https://docs.littlebigrefresh.com/patching/images/refresher-ps3.png)
 
 ## Step 1: Jailbreak your PS3 and install webMAN
 
@@ -20,7 +20,7 @@ Drop the installer .pkg on your PS3, and you should be all set after you run it.
 
 Head on over to your PS3, head to settings, then network settings, and open 'Settings and Connection Status List'.
 
-![A screenshot of the PS3, showing the mentioned menu.](https://littlebigrefresh.github.io/Docs/patching/images/ps3-ip.png)
+![A screenshot of the PS3, showing the mentioned menu.](https://docs.littlebigrefresh.com/patching/images/ps3-ip.png)
 
 Look for your 'IP Address', and write it down under the 'PS3s IP' field in Refresher.
 Click away from the textbox, and Refresher should start connecting. It may take a couple of seconds for it to download all the game icons and metadata.
@@ -35,10 +35,10 @@ Most servers based on Bunkum, most notably Refresh, should support this protocol
 
 If successful, Refresher will open a pop-up presenting the information it gathered from the server. Click 'Yes' to accept these settings, and Refresher will automatically do the rest when you patch.
 
-![A dialog box from Refresher, indicating that Autodiscover has been performed sucessfully.](https://littlebigrefresh.github.io/Docs/patching/images/autodiscover-success.png)
+![A dialog box from Refresher, indicating that Autodiscover has been performed sucessfully.](https://docs.littlebigrefresh.com/patching/images/autodiscover-success.png)
 
 > **Note**
-> If you are a developer of a custom server for any game, you can read up on our Autodiscover protocol's documentation [here](https://littlebigrefresh.github.io/Docs/autodiscover-api).
+> If you are a developer of a custom server for any game, you can read up on our Autodiscover protocol's documentation [here](https://docs.littlebigrefresh.com/autodiscover-api).
 >
 > We recommend you support it, as it helps users ensure that they are following the correct procedures before they launch the game.
 

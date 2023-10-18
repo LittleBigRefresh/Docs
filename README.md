@@ -3,31 +3,31 @@ Documentation surrounding LittleBigPlanet, Refresh, and Bunkum.
 
 ## Refresh and Bunkum
 
-[Refresh/Bunkum Troubleshooting](https://littlebigrefresh.github.io/Docs/refresh-troubleshooting)
+[Refresh/Bunkum Troubleshooting](https://docs.littlebigrefresh.com/refresh-troubleshooting)
 
-[Autodiscover API Documentation](https://littlebigrefresh.github.io/Docs/autodiscover-api)
+[Autodiscover API Documentation](https://docs.littlebigrefresh.com/autodiscover-api)
 
-[Setting up a production server using Bunkum](https://littlebigrefresh.github.io/Docs/setup-bunkum-server)
+[Setting up a production server using Bunkum](https://docs.littlebigrefresh.com/setup-bunkum-server)
 
 ## Refresher Guides
 
-[Determining the URL to patch with](https://littlebigrefresh.github.io/Docs/patch-url)
+[Determining the URL to patch with](https://docs.littlebigrefresh.com/patch-url)
 
-[Using Refresher to patch a game on RPCS3](https://littlebigrefresh.github.io/Docs/patching/rpcs3)
+[Using Refresher to patch a game on RPCS3](https://docs.littlebigrefresh.com/patching/rpcs3)
 
-[Using Refresher to patch a game on PS3](https://littlebigrefresh.github.io/Docs/patching/ps3)
+[Using Refresher to patch a game on PS3](https://docs.littlebigrefresh.com/patching/ps3)
 
-[Using Refresher to setup Allefresher on PSP/Vita](https://littlebigrefresh.github.io/Docs/patching/psp)
+[Using Refresher to setup Allefresher on PSP/Vita](https://docs.littlebigrefresh.com/patching/psp)
 
 ## LittleBigPlanet
 
-[Community Tab Data](https://littlebigrefresh.github.io/Docs/LBP3_community_tab_data.txt)
+[Community Tab Data](https://docs.littlebigrefresh.com/LBP3_community_tab_data.txt)
 
-[Pins Metadata for LittleBigPlanet](https://littlebigrefresh.github.io/Docs/pins)
+[Pins Metadata for LittleBigPlanet](https://docs.littlebigrefresh.com/pins)
 
-[Tags/Labels Metadata for LittleBigPlanet](https://littlebigrefresh.github.io/Docs/labels)
+[Tags/Labels Metadata for LittleBigPlanet](https://docs.littlebigrefresh.com/labels)
 
-[Recent Activity Event List](https://littlebigrefresh.github.io/Docs/recent-activity-events.txt)
+[Recent Activity Event List](https://docs.littlebigrefresh.com/recent-activity-events.txt)
 
 ## Discord
 
@@ -35,10 +35,10 @@ These are the original source files for our "Meta" section on the Discord.
 They are converted from Markdown into Discord messages automatically.
 This is what the tables at the top are for - to provide metadata to the converter.
 
-[Information](https://littlebigrefresh.github.io/Docs/discord/information)
+[Information](https://docs.littlebigrefresh.com/discord/information)
 
-[Developer Information](https://littlebigrefresh.github.io/Docs/discord/dev-info)
+[Developer Information](https://docs.littlebigrefresh.com/discord/dev-info)
 
-[Frequently Asked Questions](https://littlebigrefresh.github.io/Docs/discord/faq)
+[Frequently Asked Questions](https://docs.littlebigrefresh.com/discord/faq)
 
-[Cool Servers](https://littlebigrefresh.github.io/Docs/discord/cool-servers)
+[Cool Servers](https://docs.littlebigrefresh.com/discord/cool-servers)

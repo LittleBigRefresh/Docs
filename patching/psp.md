@@ -4,7 +4,7 @@ Refresher has support for automatically deploying Allefresher onto a PSP or Vita
 
 This guide assumes that you've already downloaded Refresher. If you haven't, head on over to the [GitHub page](https://github.com/LittleBigRefresh/Refresher) to grab yourself a copy.
 
-![A Screenshot of Refresher's PSP patching screen](https://littlebigrefresh.github.io/Docs/patching/images/refresher-psp.png)
+![A Screenshot of Refresher's PSP patching screen](https://docs.littlebigrefresh.com/patching/images/refresher-psp.png)
 
 ## Step 1: Jailbreak your device and install a CFW
 
@@ -51,10 +51,10 @@ Most servers based on Bunkum, most notably Refresh, should support this protocol
 
 If successful, Refresher will open a pop-up presenting the information it gathered from the server. Click 'Yes' to accept these settings, and Refresher will automatically do the rest when you patch.
 
-![A dialog box from Refresher, indicating that Autodiscover has been performed sucessfully.](https://littlebigrefresh.github.io/Docs/patching/images/autodiscover-success.png)
+![A dialog box from Refresher, indicating that Autodiscover has been performed sucessfully.](https://docs.littlebigrefresh.com/patching/images/autodiscover-success.png)
 
 > **Note**
-> If you are a developer of a custom server for any game, you can read up on our Autodiscover protocol's documentation [here](https://littlebigrefresh.github.io/Docs/autodiscover-api).
+> If you are a developer of a custom server for any game, you can read up on our Autodiscover protocol's documentation [here](https://docs.littlebigrefresh.com/autodiscover-api).
 >
 > We recommend you support it, as it helps users ensure that they are following the correct procedures before they launch the game.
 

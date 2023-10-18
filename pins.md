@@ -10,6 +10,6 @@ Huge thanks to [Ennuo](https://github.com/ennuo/) for providing these!
 
 ## Pin files
 
-[LittleBigPlanet 3](https://littlebigrefresh.github.io/Docs/pin-files/lbp3.json)
+[LittleBigPlanet 3](https://docs.littlebigrefresh.com/pin-files/lbp3.json)
 
-[LittleBigPlanet Vita](https://littlebigrefresh.github.io/Docs/pin-files/lbpvita.json)
+[LittleBigPlanet Vita](https://docs.littlebigrefresh.com/pin-files/lbpvita.json)
