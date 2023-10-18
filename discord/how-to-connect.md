@@ -8,7 +8,7 @@ LittleBigRefresh currently supports LBP1, LBP2, and LBP Vita. LBP3 is currently 
 
 Our server URL is `http://lbp.littlebigrefresh.com:2095/lbp`. AutoDiscover is required for games other than LBP2.
 
-Before connecting, you have to manually register on the website. You can sign up here: https://refresh.jvyden.xyz/register
+Before connecting, you have to manually register on the website. You can sign up here: https://lbp.littlebigrefresh.com/register
 
 ## Downloads
 
