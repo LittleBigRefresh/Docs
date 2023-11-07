@@ -4,7 +4,7 @@ Refresher has support for automatically deploying Allefresher onto a PSP or Vita
 
 This guide assumes that you've already downloaded Refresher. If you haven't, head on over to the [GitHub page](https://github.com/LittleBigRefresh/Refresher) to grab yourself a copy.
 
-![A Screenshot of Refresher's PSP patching screen](https://docs.littlebigrefresh.com/patching/images/refresher-psp.png)
+![A Screenshot of Refresher's PSP patching screen](refresher-psp.png)
 
 ## Step 1: Jailbreak your device and install a CFW
 
