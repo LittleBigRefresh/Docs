@@ -24,6 +24,8 @@
     <toc-element toc-title="LittleBigPlanet">
         <toc-element topic="pins.md"/>
         <toc-element topic="labels.md"/>
+        <toc-element topic="community-tab-data.md"/>
+        <toc-element topic="recent-activity.md"/>
     </toc-element>
 
     <toc-element toc-title="Patching">

@@ -1,3 +1,7 @@
+# Recent Activity
+
+## Event Enum {collapsible="true"}
+```
 heart_level
 unheart_level
 heart_user
@@ -18,3 +22,4 @@ comment_on_user
 create_playlist
 heart_playlist
 add_level_to_playlist
+```
