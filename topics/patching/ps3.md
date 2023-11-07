@@ -27,20 +27,7 @@ Click away from the textbox, and Refresher should start connecting. It may take 
 
 ## Step 3: Fill in the server URL
 
-You should have been given a URL by the person operating the server you're trying to connect to. Copy this URL into the second field - the one named 'Server URL'.
-
-Next, hit the button that says 'AutoDiscover'. This will trigger Refresher to attempt to connect to the remote server to gather more details and extra patching instructions from it.
-
-Most servers based on Bunkum, most notably Refresh, should support this protocol. Other servers such as Project Lighthouse do not support this protocol.
-
-If successful, Refresher will open a pop-up presenting the information it gathered from the server. Click 'Yes' to accept these settings, and Refresher will automatically do the rest when you patch.
-
-![A dialog box from Refresher, indicating that AutoDiscover has been performed sucessfully.](https://docs.littlebigrefresh.com/patching/images/autodiscover-success.png)
-
-> **Note**
-> If you are a developer of a custom server for any game, you can read up on our AutoDiscover protocol's documentation [here](https://docs.littlebigrefresh.com/autodiscover-api).
->
-> We recommend you support it, as it helps users ensure that they are following the correct procedures before they launch the game.
+<include from="Library.topic" element-id="fill-in-server-url"></include>
 
 ## Step 4: Patch!
 
