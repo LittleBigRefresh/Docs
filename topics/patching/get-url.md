@@ -1,6 +1,6 @@
 # Determining the URL to patch with
 
-In order for LittleBigPlanet to connect to Refresh (or any other custom gameserver), the game's EBOOT must be patched with a http(s) url.
+In order for LittleBigPlanet to connect to Refresh (or any other custom game server), the game's EBOOT must be patched with a http(s) url.
 
 This guide demonstrates how to get this url.
 
@@ -50,4 +50,4 @@ Refresh by default runs on port 10061 and listens via HTTP.
 
 So, assuming no configuration changes were made (you'll know if you changed anything) the URL should be `http://(ip):10061/lbp`. 
 
-`/lbp` is where Refresh listens for gameserver requests. It's important to leave this in the url - otherwise Refresh will not understand that LBP clients are trying to talk to it.
+`/lbp` is where Refresh listens for game server requests. It's important to leave this in the url - otherwise Refresh will not understand that LBP clients are trying to talk to it.

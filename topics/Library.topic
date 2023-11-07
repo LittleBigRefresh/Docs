@@ -23,7 +23,7 @@
             Click 'Yes' to accept these settings, and Refresher will automatically do the rest when you patch.
         </p>
 
-        <img src="https://docs.littlebigrefresh.com/patching/images/autodiscover-success.png" alt="A dialog box from Refresher, indicating that AutoDiscover has been performed sucessfully." />
+        <img src="https://docs.littlebigrefresh.com/patching/images/autodiscover-success.png" alt="A dialog box from Refresher, indicating that AutoDiscover has been performed successfully." />
 
         <note id="use-autodiscover-note">
             <p>If you are a developer of a custom server for any game, you can read up on our AutoDiscover protocol's documentation <a href="https://docs.littlebigrefresh.com/autodiscover-api">here</a>.</p>

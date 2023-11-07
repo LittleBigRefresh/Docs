@@ -2,7 +2,7 @@
 
 This guide will go over setting up a server using Bunkum in production. This includes things like [Refresh](https://github.com/LittleBigRefresh/Refresh), and [SoundShapesServer](https://github.com/turecross321/SoundShapesServer).
 
-We will be targetting a Linux server running an already configured nginx server as the reverse proxy.
+We will be targeting a Linux server running an already configured nginx server as the reverse proxy.
 
 ## Step 1: Download the software
 
@@ -142,10 +142,16 @@ Once again, there should be no output. We can then start the service, and tell i
 # systemctl start <server-name>
 ```
 
+### Step 4.5. Checking if it works
+
 Do a test ping to check that the server is running. Everything should be healthy.
 
+<note>
+<p>Some servers might not use Bunkum's health service, so this may not work depending on the server software.</p>
+</note>
+
+`$ curl localhost:10061/_health`
 ```json
-$ curl localhost:10061/_health
 {
     "StatusType": "Healthy",
     "Checks":

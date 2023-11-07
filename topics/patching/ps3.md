@@ -23,7 +23,7 @@ Head on over to your PS3, head to settings, then network settings, and open 'Set
 ![A screenshot of the PS3, showing the mentioned menu.](https://docs.littlebigrefresh.com/patching/images/ps3-ip.png)
 
 Look for your 'IP Address', and write it down under the 'PS3s IP' field in Refresher.
-Click away from the textbox, and Refresher should start connecting. It may take a couple of seconds for it to download all the game icons and metadata.
+Click away from the text-box, and Refresher should start connecting. It may take a couple of seconds for it to download all the game icons and metadata.
 
 ## Step 3: Fill in the server URL
 
