@@ -1,5 +1,6 @@
 ---
 channelId: 1134030451154096148
+title: Cool Servers
 ---
 
 ## LittleBigPlanet PSVita Discord

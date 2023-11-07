@@ -4,7 +4,7 @@ In order for LittleBigPlanet to connect to Refresh (or any other custom gameserv
 
 This guide demonstrates how to get this url.
 
-# TL;DR
+## TL;DR
 
 The URL is your computer's IP at port 10061, e.g. `http://10.0.0.100:10061/lbp`
 

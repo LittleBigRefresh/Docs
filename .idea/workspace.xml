@@ -4,43 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="780f357e-4c15-49a1-883e-58fc06c5d697" name="Changes" comment="Add Writerside project files">
-      <change afterPath="$PROJECT_DIR$/topics/index.md" afterDir="false" />
+    <list default="true" id="780f357e-4c15-49a1-883e-58fc06c5d697" name="Changes" comment="Move everything inside the 'topics' folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LBP3_community_tab_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/topics/LBP3_community_tab_data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autodiscover-api.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/autodiscover-api.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discord/cool-servers.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/discord/cool-servers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discord/dev-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/discord/dev-info.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discord/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/discord/faq.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discord/how-to-connect.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/discord/how-to-connect.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discord/information.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/discord/information.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs.tree" beforeDir="false" afterPath="$PROJECT_DIR$/docs.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labels.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/labels.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patch-url.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/patch-url.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patching/images/autodiscover-success.png" beforeDir="false" afterPath="$PROJECT_DIR$/topics/patching/images/autodiscover-success.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patching/images/ps3-ip.png" beforeDir="false" afterPath="$PROJECT_DIR$/topics/patching/images/ps3-ip.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patching/images/refresher-ps3.png" beforeDir="false" afterPath="$PROJECT_DIR$/topics/patching/images/refresher-ps3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patching/images/refresher-psp.png" beforeDir="false" afterPath="$PROJECT_DIR$/topics/patching/images/refresher-psp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patching/images/refresher-rpcs3.png" beforeDir="false" afterPath="$PROJECT_DIR$/topics/patching/images/refresher-rpcs3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patching/images/rpcs3-boot.png" beforeDir="false" afterPath="$PROJECT_DIR$/topics/patching/images/rpcs3-boot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patching/images/rpcs3-directory.png" beforeDir="false" afterPath="$PROJECT_DIR$/topics/patching/images/rpcs3-directory.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patching/ps3.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/patching/ps3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patching/psp.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/patching/psp.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patching/rpcs3.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/patching/rpcs3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pics/add_firewall_rule_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/topics/pics/add_firewall_rule_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pics/add_firewall_rule_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/topics/pics/add_firewall_rule_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pics/add_firewall_rule_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/topics/pics/add_firewall_rule_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pics/add_firewall_rule_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/topics/pics/add_firewall_rule_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pins.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/pins.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recent-activity-events.txt" beforeDir="false" afterPath="$PROJECT_DIR$/topics/recent-activity-events.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/refresh-troubleshooting.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/refresh-troubleshooting.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup-bunkum-server.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/setup-bunkum-server.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags-and-labels/lbp2_labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/topics/tags-and-labels/lbp2_labels.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags-and-labels/lbp2_tags.txt" beforeDir="false" afterPath="$PROJECT_DIR$/topics/tags-and-labels/lbp2_tags.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags-and-labels/lbp3_labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/topics/tags-and-labels/lbp3_labels.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags-and-labels/lbpvita_labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/topics/tags-and-labels/lbpvita_labels.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags-and-labels/lbpvita_tags.txt" beforeDir="false" afterPath="$PROJECT_DIR$/topics/tags-and-labels/lbpvita_tags.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/autodiscover-api.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/bunkum/autodiscover-api.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/discord/cool-servers.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/discord/cool-servers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/patch-url.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/patching/get-url.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/patching/images/autodiscover-success.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/patching/autodiscover-success.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/patching/images/ps3-ip.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/patching/ps3-ip.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/patching/images/refresher-ps3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/patching/refresher-ps3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/patching/images/refresher-psp.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/patching/refresher-psp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/patching/images/refresher-rpcs3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/patching/refresher-rpcs3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/patching/images/rpcs3-boot.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/patching/rpcs3-boot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/patching/images/rpcs3-directory.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/patching/rpcs3-directory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/pics/add_firewall_rule_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/add_firewall_rule_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/pics/add_firewall_rule_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/add_firewall_rule_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/pics/add_firewall_rule_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/add_firewall_rule_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/pics/add_firewall_rule_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/add_firewall_rule_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/refresh-troubleshooting.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/bunkum/troubleshooting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/setup-bunkum-server.md" beforeDir="false" afterPath="$PROJECT_DIR$/topics/bunkum/setup-bunkum-server.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/writerside.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/writerside.cfg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,8 +91,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/topics" />
+      <recent name="$PROJECT_DIR$/topics/bunkum" />
+      <recent name="$PROJECT_DIR$/topics/patching" />
+      <recent name="$PROJECT_DIR$/images/patching" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/topics" />
     </key>
   </component>
   <component name="RunManager" selected="Writerside.Build LittleBigRefresh Documentation (docs)">
@@ -150,6 +136,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Writerside project files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Writerside project files" />
+    <MESSAGE value="Move everything inside the 'topics' folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Move everything inside the 'topics' folder" />
   </component>
 </project>
