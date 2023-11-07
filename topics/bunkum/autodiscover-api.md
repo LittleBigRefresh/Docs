@@ -1,4 +1,4 @@
-# Autodiscover API Documentation
+# AutoDiscover API Documentation
 
 ## Rationale
 
@@ -6,7 +6,7 @@ To verify if a URL points to a custom server and if it is working, Refresher wil
 
 While this API originated from Refresh, it is intended to be used by any custom server using HTTP.
 
-The Autodiscover API has two main purposes:
+The AutoDiscover API has two main purposes:
 
 1. Verify that the URL the user has given in patching software is correct.
 2. Provide extra information on how the patcher should work, and show metadata about the server to the user.
@@ -14,7 +14,7 @@ The Autodiscover API has two main purposes:
 
 ## Example
 
-Here's an example request to the Autodiscover API:
+Here's an example request to the AutoDiscover API:
 
 ```http
 GET /autodiscover HTTP/1.1
@@ -41,7 +41,7 @@ The client can also specify a titleId in the request:
 If the server wants to, it can change the output of the `url` parameter based on the given titleId. For example a LBP3 client may require HTTPS, but other clients may not be able to connect via HTTPS. In this case you would want to change to a http(s) URL for those clients.
 
 ## Parameters
-`version` refers to the schema version of the Autodiscover API. This is not a server version.
+`version` refers to the schema version of the AutoDiscover API. This is not a server version.
 
 ### Version 1
 `serverBrand`: A friendly name of the server. For Refresh it is simply `Refresh`, but you can put anything you want here. Generally it's the same as `lbpEnvVer` for LBP.
@@ -64,9 +64,8 @@ This version is the same as version 2, with the following additions:
 
 ## Implementations
 
-So far, there are only a few known implementations of Autodiscover.
+So far, there are only a few known implementations of AutoDiscover.
 
 - [Bunkum.AutoDiscover](https://www.nuget.org/packages/Bunkum.AutoDiscover), a service for Bunkum to implement the protocol.
 - Refresh (via `Bunkum.AutoDiscover`)
 - SoundShapesServer (via `Bunkum.AutoDiscover`)
-- [ctbxserver](https://github.com/catboxteam/ctbxserver/blob/631adb1a2e08f5afd4663dcff567e3127e9be578/src/routes/Website/main.py#L122) (archived project, commented out)
