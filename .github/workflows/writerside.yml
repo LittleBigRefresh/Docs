@@ -11,7 +11,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: ./docs
+  INSTANCE: /docs
   ARTIFACT: webHelpDOCS2-all.zip
   DOCKER_VERSION: 232.10165.1
 
