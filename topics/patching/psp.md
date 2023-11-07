@@ -10,11 +10,11 @@ This guide assumes that you've already downloaded Refresher. If you haven't, hea
 
 We can't help you with this directly, but there are various guides out there you can go out and find. We personally recommend the guides on [pspunk](https://www.pspunk.com/psp-cfw/) and [vita.hacks.guide](https://vita.hacks.guide/) for PSP and Vita respectively.
 
-### PSP
+### Jailbreaking PSP
 
 Try to use the latest firmware. We recommend PRO C over other CFWs, as they have not been thoroughly tested with Allefresher yet. It is possible to dual-boot CFWs, so if you need a CFW such as ARK-4 for other homebrew, we'd recommend dual-booting PRO C as well until Allefresher is guaranteed to work well on ARK-4.
 
-### Vita
+### Jailbreaking Vita
 
 You'll need to set up Adrenaline with the latest version of the Adrenaline ePSP firmware (as with PSP, ARK-4 is untested). You'll also need [VitaShell](https://github.com/TheOfficialFloW/VitaShell/releases).
 
@@ -22,11 +22,11 @@ You'll need to set up Adrenaline with the latest version of the Adrenaline ePSP 
 
 Connect your console to your computer over USB, or plug your Memory Stick into a card reader.
 
-### PSP
+### Connecting a PSP
 
 Select USB Mode on the XMB.
 
-### Vita
+### Connecting a Vita
 
 Open VitaShell, and press select to enable USB. You may need press start and switch SELECT from FTP -> USB.
 
@@ -36,7 +36,7 @@ Mount the drive and open it in your file explorer.
 
 Open Refresher, and select "PSP Setup".
 
-Inside Refresher you should see at a dropdown labeled "PSP Drive". In that dropdown, select the correct path. If your console's drive does not appear there, check to make sure it is mounted, and ensure it contains a `PSP` or `pspemu` folder on it.
+Inside Refresher, you should see at a dropdown labeled "PSP Drive". In that dropdown, select the correct path. If your console's drive does not appear there, check to make sure it is mounted, and ensure it contains a `PSP` or `pspemu` folder on it.
 
 > **Note:**
 > On Windows, the `pspemu` folder is marked as hidden by default, to view it in file explorer you will need to enable viewing hidden files and system folders.
