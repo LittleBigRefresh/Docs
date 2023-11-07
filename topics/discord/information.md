@@ -17,7 +17,7 @@ These rules can basically be summarized to "don't be an a-hole" or "use common s
 
 1. Follow Discord's terms of service. These can be found at <https://discord.com/terms>.
 
-2. No spam or self-promotion (server invites, advertisements, etc) without permission from a staff member. This includes DMing fellow members.
+2. No spam or self-promotion (server invites, advertisements, etc.) without permission from a staff member. This includes DMing fellow members.
 
 3. Treat everyone with respect. Absolutely no harassment, witch hunting, sexism, racism, or hate speech will be tolerated.
 
@@ -30,9 +30,9 @@ These rules can basically be summarized to "don't be an a-hole" or "use common s
 7. We are not obligated to offer you any technical support if we find that you pirated your copy of the game. Assisting you with your illegally obtained copy could potentially lead to legal issues with Sony, which we'd prefer to avoid.
 ## Enforcement
 
-We generally try to be hands-off when it comes to punishment. In most cases, the offending content will simply be deleted or you will receive a verbal warning.
+We generally try to be hands-off when it comes to punishment. In most cases, the offending content will simply be deleted, or you will receive a verbal warning.
 
-In more extreme cases, you will be muted for anywhere between an hour and a week. This mostly happens after persisting after being told to stop doing something by a staff member.
+In more extreme cases, you will be muted for anywhere between an hour and a week. This mostly happens after persisting and being told to stop doing something by a staff member.
 
 More often than not, a compromise by a staff member is given. For example, one may be told to move to a different channel or thread. Not following this advice will almost definitely result in a mute.
 
@@ -44,7 +44,7 @@ In the case that you've received a punishment (such as a ban or mute), you may f
 
 We currently lack a system for proper appeals as we usually don't have enough problems to warrant one. However, we still recognize the need for one so right now our recommendation for this right now is to contact a staff member directly.
 
-However, try to avoid contacting the staff member that punished you if possible. This can lead to bias in the handling of your case, as the staff member that punished you will generally not have a opinion in your favor.
+However, try to avoid contacting the staff member that punished you if possible. This can lead to bias in the handling of your case, as the staff member that punished you will generally not have an opinion in your favor.
 
 Generally though, most punishments are given out for a reason. Due to our hands-off nature we tend to focus on general behaviour rather than individual incidents.
 

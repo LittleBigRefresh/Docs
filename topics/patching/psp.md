@@ -1,4 +1,4 @@
-# Using Refresher to setup Allefresher on PSP/Vita
+# Using Refresher to set up Allefresher on PSP/Vita
 
 Refresher has support for automatically deploying Allefresher onto a PSP or Vita, with the relevant configuration automatically filled out. This will let you connect to a custom server on LittleBigPlanet for the PSP (on Vita, this would be through Adrenaline).
 

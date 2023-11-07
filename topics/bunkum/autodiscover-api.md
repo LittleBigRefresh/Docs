@@ -44,7 +44,7 @@ If the server wants to, it can change the output of the `url` parameter based on
 `version` refers to the schema version of the AutoDiscover API. This is not a server version.
 
 ### Version 1
-`serverBrand`: A friendly name of the server. For Refresh it is simply `Refresh`, but you can put anything you want here. Generally it's the same as `lbpEnvVer` for LBP.
+`serverBrand`: A friendly name of the server. For Refresh, it is simply `Refresh`, but you can put anything you want here. Generally it's the same as `lbpEnvVer` for LBP.
 
 `url`: The URL that should be recommended to the client. This is the URL that you or your players will be patching and connecting with.
 

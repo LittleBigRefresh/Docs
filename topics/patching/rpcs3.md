@@ -10,7 +10,7 @@ It also assumes that you've already downloaded Refresher. If you haven't, head o
 
 Every copy of RPCS3 has a folder titled `dev_hdd0` containing game files and digital licenses required for Refresher to modify the game. Obviously, you can't patch anything without knowing what anything is, so we need to tell Refresher where this is!
 
-If you are on Linux or MacOS, this will be automatically detected for you, and you do not need to do anything. On Windows, however, the files aren't at any particular known location. Refresher is unable to read minds at this current point in time, so you'll have to provide this directory.
+If you are on Linux or macOS, this will be automatically detected for you, and you do not need to do anything. On Windows, however, the files aren't at any particular known location. Refresher is unable to read minds at this current point in time, so you'll have to provide this directory.
 
 Here's where it should be:
 

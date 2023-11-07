@@ -45,7 +45,7 @@ With the user created, we can begin extracting the server we downloaded earlier.
 
 ## Step 3: Deploying the software
 
-Generally, programs like this should be deployed in `/opt/`, (with a data directory set with `BUNKUM_DATA_FOLDER`, but for simplicity's sake we will be doing it in our new user's home folder.
+Generally, programs like this should be deployed in `/opt/`, (with a data directory set with `BUNKUM_DATA_FOLDER`), but for simplicity's sake we will be doing it in our new user's home folder.
 
 It should be as easy as extracting the `.zip` you downloaded earlier. Make sure the executables are in the root folder of the home partition, like so:
 
@@ -87,7 +87,7 @@ The defaults are more oriented for private use cases - across a local home netwo
 
 - `UseForwardedIp` tells Bunkum that it's safe to read client IP addresses from the requests forwarded via the reverse proxy. Set this to `true`.
 
-- Change `ListenHost` to `127.0.0.1`, as we do not want to listen outside of the current machine. Our reverse proxy will handle connections from the internet.
+- Change `ListenHost` to `127.0.0.1`, as we do not want to listen outside the current machine. Our reverse proxy will handle connections from the internet.
 
 The rest are self-explanatory. Once you're satisfied with your configuration, and you've taken a look at the other configurations the server generated, proceed to the next step.
 
@@ -164,9 +164,9 @@ $ curl localhost:10061/_health
 }
 ```
 
-# Step 5. Writing an NGINX configuration
+## Step 5. Writing an NGINX configuration
 
-TODO, heres an example
+TODO, here's an example:
 
 ```nginx
 server {

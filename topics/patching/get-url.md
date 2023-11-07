@@ -42,7 +42,7 @@ It will print something like this:
        valid_lft forever preferred_lft forever
 ```
 
-You are looking for your IPv4 address of your main network adapter. In my case, it's `enp5s0` as I am on ethernet. It can also be `wlan0` if you are on WiFi. The IP address will be listed next to the `inet` text, in my case `10.0.0.100`. Ignore the `/24` part - that is not relevant.
+You are looking for your IPv4 address of your main network adapter. In my case, it's `enp5s0` as I am on ethernet. It can also be `wlan0` if you are on Wi-Fi. The IP address will be listed next to the `inet` text, in my case `10.0.0.100`. Ignore the `/24` part - that is not relevant.
 
 ## Constructing the URL
 
