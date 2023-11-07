@@ -146,9 +146,9 @@ Once again, there should be no output. We can then start the service, and tell i
 
 Do a test ping to check that the server is running. Everything should be healthy.
 
-<note>
+<warning>
 <p>Some servers might not use Bunkum's health service, so this may not work depending on the server software.</p>
-</note>
+</warning>
 
 `$ curl localhost:10061/_health`
 ```json
