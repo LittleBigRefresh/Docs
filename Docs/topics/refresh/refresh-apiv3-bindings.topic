@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Refresh APIv3 Bindings" id="refresh-apiv3-bindings">
+
+    <p>
+        Refresh's API is intended to be accessible and used by anyone.
+        To facilitate this, here's a set of bindings we've created for a couple of languages,
+        as well as some information on how to create your own.
+    </p>
+
+    <chapter title="Creating your own bindings" id="creating-your-own-bindings">
+        <p>
+            If you would like to roll your own solution to your bindings, we have some helpful tools available.
+            Obviously, we're open source, so you can just look at the code, but we do care about proper documentation.
+        </p>
+
+        <p>
+            Past that, though, we automatically generate API documentation at runtime and serve that over the API.
+            You can view that in a browser on our production instance <a href="https://lbp.littlebigrefresh.com/documentation">here</a> if you would like,
+            but the documentation is also exposed on every Refresh server's API via <code>/api/v3/documentation</code>.
+        </p>
+
+        <warning>
+            <p>
+                Refresh's API is subject to change as development progresses, but we try to avoid breaking changes where we can.
+                It's best to keep an eye on development, so you know what's coming.
+            </p>
+
+            <p>
+                In addition, we're still working on bringing you some docs regarding types, so for now you'll have to manually peek at requests.
+            </p>
+        </warning>
+
+        <note>
+            <p>
+                The gold standard for an API client right now is <a href="https://github.com/LittleBigRefresh/refresh-web">refresh-web (written in Angular/TypeScript)</a>.
+                If you're ever confused about anything, feel free to peek at that project's source code.
+            </p>
+            <p>
+                Another project you could look at for reference is <a href="https://github.com/LittleBigRefresh/FreshPresence">FreshPresence (written in Zig)</a>.
+            </p>
+        </note>
+    </chapter>
+
+    <chapter title="Bindings" id="bindings">
+        <!--    <chapter title="Complete" id="complete-bindings">-->
+        <!--        <list>-->
+        <!--            <li><a href="https://github.com/LittleBigRefresh/refresh-api-zig">Zig</a></li>-->
+        <!--        </list>-->
+        <!--    </chapter>-->
+
+        <chapter title="Work In Progress" id="wip-bindings">
+            <list>
+                <li><a href="https://github.com/LittleBigRefresh/refresh-api-zig">Zig</a></li>
+            </list>
+        </chapter>
+
+        <chapter title="Planned" id="planned-bindings">
+            <p>We haven't started working on these bindings yet. Stay tuned!</p>
+            <note>
+                <p>
+                    If you would like a language to be worked on, feel free to let us know on
+                    <a href="https://github.com/LittleBigRefresh/Refresh/issues/new">Refresh's issue tracker</a>.
+                </p>
+                <p>
+                    Or, if you would like to add your community bindings here, create a pull request on our
+                    <a href="https://github.com/LittleBigRefresh/Docs">Docs</a> repo.
+                </p>
+            </note>
+            <list>
+                <li>.NET (C#/VB.NET/F#)</li>
+                <li>TypeScript/JavaScript for Node.js</li>
+                <li>Python</li>
+            </list>
+        </chapter>
+    </chapter>
+</topic>
