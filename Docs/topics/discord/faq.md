@@ -26,3 +26,7 @@ It was born out of frustration when LBP kept violating several internet standard
 Refresher is the patcher that lets you modify your game to connect to custom servers. It can technically work for other games than just the LBP series, but it is still a work in progress.
 
 It aims to be smart, communicating with the server for proper patching instructions via our "AutoDiscover" protocol.
+
+## Q: Is PPSSPP supported by Refresh
+
+Not at the moment. PPSSPP support is in the works, but is currently not possible.

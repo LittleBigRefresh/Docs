@@ -21,6 +21,6 @@ For Refresh, this is accessible at <https://github.com/LittleBigRefresh/Refresh/
 
 <#1102426423240691712> is a channel containing logs from all repositories on our GitHub organization. It contains things like issues, commits, pull requests, and more.
 
-<#1049225857350254632> is the main development channel. Here, you will find development for most of our core projects, mostly Refresh and Bunkum.
+<#1049225857350254632> is the main development channel. Here, you will find development for most of our core projects, mostly [Refresh](<https://github.com/LittleBigRefresh/Refresh>) and [Bunkum](<https://github.com/LittleBigRefresh/Bunkum>).
 
-<#1094447785090236547> is a channel for development of private servers for EA's port of TF2 for the PS3.
+<#1145027319711412284> is the development channel for projects such as [Refresher](<https://github.com/LittleBigRefresh/Refresher>), [Allefresher](<https://github.com/LittleBigRefresh/Allefresher>), and [FreshPresence](<https://github.com/LittleBigRefresh/FreshPresence>)
