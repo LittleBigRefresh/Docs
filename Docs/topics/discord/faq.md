@@ -27,6 +27,6 @@ Refresher is the patcher that lets you modify your game to connect to custom ser
 
 It aims to be smart, communicating with the server for proper patching instructions via our "AutoDiscover" protocol.
 
-## Q: Is PPSSPP supported by Refresh
+## Q: Is PPSSPP supported by Refresh?
 
 Not at the moment. PPSSPP support is in the works, but is currently not possible.
