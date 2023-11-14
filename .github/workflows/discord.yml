@@ -18,4 +18,4 @@ jobs:
         with:
           discordToken: ${{ secrets.DISCORD_TOKEN }}
           githubToken: ${{ secrets.GITHUB_TOKEN }}
-          markdownDirectory: "topics/discord"
+          markdownDirectory: "Docs/topics/discord"
