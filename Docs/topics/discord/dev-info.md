@@ -23,4 +23,4 @@ For Refresh, this is accessible at <https://github.com/LittleBigRefresh/Refresh/
 
 <#1049225857350254632> is the main development channel. Here, you will find development for most of our core projects, mostly [Refresh](<https://github.com/LittleBigRefresh/Refresh>) and [Bunkum](<https://github.com/LittleBigRefresh/Bunkum>).
 
-<#1145027319711412284> is the development channel for projects such as [Refresher](<https://github.com/LittleBigRefresh/Refresher>), [Allefresher](<https://github.com/LittleBigRefresh/Allefresher>), and [FreshPresence](<https://github.com/LittleBigRefresh/FreshPresence>)
+<#1145027319711412284> is a development channel for projects without a dedicated channel, such as [Refresher](<https://github.com/LittleBigRefresh/Refresher>), [Allefresher](<https://github.com/LittleBigRefresh/Allefresher>), and [FreshPresence](<https://github.com/LittleBigRefresh/FreshPresence>).
