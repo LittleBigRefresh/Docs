@@ -30,3 +30,7 @@ It aims to be smart, communicating with the server for proper patching instructi
 ## Q: Is PPSSPP supported by Refresh?
 
 Not at the moment. PPSSPP support is in the works, but is currently not possible.
+
+## Q: I followed the PSP guide, but my game wont connect!
+
+Make sure to update your game to the latest version v2.0.5, as that is the only version we support. LBP PSP Alpha, or a non-updated version will not work. If you still cannot connect, ask for help in <#1049223665998372947>.
