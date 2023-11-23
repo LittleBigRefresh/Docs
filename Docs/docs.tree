@@ -29,13 +29,13 @@
     </toc-element>
 
     <toc-element toc-title="Patching">
-        <toc-element topic="get-url.md"/>
         <toc-element topic="ps3.md"/>
         <toc-element topic="rpcs3.md"/>
         <toc-element topic="psp.md"/>
     </toc-element>
 
     <toc-element toc-title="Refresh">
+        <toc-element topic="get-url.md"/>
         <toc-element topic="refresh-apiv3-bindings.topic"/>
     </toc-element>
 </instance-profile>

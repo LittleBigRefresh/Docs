@@ -2,7 +2,7 @@
 
 In order for LittleBigPlanet to connect to Refresh (or any other custom game server), the game's EBOOT must be patched with a http(s) url.
 
-This guide demonstrates how to get this url.
+This guide demonstrates how to get this url as a server owner. If you are intending to connect to someone else's server, ask for their URL instead.
 
 <tldr>
 <p><b>TL;DR</b></p>
