@@ -10,7 +10,7 @@ This page contains a list of them and what they do.
 - `/clearforcematch`: Tells the dive-in system you no longer wish to force a match. 
   This is done automatically when a room is found or you have connected.
 - `/griefphotoson`: Enables the ability to use the grief reports as photos.
-- `/griefphotosoff`: Enables the ability to use the grief reports as photos.
+- `/griefphotosoff`: Disables the ability to use the grief reports as photos.
 - `/play [level id]`: Tells the server that you want to play a particular level ID.
 
 ## Debug Command List
