@@ -36,6 +36,7 @@
 
     <toc-element toc-title="Refresh">
         <toc-element topic="get-url.md"/>
+        <toc-element topic="refresh-commands.md"/>
         <toc-element topic="refresh-apiv3-bindings.topic"/>
     </toc-element>
 </instance-profile>
