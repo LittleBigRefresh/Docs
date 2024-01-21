@@ -31,6 +31,14 @@ It aims to be smart, communicating with the server for proper patching instructi
 
 Not at the moment. PPSSPP support is in the works, but is currently not possible.
 
-## Q: I followed the PSP guide, but my game wont connect!
+## Q: I followed the PSP guide, but my game wont connect, how do I fix it?
 
-Make sure to update your game to the latest version v2.0.5, as that is the only version we support. LBP PSP Alpha, or a non-updated version will not work. If you still cannot connect, ask for help in <#1049223665998372947>.
+Make sure to update your game to the latest version v2.0.5, as that is the only version we support. LBP PSP Alpha, or a non-updated version will not work. Also make sure to update your PSP to a CFW based on 6.61. If you still cannot connect, ask for help in <#1049223665998372947>.
+
+## Q: My PSP can't connect to my WiFi network, is there any way to still connect?
+
+You can setup a 2.4G hotspot on your phone or computer with no password, then use that on your PSP.
+
+## Q: The Vita web browser crashes when trying to go to a website, how do I fix this?
+
+Disable the reScaler plugin, it conflicts with the PSP web browser.
