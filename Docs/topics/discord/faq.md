@@ -41,4 +41,4 @@ You can setup a 2.4G hotspot on your phone or computer with no password, then us
 
 ## Q: The Vita web browser crashes when trying to go to a website, how do I fix this?
 
-Disable the reScaler plugin, it conflicts with the PSP web browser.
+You should try disabling the `reScaler` plugin, as it conflicts with the PSP web browser.
