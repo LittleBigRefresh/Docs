@@ -8,7 +8,7 @@ It also assumes that you've already downloaded Refresher. If you haven't, head o
 
 ## Step 1: Enter the location of RPCS3's filesystem
 
-Every copy of RPCS3 has a folder titled `dev_hdd0` containing game files and digital licenses required for Refresher to modify the game. Obviously, you can't patch anything without knowing where anything is, so we need to tell Refresher where this is!
+Every copy of RPCS3 has a folder titled `dev_hdd0` containing game files and digital licenses required for Refresher to modify the game. Obviously, you can't patch anything without knowing where anything is, so we need to tell Refresher where this folder is!
 
 If you are on Linux or macOS, this will be automatically detected for you, and you do not need to do anything. On Windows, however, the files aren't at any particular known location. Refresher is unable to read minds at this current point in time, so you'll have to provide this directory.
 
@@ -31,14 +31,14 @@ You can find this log file in the following locations:
 - Linux: `~/.cache/rpcs3/`
 - MacOS: `~/Library/Caches/rpcs3/`
 
-Before placing it in Refresher, make sure to remove the `PPU-` prefix. An example of a correct hash would be `a74423ca913fc18e46cfe926db1d48e41f9858a9`, an incorrect hash would look like `PPU-a74423ca913fc18e46cfe926db1d48e41f9858a9`.
+Before placing the PPU hash in Refresher, make sure to remove the `PPU-` prefix. An example of a correct hash would be `a74423ca913fc18e46cfe926db1d48e41f9858a9`, an incorrect hash would look like `PPU-a74423ca913fc18e46cfe926db1d48e41f9858a9`.
 
 ## Step 4: Set the game version
 
 This is visible directly in the RPCS3 Game List, and can be copied from there, ex. `01.33`. Make sure to copy it exactly, don't remove leading 0s.
 
 ## Step 5: Patch!
-
+``
 When all is set and ready to go, click the patch button. It should decrypt the game, and add a new entry to your game patches menu.
 
 Open up RPCS3, right-click the game and select "Manage Game Patches". Enable the patch titled "Refresher". Now save, apply, and open your game!
