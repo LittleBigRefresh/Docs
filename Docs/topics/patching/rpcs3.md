@@ -38,7 +38,7 @@ Before placing the PPU hash in Refresher, make sure to remove the `PPU-` prefix.
 This is visible directly in the RPCS3 Game List, and can be copied from there, ex. `01.33`. Make sure to copy it exactly, don't remove leading 0s.
 
 ## Step 5: Patch!
-``
+
 When all is set and ready to go, click the patch button. It should decrypt the game, and add a new entry to your game patches menu.
 
 Open up RPCS3, right-click the game and select "Manage Game Patches". Enable the patch titled "Refresher". Now save, apply, and open your game!
