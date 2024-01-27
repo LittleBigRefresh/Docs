@@ -1,6 +1,6 @@
 # Using Refresher to patch a game on RPCS3
 
-Refresher has native support for decrypting and patching RPCS3 games. This guide aims to show you how to operate Refresher's RPCS3 patcher.
+Refresher has native support for decrypting and patching RPCS3 games. This guide aims to show you how to operate Refresher's RPCS3 patcher. At the end of this, you will be able to select your server of choice inside the game patches menu of RPCS3.
 
 It also assumes that you've already downloaded Refresher. If you haven't, head on over to the [GitHub page](https://github.com/LittleBigRefresh/Refresher) to grab yourself a copy.
 
@@ -8,7 +8,7 @@ It also assumes that you've already downloaded Refresher. If you haven't, head o
 
 ## Step 1: Enter the location of RPCS3's filesystem
 
-Every copy of RPCS3 has a folder titled `dev_hdd0` containing game files and digital licenses required for Refresher to modify the game. Obviously, you can't patch anything without knowing what anything is, so we need to tell Refresher where this is!
+Every copy of RPCS3 has a folder titled `dev_hdd0` containing game files and digital licenses required for Refresher to modify the game. Obviously, you can't patch anything without knowing where anything is, so we need to tell Refresher where this folder is!
 
 If you are on Linux or macOS, this will be automatically detected for you, and you do not need to do anything. On Windows, however, the files aren't at any particular known location. Refresher is unable to read minds at this current point in time, so you'll have to provide this directory.
 
@@ -22,16 +22,25 @@ Once you've found this folder, head back to Refresher and click 'Browse' in the 
 
 <include from="Library.topic" element-id="fill-in-server-url"></include>
 
-## Step 3: Set the identifier
+## Step 3: Set the PPU hash
 
-The identifier field can be anything you want. It determines the filename of the EBOOT that will be saved upon patching, in the case that you want to connect to multiple custom servers for a game.
+The PPU hash is how RPCS3 knows which game the patch is meant for, to acquire it, you need to boot up the game, then after it has loaded a bit, search in the RPCS3 log for "PPU executable hash". If it isn't visible in the integrated log window, look for it in your RPCS3.log file.
 
-For example, if you set that field to `test`, the final name will be `EBOOT.test.elf`.
+You can find this log file in the following locations:
+- Windows: Right next to `rpcs3.exe`
+- Linux: `~/.cache/rpcs3/`
+- MacOS: `~/Library/Caches/rpcs3/`
 
-## Step 4: Patch!
+Before placing the PPU hash in Refresher, make sure to remove the `PPU-` prefix. An example of a correct hash would be `a74423ca913fc18e46cfe926db1d48e41f9858a9`, an incorrect hash would look like `PPU-a74423ca913fc18e46cfe926db1d48e41f9858a9`.
 
-When all is set and ready to go, click the patch button. It should decrypt the game, and spit out a working .ELF file. Note the path of this file - you will need it later.
+## Step 4: Set the game version
 
-Open up RPCS3, click `File`, `Boot (S)Elf`, and then `Boot SELF/ELF`. Browse to where the EBOOT you just made is, and double-click the ELF file. The game should fire up, and you'll be ready to go.
+This is visible directly in the RPCS3 Game List, and can be copied from there, ex. `01.33`. Make sure to copy it exactly, don't remove leading 0s.
 
-![A screenshot of RPCS3, indicating where to go.](rpcs3-boot.png)
+## Step 5: Patch!
+
+When all is set and ready to go, click the patch button. It should decrypt the game, and add a new entry to your game patches menu.
+
+Open up RPCS3, right-click the game and select "Manage Game Patches". Enable the patch titled "Refresher". Now save, apply, and open your game!
+
+![A screenshot of RPCS3, indicating where to go.](rpcs3-patch-manager.png)
