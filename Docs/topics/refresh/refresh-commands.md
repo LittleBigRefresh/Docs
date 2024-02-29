@@ -12,6 +12,8 @@ This page contains a list of them and what they do.
 - `/griefphotoson`: Enables the ability to use the grief report system to upload photos.
 - `/griefphotosoff`: Restores the ability to submit grief reports.
 - `/play [level id]`: Tells the server that you want to play a particular level by the level's ID.
+- `/beta`: Switches the token to be `TokenGame.BetaBuild`. Can be used for builds that do not properly identify themselves as beta builds, e.g. deploy.
+- `/revoketoken`: Revokes the token in use by the client, essentially forcing the game to redo the handshake with the server. This can be used to switch away from beta mode, can also just be generally useful.
 
 ## Debug Command List
 These are debugging commands for developers that are not available in production instances of Refresh (e.g. LittleBigRefresh).
