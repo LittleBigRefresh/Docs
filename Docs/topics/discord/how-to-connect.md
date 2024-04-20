@@ -31,3 +31,7 @@ View this guide on our site: https://docs.littlebigrefresh.com/psp.html
 ### Browser setup (on-console, no PC)
 
 Watch this short video guide: https://www.youtube.com/watch?v=Y0Oj16YzQzY
+
+## Having trouble?
+
+Try making a post in <#1229318345891778581>! We're more than happy to help you get set up.
