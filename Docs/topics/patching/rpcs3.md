@@ -2,7 +2,19 @@
 
 Refresher has native support for decrypting and patching RPCS3 games. This guide aims to show you how to operate Refresher's RPCS3 patcher. At the end of this, you will be able to select your server of choice inside the game patches menu of RPCS3.
 
-It also assumes that you've already downloaded Refresher. If you haven't, head on over to the [GitHub page](https://github.com/LittleBigRefresh/Refresher) to grab yourself a copy.
+To download Refresher, you must first visit the [Github Page](https://github.com/LittleBigRefresh/Refresher). Once you have opened it in your browser,
+navigate to the "Releases" section on the website.
+
+![Where to find the Releases Section on the GitHub.](Refresher-Release-Highlight.png)
+
+Then, pick the download option corresponding to the operating system that is running on your computer.
+Refresher currently does not provide built binaries for MacOS due to issues with code signing. To run Refresher on MacOS,
+you must build the project yourself via the dotnet toolset.
+
+![Refresher Artifacts](Refresher-Artifacts.png)
+
+Once you have downloaded the built binaries for your operating system,
+simply unzip the archive, and you should have an executable.
 
 ![A Screenshot of Refresher's RPCS3 patching screen](refresher-rpcs3.png)
 

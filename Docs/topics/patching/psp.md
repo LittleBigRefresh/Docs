@@ -2,7 +2,19 @@
 
 Refresher has support for automatically deploying Allefresher onto a PSP or Vita, with the relevant configuration automatically filled out. This will let you connect to a custom server on LittleBigPlanet for the PSP (on Vita, this would be through Adrenaline).
 
-This guide assumes that you've already downloaded Refresher. If you haven't, head on over to the [GitHub page](https://github.com/LittleBigRefresh/Refresher) to grab yourself a copy.
+To download Refresher, you must first visit the [Github Page](https://github.com/LittleBigRefresh/Refresher). Once you have opened it in your browser,
+navigate to the "Releases" section on the website.
+
+![Where to find the Releases Section on the GitHub.](Refresher-Release-Highlight.png)
+
+Then, pick the download option corresponding to the operating system that is running on your computer.
+Refresher currently does not provide built binaries for MacOS due to issues with code signing. To run Refresher on MacOS,
+you must build the project yourself via the dotnet toolset.
+
+![Refresher Artifacts](Refresher-Artifacts.png)
+
+Once you have downloaded the built binaries for your operating system,
+simply unzip the archive, and you should have an executable.
 
 ![A Screenshot of Refresher's PSP patching screen](refresher-psp.png)
 
