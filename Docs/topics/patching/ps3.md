@@ -16,11 +16,13 @@ you must build the project yourself via the dotnet toolset.
 Once you have downloaded the built binaries for your operating system,
 simply unzip the archive, and you should have an executable.
 
+![A Screenshot of Refresher's PS3 patching screen](refresher-ps3.png)
+
 ## Step 1: Jailbreak your PS3 and install webMAN
 
 We can't help you with this, but there are various guides out there you can go out and find. We personally recommend MrMario2011's guides.
 
-In general, though, try to use the late[s]()t firmware, use HEN for super slims, CFW for other models, etc., etc.
+In general, though, try to use the latest firmware, use HEN for super slims, CFW for other models, etc., etc.
 
 Once you've gotten a modded firmware up and running, head on over to GitHub and [Download webMAN](https://github.com/aldostools/webMAN-MOD/releases).
 

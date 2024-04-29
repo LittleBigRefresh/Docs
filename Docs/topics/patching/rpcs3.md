@@ -16,6 +16,8 @@ you must build the project yourself via the dotnet toolset.
 Once you have downloaded the built binaries for your operating system,
 simply unzip the archive, and you should have an executable.
 
+![A Screenshot of Refresher's RPCS3 patching screen](refresher-rpcs3.png)
+
 ## Step 1: Enter the location of RPCS3's filesystem
 
 Every copy of RPCS3 has a folder titled `dev_hdd0` containing game files and digital licenses required for Refresher to modify the game. Obviously, you can't patch anything without knowing where anything is, so we need to tell Refresher where this folder is!
