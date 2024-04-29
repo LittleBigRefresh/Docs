@@ -2,15 +2,25 @@
 
 Refresher has native support for decrypting, encrypting and patching PS3 games. This guide aims to show you how to operate Refresher's PS3 patcher.
 
-It also assumes that you've already downloaded Refresher. If you haven't, head on over to the [GitHub page](https://github.com/LittleBigRefresh/Refresher) to grab yourself a copy.
+To download Refresher, you must first visit the [Github Page](https://github.com/LittleBigRefresh/Refresher). Once you have opened it in your browser, 
+navigate to the "Releases" section on the website.
 
-![A Screenshot of Refresher's PS3 patching screen](refresher-ps3.png)
+![Where to find the Releases Section on the GitHub.](Refresher-Release-Highlight.png)
+
+Then, pick the download option corresponding to the operating system that is running on your computer. 
+Refresher currently does not provide built binaries for MacOS due to issues with code signing. To run Refresher on MacOS,
+you must build the project yourself via the dotnet toolset.
+
+![Refresher Artifacts](Refresher-Artifacts.png)
+
+Once you have downloaded the built binaries for your operating system,
+simply unzip the archive, and you should have an executable.
 
 ## Step 1: Jailbreak your PS3 and install webMAN
 
 We can't help you with this, but there are various guides out there you can go out and find. We personally recommend MrMario2011's guides.
 
-In general, though, try to use the latest firmware, use HEN for super slims, CFW for other models, etc., etc.
+In general, though, try to use the late[s]()t firmware, use HEN for super slims, CFW for other models, etc., etc.
 
 Once you've gotten a modded firmware up and running, head on over to GitHub and [Download webMAN](https://github.com/aldostools/webMAN-MOD/releases).
 
