@@ -10,6 +10,10 @@ Some sections on this site require some additional explanation. If you're confus
 This is our section for documentation regarding LittleBigPlanet itself.
 Any information we deem useful or important we jot down here.
 
+### Patching
+
+This is where we put our patching guides. If you'd like to connect to LittleBigRefresh, this is the place to go!
+
 ### Discord
 
 Under the Discord section is a list of markdown files that get reformatted and parsed into Discord messages.

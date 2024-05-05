@@ -1,20 +1,14 @@
-# Using Refresher to set up Allefresher on PSP/Vita
+# Using Refresher to set up Allefresher PSP on PSP/Vita
 
-Refresher has support for automatically deploying Allefresher onto a PSP or Vita, with the relevant configuration automatically filled out. This will let you connect to a custom server on LittleBigPlanet for the PSP (on Vita, this would be through Adrenaline).
+<include from="Library.topic" element-id="supported-version-notice"/>
 
-To download Refresher, you must first visit the [Github Page](https://github.com/LittleBigRefresh/Refresher). Once you have opened it in your browser,
-navigate to the "Releases" section on the website.
+Refresher has support for automatically deploying Allefresher onto a PSP or Vita (via Adrenaline), with the relevant configuration automatically filled out. This will let you connect to a custom server on LittleBigPlanet PSP.
 
-![Where to find the Releases Section on the GitHub.](Refresher-Release-Highlight.png)
+<note>
+It's important to note this does not patch LBP Vita, only LBP PSP. You can find our LBP Vita patching guide <a href="vita.md">here</a>.
+</note>
 
-Then, pick the download option corresponding to the operating system that is running on your computer.
-Refresher currently does not provide built binaries for MacOS due to issues with code signing. To run Refresher on MacOS,
-you must build the project yourself via the dotnet toolset.
-
-![Refresher Artifacts](Refresher-Artifacts.png)
-
-Once you have downloaded the built binaries for your operating system,
-simply unzip the archive, and you should have an executable.
+<include from="Library.topic" element-id="download-refresher"/>
 
 ![A Screenshot of Refresher's PSP patching screen](refresher-psp.png)
 
@@ -22,11 +16,11 @@ simply unzip the archive, and you should have an executable.
 
 We can't help you with this directly, but there are various guides out there you can go out and find. We personally recommend the guides on [pspunk](https://www.pspunk.com/psp-cfw/) and [vita.hacks.guide](https://vita.hacks.guide/) for PSP and Vita respectively.
 
-### Jailbreaking PSP
+### Notes on Jailbreaking a PSP
 
-Try to use the latest firmware. We recommend PRO C over other CFWs, as they have not been thoroughly tested with Allefresher yet. It is possible to dual-boot CFWs, so if you need a CFW such as ARK-4 for other homebrew, we'd recommend dual-booting PRO C as well until Allefresher is guaranteed to work well on ARK-4.
+Try to use the latest firmware. We recommend PRO-C over other CFWs, as they have not been thoroughly tested with Allefresher yet. It is possible to dual-boot CFWs, so if you need a CFW such as ARK-4 for other homebrew, we'd recommend dual-booting PRO-C as well until Allefresher is guaranteed to work well on ARK-4.
 
-### Jailbreaking Vita
+### Notes on Jailbreaking a Vita
 
 You'll need to set up Adrenaline with the latest version of the Adrenaline ePSP firmware (as with PSP, ARK-4 is untested). You'll also need [VitaShell](https://github.com/TheOfficialFloW/VitaShell/releases).
 
@@ -57,12 +51,12 @@ To view it in file explorer, you will need to enable viewing hidden files and sy
 
 ## Step 4: Fill in the server URL
 
-<include from="Library.topic" element-id="fill-in-server-url"></include>
+<include from="Library.topic" element-id="fill-in-server-url"/>
 
 ## Step 5: Finalize the setup!
 
-When all is set and ready to go, click the patch button. It should spit out the relevant files onto your console.
+Now, click the patch button. It should place the relevant files onto your console.
 
 Now, safely eject the drive from your computer.
 
-Head on over to your device, and start the game! With some luck and given that you've registered an account on the server, you should now connect.
+<include from="Library.topic" element-id="final-patching-message" />

@@ -21,7 +21,7 @@ This is data collected from LBP3's community tab on the live servers.
 | Recently Played     | g820616   | Your recently played content                 |
 | Recommended For You | g820625   | Stuff we think you'll like                   |
 
-### Removed Tabs
+### Removed Tabs {collapsible="true"}
 
 | Title               | Icon GUID | Description                                             |
 |---------------------|-----------|---------------------------------------------------------|
@@ -64,7 +64,7 @@ This is data collected from LBP3's community tab on the live servers.
 | Gallery               | g1088839  |
 | Fighters              | g1088840  |
 
-### Removed Genres	
+### Removed Genres	{collapsible="true"}
 | Title         | Icon GUID |
 |---------------|-----------|
 | Music Gallery | g1090306  |
