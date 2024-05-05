@@ -12,7 +12,7 @@ Refresher has native support for decrypting, encrypting and patching PS3 games. 
 
 We can't help you with this, but there are various guides out there you can go out and find. We personally recommend [MrMario2011's guides](https://www.youtube.com/c/MrMario2011).
 
-In general, though, try to use the latest firmware, use HEN for super slims, CFW for other models, etc., etc.
+In general, though, try to use the latest firmware, use [HEN for super slims](https://www.youtube.com/watch?v=Ze3UMdMakvk), [CFW for other models](https://www.youtube.com/watch?v=LIVu3Px3eXY), etc., etc.
 
 Once you've gotten a modded firmware up and running, head on over to GitHub and [download the webMAN-MOD installer](https://github.com/aldostools/webMAN-MOD/releases/latest).
 
