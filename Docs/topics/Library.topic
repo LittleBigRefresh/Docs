@@ -16,6 +16,7 @@
         <p>
             Next, hit the button that says 'AutoDiscover'.
             This will trigger Refresher to attempt to connect to the remote server to gather more details and extra patching instructions from it.
+            AutoDiscover is required for some games, so you should always use it.
         </p>
         <p>
             Most servers based on Bunkum, most notably Refresh, should support this protocol.
@@ -26,11 +27,40 @@
             Click 'Yes' to accept these settings, and Refresher will automatically do the rest when you patch.
         </p>
 
-        <img src="https://docs.littlebigrefresh.com/patching/images/autodiscover-success.png" alt="A dialog box from Refresher, indicating that AutoDiscover has been performed successfully." />
+        <img src="autodiscover-success.png" alt="A dialog box from Refresher, indicating that AutoDiscover has been performed successfully." />
 
         <note id="use-autodiscover-note">
             <p>If you are a developer of a custom server for any game, you can read up on our AutoDiscover protocol's documentation <a href="https://docs.littlebigrefresh.com/autodiscover-api">here</a>.</p>
             <p>We recommend you support it, as it helps users ensure that they are following the correct procedures before they launch the game.</p>
         </note>
+    </snippet>
+
+    <snippet id="download-refresher">
+        <p>
+            To download Refresher, you must first visit the <a href="https://github.com/LittleBigRefresh/Refresher/releases/latest">Releases Page</a>.
+        </p>
+        <p>
+            Then, pick the option corresponding to the operating system that is running on your computer.
+            Refresher currently does not provide built binaries for macOS due to issues with code signing. To run
+            Refresher on macOS, you must build the project yourself via the dotnet toolset.
+        </p>
+        <img src="refresher-artifacts.png" alt="Refresher Artifacts"/>
+        <p>
+            Once you have downloaded the built binaries for your operating system,
+            simply unzip the archive, and you should have an executable.
+        </p>
+    </snippet>
+    
+    <snippet id="supported-version-notice">
+        <note>
+            Refresh only officially supports the latest release of every LBP game.
+            Please update your game to the latest release <b>before</b> following this guide, else you may run into unexpected errors.
+        </note>
+    </snippet>
+    
+    <snippet id="final-patching-message">
+        <p>
+            When all is set and ready to go, register an account on <a href="https://lbp.littlebigrefresh.com/">our website</a>, and then open the game!
+        </p>
     </snippet>
 </topic>

@@ -31,6 +31,6 @@ https://discord.gg/Q5RkRBtpWC
 
 ## LittleBigBeyond
 
-This is a LBP oriented server with a focus on modding. If you're an LBP modder, interested in LBP mods, want to learn how to mod, or just like installing and playing with other mods, this is the server for you!
+This is an LBP oriented server with a focus on modding. If you're an LBP modder, interested in LBP mods, want to learn how to mod, or just like installing and playing with other mods, this is the server for you!
 
 https://discord.gg/v7UqKBsj3c

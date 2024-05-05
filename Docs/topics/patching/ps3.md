@@ -1,32 +1,24 @@
 # Using Refresher to patch a game on PS3
 
+<include from="Library.topic" element-id="supported-version-notice"/>
+
 Refresher has native support for decrypting, encrypting and patching PS3 games. This guide aims to show you how to operate Refresher's PS3 patcher.
 
-To download Refresher, you must first visit the [Github Page](https://github.com/LittleBigRefresh/Refresher). Once you have opened it in your browser, 
-navigate to the "Releases" section on the website.
-
-![Where to find the Releases Section on the GitHub.](Refresher-Release-Highlight.png)
-
-Then, pick the download option corresponding to the operating system that is running on your computer. 
-Refresher currently does not provide built binaries for MacOS due to issues with code signing. To run Refresher on MacOS,
-you must build the project yourself via the dotnet toolset.
-
-![Refresher Artifacts](Refresher-Artifacts.png)
-
-Once you have downloaded the built binaries for your operating system,
-simply unzip the archive, and you should have an executable.
+<include from="Library.topic" element-id="download-refresher"/>
 
 ![A Screenshot of Refresher's PS3 patching screen](refresher-ps3.png)
 
 ## Step 1: Jailbreak your PS3 and install webMAN
 
-We can't help you with this, but there are various guides out there you can go out and find. We personally recommend MrMario2011's guides.
+We can't help you with this, but there are various guides out there you can go out and find. We personally recommend [MrMario2011's guides](https://www.youtube.com/c/MrMario2011).
 
 In general, though, try to use the latest firmware, use HEN for super slims, CFW for other models, etc., etc.
 
-Once you've gotten a modded firmware up and running, head on over to GitHub and [Download webMAN](https://github.com/aldostools/webMAN-MOD/releases).
+Once you've gotten a modded firmware up and running, head on over to GitHub and [download the webMAN-MOD installer](https://github.com/aldostools/webMAN-MOD/releases/latest).
 
-Drop the installer .pkg on your PS3, and you should be all set after you run it.
+![webman-download.png](webman-download.png)
+
+Move the installer .pkg onto your PS3, and use your PS3's package manager to get the installer on your PS3, then run it to install webMAN-MOD onto your system.
 
 ## Step 2: Find your PS3's IP Address
 
@@ -35,14 +27,14 @@ Head on over to your PS3, head to settings, then network settings, and open 'Set
 ![A screenshot of the PS3, showing the mentioned menu.](ps3-ip.png)
 
 Look for your 'IP Address', and write it down under the 'PS3s IP' field in Refresher.
-Click away from the text-box, and Refresher should start connecting. It may take a couple of seconds for it to download all the game icons and metadata.
+Click the 'Connect' button, and Refresher should connect to your PS3. It may take a couple of seconds for it to download all the game icons and metadata.
 
 ## Step 3: Fill in the server URL
 
-<include from="Library.topic" element-id="fill-in-server-url"></include>
+<include from="Library.topic" element-id="fill-in-server-url"/>
 
 ## Step 4: Patch!
 
-When all is set and ready to go, click the patch button. It should decrypt the game, and spit out a working EBOOT onto your PS3.
+Now, click the patch button. It should decrypt the game, patch, then place a working EBOOT onto your PS3.
 
-Head on over to your PS3, and start the game! With some luck and given that you've registered an account on the server, you should now connect.
+<include from="Library.topic" element-id="final-patching-message" />

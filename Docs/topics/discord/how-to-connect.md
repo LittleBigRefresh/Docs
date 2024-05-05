@@ -4,7 +4,7 @@ channelId: 1144875410786623568
 
 # Server Information
 
-LittleBigRefresh currently supports LBP1, LBP2, LBP3, LBP Vita, and LBP PSP.
+LittleBigRefresh currently supports LBP1, LBP2, LBP3 (PS3), LBP Vita, and LBP PSP (PSP/Vita).
 
 Our server URL is `http://lbp.littlebigrefresh.com:2095/lbp`. AutoDiscover is required for games other than LBP2.
 
@@ -31,6 +31,10 @@ View this guide on our site: https://docs.littlebigrefresh.com/psp.html
 ### Browser setup (on-console, no PC)
 
 Watch this short video guide: https://www.youtube.com/watch?v=Y0Oj16YzQzY
+
+## Patching for Vita
+
+View this guide on our site: https://docs.littlebigrefresh.com/vita.html
 
 ## Having trouble?
 

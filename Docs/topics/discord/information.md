@@ -5,7 +5,7 @@ channelId: 1049224956162097212
 
 LittleBigRefresh is intended to be a chill environment for people to discuss LittleBigPlanet, its community, its servers, or anything else LBP.
 
-This is also the place for discussing the development of Refresh, a second-generation custom server for LittleBigPlanet that focuses on quality of life features and improving user experience. 
+This is also the place for discussing the development of Refresh, a second-generation custom server for LittleBigPlanet that focuses on quality of life features and improving user experience. LittleBigRefresh currently supports LBP1, LBP2, LBP3 (PS3), LBP Vita, and LBP PSP (PSP/Vita).
 
 ![LittleBigRefresh Banner](https://raw.githubusercontent.com/LittleBigRefresh/Branding/main/banners/refresh_banner_1080x_notext.png)
 
@@ -41,5 +41,3 @@ Generally though, most punishments are given out for a reason. Due to our hands-
 ## Server Invite
 
 https://discord.gg/xN5yKdxmWG
-
-We are also available on Matrix: https://matrix.to/#/#littlebigrefresh:jvyden.xyz
