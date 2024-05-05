@@ -45,7 +45,7 @@ Note that this list is non-exhaustive, if your game's title ID is missing, pleas
   - PCSA22018 - US Cartridge
   - PCSA00017 - US Digital
   - PCSA00549 - US Digital (Marvel Super Hero Edition)
-  - PCSF00021 - EU Cartridge
+  - PCSF00021 - EU Cartridge & EU Digital
   - PCSF00516 - EU Cartridge (Marvel Super Hero Edition)
   - PCSA22106 - Canada Cartridge
   - PCSD00006 - Asia Cartridge
@@ -88,5 +88,9 @@ ioPlus expands the permissions of the game to allow read/write to arbitrary file
 
 Exit out of the VitaShell editor by pressing the correct back button for your region, save the file, then exit VitaShell.
 Finally, restart your Vita.
+
+Ensure your game is fully up-to-date, you can do so by pressing triangle twice with the game's bubble selected in the Live Area. 
+If the Update History button is present and shows Version 1.22, then your game is fully up-to-date, if not, open the game's live area, 
+and press the refresh button at the top of the screen, this will install all the updates for your game.
 
 <include from="Library.topic" element-id="final-patching-message" />
