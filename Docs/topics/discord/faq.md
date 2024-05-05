@@ -15,9 +15,7 @@ You can download the latest release from [our GitHub](<https://github.com/Little
 
 If you'd like to patch to your own server, our own guides should work for that as well. See <#1144875410786623568>.
 
-## What are Bunkum, Refresher, and Allefresher?
-
-[Bunkum](<https://github.com/LittleBigRefresh/Bunkum>) is the name of the server software that runs Refresh - developed by us. It's designed to be easier to use than ASP.NET, while allowing flexibility for games that do strange things. It was born out of frustration when LBP kept violating several internet standards - as a result Bunkum will be more lenient than other servers with these.
+## What are Refresher and Allefresher?
 
 [Refresher](<https://github.com/LittleBigRefresh/Refresh>) is the patcher that lets you modify your game to connect to custom servers. It can technically work for other games than just the LBP series, but it is still a work in progress. It aims to be smart, communicating with the server for proper patching instructions via our "AutoDiscover" protocol.
 
