@@ -63,4 +63,5 @@ You downloaded Refresh, not Refresher, please read one of our patching guides in
 
 ## On RPCS3, my game constantly diverges/I cant connect to anyone!
 
-In RPCS3 options, make sure to enable UPnP, you can find this setting in the "Network" tab in RPCS3's config.
+In RPCS3 options, make sure to enable UPnP, you can find this setting in the "Network" tab in RPCS3's config. 
+Make sure to also match your XFloat settings in RPCS3's CPU tab, if they do not match, you will diverge after any user moves in-game.
