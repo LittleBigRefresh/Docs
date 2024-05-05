@@ -12,7 +12,7 @@ Any information we deem useful or important we jot down here.
 
 ### Patching
 
-This is where we put our patching guides, if you want to connect to LittleBigRefresh, this is the place to go.
+This is where we put our patching guides. If you'd like to connect to LittleBigRefresh, this is the place to go!
 
 ### Discord
 

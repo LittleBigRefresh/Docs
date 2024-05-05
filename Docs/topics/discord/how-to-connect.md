@@ -32,7 +32,7 @@ View this guide on our site: https://docs.littlebigrefresh.com/psp.html
 
 Watch this short video guide: https://www.youtube.com/watch?v=Y0Oj16YzQzY
 
-## Patching for Vita
+## Patching LBP Vita
 
 View this guide on our site: https://docs.littlebigrefresh.com/vita.html
 

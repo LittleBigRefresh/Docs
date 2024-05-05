@@ -25,7 +25,7 @@ If you'd like to patch to your own server, our own guides should work for that a
 
 ## Is PPSSPP supported by Refresh?
 
-Not at the moment, PPSSPP does not support the networking features that LBP uses, so it is unable to connect to custom servers.
+Not at the moment, PPSSPP does not support the networking features that LBP uses, so it is unable to connect to custom servers for the time being.
 
 ## I followed the PSP guide, but my game won't connect!
 
@@ -57,7 +57,7 @@ You likely forgot to use AutoDiscover, which is required on LBP1 and LBP3.
 
 ## I can't log in on the site, and I am not receiving any password reset requests!
 
-Your account is likely unactivated, make sure you are able to log in from LBP before trying to log in on the site.
+Your account is likely unactivated; make sure you are able to log in from LBP before trying to log in on the site.
 
 ## When I open the patcher, I get strange warnings about cool levels, and I don't see the GUI!
 

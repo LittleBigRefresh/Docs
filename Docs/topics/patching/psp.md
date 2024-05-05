@@ -2,10 +2,10 @@
 
 <include from="Library.topic" element-id="supported-version-notice"/>
 
-Refresher has support for automatically deploying Allefresher onto a PSP or Vita, with the relevant configuration automatically filled out. This will let you connect to a custom server on LittleBigPlanet for the PSP (on Vita, this would be through Adrenaline).
+Refresher has support for automatically deploying Allefresher onto a PSP or Vita (via Adrenaline), with the relevant configuration automatically filled out. This will let you connect to a custom server on LittleBigPlanet PSP.
 
 <note>
-It's important to note this does not patch LBP Vita, only LBP PSP, you can find our LBP Vita patching guide <a href="vita.md">here</a>.
+It's important to note this does not patch LBP Vita, only LBP PSP. You can find our LBP Vita patching guide <a href="vita.md">here</a>.
 </note>
 
 <include from="Library.topic" element-id="download-refresher"/>

@@ -4,7 +4,7 @@ This is data collected from LBP3's community tab on the live servers.
 
 ## Searches
 
-### Active Tabs {collapsible="true"}
+### Active Tabs
 
 | Title               | Icon GUID | Description                                  |
 |---------------------|-----------|----------------------------------------------|
@@ -36,7 +36,7 @@ This is data collected from LBP3's community tab on the live servers.
 
 ## Genres
 
-### Active Genres {collapsible="true"}
+### Active Genres
 
 | Title                 | Icon GUID |
 |-----------------------|-----------|

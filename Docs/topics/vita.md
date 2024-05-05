@@ -5,16 +5,16 @@
 Allefresher Vita is a CFW plugin which patches LBP Vita to custom servers. This guide aims to show how to set it up on a modded Vita.
 
 To download Allefresher, you must first visit the [Releases Page](https://github.com/LittleBigRefresh/Allefresher/releases/latest). 
-Once you have opened it in your browser, select `Allefresher_vita.suprx`
+Once you've opened that in your browser, select `Allefresher_vita.suprx` in the files listed.
 
 ![Allefresher Artifacts](allefresher-artifacts.png)
 
-Once you have downloaded it, keep it on hand for later.
+Once you have downloaded the CFW plugin, keep it on hand for later.
 
 ## Step 1: Jailbreak your device and install a CFW
 
 We can't help you with this directly, but there are various guides out there you can go out and find. We personally recommend the guide on [vita.hacks.guide](https://vita.hacks.guide/). 
-You should install the HENkaku Ensō CFW, as that is what we officially support.
+We recommend installing the HENkaku Ensō CFW, as that is what we officially support.
 
 After you have jailbroken your Vita, install [VitaShell](https://github.com/TheOfficialFloW/VitaShell/releases/latest).
 
@@ -22,16 +22,16 @@ After you have jailbroken your Vita, install [VitaShell](https://github.com/TheO
 
 In VitaShell, press "Start", and change the "SELECT button" option to FTP. Press start again and then press select. 
 This will tell you the IP you need to type into Windows Explorer's address bar. (e.g. `ftp://192.168.0.100:1337/`).
-After pressing enter, you will see the list of files on your Vita.
+After pressing enter, you should see the list of files on your Vita.
 
 ![vita-windows-ftp.png](vita-windows-ftp.png)
 
 ## Step 3: Install iTLS
 
-iTLS is a plugin which enables more modern encryption standards on Vita CFW. This is required for Allefresher Vita to function.
+iTLS is a plugin which enables TLS 1.2 (a more modern encryption standard) on Vita CFW. This is required for Allefresher Vita to function.
 
 Download iTLS from [here](https://github.com/SKGleba/iTLS-Enso/releases/latest/) and transfer it to your Vita through VitaShell, then install it. 
-Alternatively, download it using [VitaDeploy](https://vita.hacks.guide/installing-vitadeploy.html).
+Alternatively, you can also download it using [VitaDeploy](https://vita.hacks.guide/installing-vitadeploy.html).
 
 Run the iTLS installer, and select `Install the full iTLS package`.
 
