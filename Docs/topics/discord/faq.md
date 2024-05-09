@@ -21,9 +21,9 @@ If you'd like to patch to your own server, our own guides should work for that a
 
 [Allefresher](https://github.com/LittleBigRefresh/Allefresher) is a set of CFW plugins which automatically patch a game at startup, this removes the need for you to manually re-patch your game from a PC whenever you want to switch server, allowing you to switch server entirely on-console. Right now, Allefresher exists for PSP and Vita.
 
-## Is PPSSPP supported by Refresh?
+## Is PPSSPP/Vita3k supported by Refresh?
 
-Not at the moment, PPSSPP does not support the networking features that LBP uses, so it is unable to connect to custom servers for the time being.
+Not at the moment, PPSSPP and Vita3k do not support the networking features that LBP uses, so they are unable to connect to custom servers for the time being.
 
 ## I followed the PSP guide, but my game won't connect!
 
