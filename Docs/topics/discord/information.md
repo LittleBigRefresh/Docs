@@ -21,7 +21,7 @@ These rules can basically be summarized to "don't be an a-hole" or "use common s
 4. No age-restricted or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content.
 5. Please keep criticism constructive. We generally won't take action for this, but it will be noticed if you are consistently negative when discussing topics with other members.
 6. Discussion of piracy won't be tolerated. LittleBigRefresh is not the place to discuss this type of thing. We won't mute you for simply mentioning piracy, but we definitely will take action if you're discussing methods to enable piracy, or suggesting that people commit piracy. Just keep it out of this server.
-7. Try to avoid discussing politics and world tragedies (wars, terrorism, etc.). This is a LittleBigPlanet server; we're here to discuss and play LittleBigPlanet.
+7. Try to avoid discussing topics relating to politics, religion and world tragedies. Those topics can quickly cause discomfort and start arguments. Remember, this is a LittleBigPlanet server; we're here to discuss and play LittleBigPlanet!
 
 Keep in mind that this list is not exhaustive of things we might punish for. That said, just use common sense and you'll be okay.
 
