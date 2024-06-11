@@ -20,6 +20,8 @@ Once you've gotten a modded firmware up and running, head on over to GitHub and 
 
 Move the installer .pkg onto your PS3, and use your PS3's package manager to get the installer on your PS3, then run it to install webMAN-MOD onto your system.
 
+<note>webMAN-MOD Lite will not work to patch digital copies. Please ensure you are using the full version of webMAN-MOD.</note>
+
 ## Step 2: Find your PS3's IP Address
 
 Head on over to your PS3, head to settings, then network settings, and open 'Settings and Connection Status List'.
