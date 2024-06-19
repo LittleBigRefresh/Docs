@@ -3,43 +3,29 @@ channelId: 1049224956162097212
 ---
 # Welcome to LittleBigRefresh!
 
-LittleBigRefresh is intended to be a chill environment for people to discuss LittleBigPlanet, its community, its servers, or anything else LBP.
-
-This is also the place for discussing the development of Refresh, a second-generation custom server for LittleBigPlanet that focuses on quality of life features and improving user experience. LittleBigRefresh currently supports LBP1, LBP2, LBP3 (PS3), LBP Vita, and LBP PSP (PSP/Vita).
+LittleBigRefresh is a community to discuss anything and everything LittleBigPlanet, as well as development of Refresh, a second-generation custom server with improved quality of life features. LittleBigRefresh currently supports LBP1, LBP2, LBP3 (PS3), LBP Vita, and LBP PSP (PSP/Vita).
 
 ![LittleBigRefresh Banner](https://raw.githubusercontent.com/LittleBigRefresh/Branding/main/banners/refresh_banner_1080x_notext.png)
 
 ## Rules
 
-We try to be as fair as possible with these. If there are things you would like to suggest or criticize, you are welcome to create a GitHub issue on our documentation repo ([here](https://github.com/LittleBigRefresh/Docs/issues/new)) or contact a staff member.
-
-These rules can basically be summarized to "don't be an a-hole" or "use common sense", but as a general rule of thumb you can follow these:
-
 1. Follow Discord's terms of service. These can be found at <https://discord.com/terms>.
 2. No spam or self-promotion (server invites, advertisements, etc.) without permission from a staff member. This includes DMing fellow members.
-3. Treat everyone with respect. Absolutely no harassment, witch hunting, sexism, racism, or hate speech will be tolerated.
-4. No age-restricted or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content.
-5. Please keep criticism constructive. We generally won't take action for this, but it will be noticed if you are consistently negative when discussing topics with other members.
-6. Discussion of piracy won't be tolerated. LittleBigRefresh is not the place to discuss this type of thing. We won't mute you for simply mentioning piracy, but we definitely will take action if you're discussing methods to enable piracy, or suggesting that people commit piracy. Just keep it out of this server.
-7. Try to avoid discussing topics relating to politics, religion and world tragedies. Those topics can quickly cause discomfort and start arguments. Remember, this is a LittleBigPlanet server; we're here to discuss and play LittleBigPlanet!
+3. Treat everyone with respect. Harassment, witch-hunting, rage-baiting, sexism, racism, hate speech, or any other form of hateful conduct or targeting will not be tolerated.
+4. No mature or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other inappropriate material.
+5. Please keep criticism and conversation civil; don’t be intentionally rude or abrasive. We do our best to be understanding, but will take note of consistently unpleasant behavior.
+6. Endorsement or admission of piracy won't be tolerated. We won't mute you for mention of the subject, but we will take action if you're discussing methods or encouraging others to pirate.
+7. Try to avoid discussing hot topics (drama/politics/religion/recent events, etc.) We’re all here to play and discuss a great game series we enjoy, it's best not to dwell on unrelated topics that may divide or embitter.
 
-Keep in mind that this list is not exhaustive of things we might punish for. That said, just use common sense and you'll be okay.
+This list is non-exhaustive of behavior we might take action on, but in effect, use common sense and all will be well. If you have any questions about our rules feel free to contact a staff member; if you have suggestions you can create a GitHub issue on our [documentation repo.](<https://github.com/LittleBigRefresh/Docs/issues/new>)
 
 ## Enforcement
 
-We generally try to be hands-off when it comes to punishment. In most cases, the offending content will simply be deleted, or you will receive a verbal warning. In more extreme cases, you will be muted for anywhere between an hour and a week. This mostly happens after persisting and being told to stop doing something by a staff member.
-
-More often than not, a compromise by a staff member is given. For example, one may be told to move to a different channel or thread. Not following this advice will almost definitely result in a mute.
-
-If you have proven to consistently be disrespectful to the community, only then will you be banned.
+Generally, we try to be hands-off when it comes to punishment. Mistakes happen and everyone has off days–more often than not we might simply ask you to stop doing something and the offending content will be deleted. In more extreme cases you might receive a warning from us–again this isn’t a punishment so to speak but something we issue in the hopes that behavior changes. With that being said, if you deliberately and/or repeatedly push buttons, we will not hesitate to mute or ban you depending on the severity of your offenses.
 
 ## Appealing
 
-In the case that you've received a punishment (such as a ban or mute), you may feel this decision has been made unfairly.
-
-We currently lack a system for proper appeals as we usually don't have enough problems to warrant one. However, we still recognize the need for one so right now our recommendation for this right now is to contact a staff member directly. However, try to avoid contacting the staff member that punished you if possible. This can lead to bias in the handling of your case, as the staff member that punished you will generally not have an opinion in your favor.
-
-Generally though, most punishments are given out for a reason. Due to our hands-off nature we tend to focus on general behaviour rather than individual incidents. For example, if your punishment was delivered as a result of bad behavior over the past month, we won't be accepting appeals regarding behavior over the past day. Some things may be what cause punishments, but more often than not they are not the whole story.
+We currently lack a proper appeals system due to lack of cases. However, if you believe a punishment was unfairly administered, you can reach out to a staff member on Discord–preferably not the one who issued the punishment (as to avoid bias)–or email us at support@littlebigrefresh.com or jvyden@jvyden.xyz to explain your perspective. Most punishments we issue tend to focus on general behavior rather than individual incidents so in most instances we probably won’t reverse a decision.
 
 ## Server Invite
 
