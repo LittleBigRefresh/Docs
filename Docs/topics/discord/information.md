@@ -21,13 +21,11 @@ This list is non-exhaustive of behavior we might take action on, but in effect, 
 
 ## Enforcement
 
-Generally, we try to be hands-off when it comes to punishment. Mistakes happen and everyone has off days–more often than not we might simply ask you to stop doing something and the offending content will be deleted. In more extreme cases you might receive a verbal warning from our bot–again this isn’t a punishment so to speak but something we issue in the hopes that behavior changes.
-
-With that being said, if you deliberately and/or repeatedly push buttons, we will not hesitate to mute or ban you depending on the severity of your offenses.
+Generally, we try to be hands-off when it comes to punishment. Mistakes happen and everyone has off days–more often than not we might simply ask you to stop doing something and the offending content will be deleted. In more extreme cases you might receive a warning from us–again this isn’t a punishment so to speak but something we issue in the hopes that behavior changes. With that being said, if you deliberately and/or repeatedly push buttons, we will not hesitate to mute or ban you depending on the severity of your offenses.
 
 ## Appealing
 
-We currently lack a proper appeals system due to lack of cases. However, if you believe a punishment was unfairly administered, you can reach out to a staff member–preferably not the one who issued the punishment (as to avoid bias)–and explain your perspective. Most punishments we issue tend to focus on general behavior rather than individual incidents so in most instances we probably won’t reverse a decision.
+We currently lack a proper appeals system due to lack of cases. However, if you believe a punishment was unfairly administered, you can reach out to a staff member on Discord–preferably not the one who issued the punishment (as to avoid bias)–or email us at support@littlebigrefresh.com or jvyden@jvyden.xyz to explain your perspective. Most punishments we issue tend to focus on general behavior rather than individual incidents so in most instances we probably won’t reverse a decision.
 
 ## Server Invite
 
