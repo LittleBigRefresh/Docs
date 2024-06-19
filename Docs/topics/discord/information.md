@@ -23,7 +23,7 @@ This list is non-exhaustive of behavior we might take action on, but in effect, 
 
 Generally, we try to be hands-off when it comes to punishment. Mistakes happen and everyone has off days–more often than not we might simply ask you to stop doing something and the offending content will be deleted. In more extreme cases you might receive a verbal warning from our bot–again this isn’t a punishment so to speak but something we issue in the hopes that behavior changes.
 
-With that being said, if you deliberately and/or repeatedly push buttons, we will not hesitate to mute or ban you depending on the severity of your offenses. Participation in our community is a privilege and we’re not obligated to keep providing service if you don’t respect that.
+With that being said, if you deliberately and/or repeatedly push buttons, we will not hesitate to mute or ban you depending on the severity of your offenses.
 
 ## Appealing
 
