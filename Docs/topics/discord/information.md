@@ -11,7 +11,7 @@ LittleBigRefresh is a community to discuss anything and everything LittleBigPlan
 
 1. Follow Discord's terms of service. These can be found at <https://discord.com/terms>.
 2. No spam or self-promotion (server invites, advertisements, etc.) without permission from a staff member. This includes DMing fellow members.
-3. Treat everyone with respect. Harassment, witch hunting, rage baiting, sexism, racism, hate speech, any other form of hateful conduct or targeting, will not be tolerated.
+3. Treat everyone with respect. Harassment, witch-hunting, rage-baiting, sexism, racism, hate speech, or any other form of hateful conduct or targeting will not be tolerated.
 4. No mature or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other inappropriate material.
 5. Please keep criticism and conversation civil; don’t be intentionally rude or abrasive. We do our best to be understanding, but will take note of consistently unpleasant behavior.
 6. Endorsement or admission of piracy won't be tolerated. We won't mute you for mention of the subject, but we will take action if you're discussing methods or encouraging others to pirate.
