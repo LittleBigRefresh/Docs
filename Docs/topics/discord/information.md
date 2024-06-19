@@ -17,7 +17,7 @@ LittleBigRefresh is a community to discuss anything and everything LittleBigPlan
 6. Endorsement or admission of piracy won't be tolerated. We won't mute you for mention of the subject, but we will take action if you're discussing methods or encouraging others to pirate.
 7. Try to avoid discussing hot topics (drama/politics/religion/recent events, etc.) We’re all here to play and discuss a great game series we enjoy, it's best not to dwell on unrelated topics that may divide or embitter.
 
-This list is non-exhaustive of behavior we might take action on, but in effect, use common sense and all will be well. If you have any questions about our rules feel free to contact a staff member; if you have suggestions you can create a GitHub issue on our [documentation repo.](<https://github.com/LittleBigRefresh/Docs/issues/new>)
+This list is non-exhaustive of behavior we might take action on, but in effect, use common sense and all will be well. If you have any questions about our rules feel free to contact a staff member; if you have suggestions you can create a GitHub issue on our [documentation repo](https://github.com/LittleBigRefresh/Docs/issues/new).
 
 ## Enforcement
 
