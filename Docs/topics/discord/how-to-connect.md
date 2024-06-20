@@ -22,17 +22,13 @@ View this guide on our site: https://docs.littlebigrefresh.com/rpcs3.html
 
 View this guide on our site: https://docs.littlebigrefresh.com/ps3.html
 
-## Patching for LBP PSP (PSP or Vita)
-
-### Refresher (requires PC)
+## Patching for PSP
 
 View this guide on our site: https://docs.littlebigrefresh.com/psp.html
 
-### Browser setup (on-console, no PC)
+Or watch this short video guide: https://www.youtube.com/watch?v=Y0Oj16YzQzY
 
-Watch this short video guide: https://www.youtube.com/watch?v=Y0Oj16YzQzY
-
-## Patching LBP Vita
+## Patching for Vita (LBP Vita/LBP PSP)
 
 View this guide on our site: https://docs.littlebigrefresh.com/vita.html
 
