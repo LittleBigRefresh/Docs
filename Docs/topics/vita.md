@@ -21,9 +21,8 @@ Open VitaShell, and press <shortcut>← + O</shortcut>, this will open up the ca
 After scanning the QR code, it should ask "Do you want to install this package?" with a URL starting with `https`.
 
 <warning>
-If it does not say exactly "Do you want to install this package", 
-then try to scan again after lowering your display's brightness, 
-you can also try placing the QR code on a different display, such as your phone.
+If it asks if you want to open a URL instead of installing a package, your Vita likely misread the QR code.
+Try to scan again after lowering your display's brightness. You can also try placing the QR code on a different display, such as your phone.
 </warning>
 
 <img alt="images/autoplugin-qr-code.png" height="512" src="autoplugin-qr-code.png" width="512" style="block"/>
