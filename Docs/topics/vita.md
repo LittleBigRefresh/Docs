@@ -18,7 +18,7 @@ After you have jailbroken your Vita, we need to install [AutoPlugin2](https://gi
 We will be doing this using [VitaShell](https://github.com/TheOfficialFloW/VitaShell/releases/latest), which you can download through VitaDeploy.
 
 Open VitaShell, and press <shortcut>← + O</shortcut>, this will open up the camera to scan the QR code below. 
-After scanning the QR code, it should ask, "Do you want to install this package" with a URL starting with `https`. 
+After scanning the QR code, it should ask "Do you want to install this package?" with a URL starting with `https`.
 
 <warning>
 If it does not say exactly "Do you want to install this package", 
@@ -28,12 +28,12 @@ you can also try placing the QR code on a different display, such as your phone.
 
 <img alt="images/autoplugin-qr-code.png" height="512" src="autoplugin-qr-code.png" width="512" style="block"/>
 
-When it asks you if you want to "install this package," press "Yes." 
+When it asks you if you want to install this package, say "Yes."
 Once it is done downloading, it will ask if you want to allow this app to have extended permissions, say "Yes."
 
 ## Step 3: Install Allefresher
 
-Close VitaShell and open AutoPlugin2, it should now be in your Live Area. Open it and install any updates it asks you to install.
+Close VitaShell and open AutoPlugin2. It should now be in your Live Area. Open it and install any updates it asks you to install.
 
 ### Patching LBP Vita
 
@@ -43,7 +43,7 @@ On this menu, you should see every installed copy of LittleBigPlanet Vita.
 Select the one you want to patch. 
 It will install the plugin for that specific copy only. 
 Afterward, a green dot should appear at the right of the screen corresponding to the game you patched.
-If you don't see your game on this list, make sure updates are installed, then try again.
+If you don't see your game on this list, make sure the game's updates are installed and then try again.
 
 ### Patching LBP PSP
 
@@ -51,7 +51,7 @@ Install the plugin by selecting `PSP plugins` → `PSP plugins for Adrenaline` �
 
 ## Step 4: Finalize the setup!
 
-Exit out of AutoPlugin2 editor by pressing the correct back button for your region, then selecting `Exit` on AutoPlugin2's menu.
+Exit out of AutoPlugin2 editor by pressing the back button, then select `Exit` on AutoPlugin2's menu.
 Finally, restart your Vita.
 
 Now, ensure your game is fully up to date. 
@@ -60,7 +60,7 @@ Now, ensure your game is fully up to date.
 
 Press triangle twice with the game's bubble selected in the Live Area. 
 If the Update History button is present and shows Version 1.22, then your game is fully up to date. 
-If it is not, open the game's live area, and press the refresh button at the top of the screen, this will install all the updates for your game.
+When pressing the refresh button, a yellow arrow button should appear. Press the yellow arrow button to install all the updates for your game.
 
 ### Updating LBP PSP
 

@@ -67,8 +67,8 @@
 
     <snippet id="check-lbppsp-version">
         <p>Open the game and look at the language selection screen.
-            The grid paper should be purple if you are using the latest release, if it is not, please follow the following instructions to update.
+            The grid paper should be purple if you are using the latest release. If it is not, please follow the following instructions to update.
             For a UMD or Playstation Store copy, press triangle on the game in the XMB and select Update.
-            For a dumped copy of the game, you can use <a href="https://www.reddit.com/r/PSP/wiki/updateiso/">this guide</a> to update your dump.</p>
+            For a dumped copy of the game, you can use <a href="https://old.reddit.com/r/PSP/wiki/updateiso/">this guide</a> to update your dump.</p>
     </snippet>
 </topic>

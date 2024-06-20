@@ -26,15 +26,15 @@ we'd recommend dual-booting PRO-C as well until Allefresher is guaranteed to wor
 
 On your PSP's XMB, select `Network` → `Internet Browser`. 
 Navigate to the `Address` bar at the top of the screen, and type in `http://psp.littlebigrefresh.com:2095`.
-Select `Download Allefresher`, then select `Memory Stick` (if that is unavailable, select `System Storage`). 
+Select `Download Allefresher`, then select `Memory Stick`. If `Memory Stick` is unavailable, select `System Storage` instead.
 Do the same for `LittleBigRefresh (Domain)` and `LittleBigRefresh (Format)`. 
 This installs the plugin, and sets it up to connect to LittleBigRefresh.
 
 If you are running PRO-C or ME firmware and cannot edit your plugin list, 
 you can scroll down on the website and download `game.txt` to download a pre-setup config file for Refresh. 
-This will clear out all other plugins.
-If you can edit your plugin list, add a new line containing `ms0:/SEPLUGINS/Allefresher.prx 1` to your `game.txt` file located in the `ms0:/SEPLUGINS/` folder. 
-You may have to create this file/folder if it does not exist.
+Please note that doing this will clear out all of your enabled plugins.
+If you *can* easily edit your plugin list, you can add a new line containing `ms0:/SEPLUGINS/Allefresher.prx 1` to your `game.txt` file located in the `ms0:/SEPLUGINS/` folder to enable the plugin.
+If the `ms0:/SEPLUGINS/` directory or the `game.txt` file within doesn't exist, you can create them yourself.
 
 On ARK-4, you can install the plugin using the built-in file manager. 
 Navigate to the ARK-4 custom launcher, press <shortcut>△</shortcut>, then go to `Files`. 
@@ -42,7 +42,7 @@ Select `SEPLUGINS`, find `Allefresher.prx`, select it to install, and then click
 
 ## Step 3: Finalizing the setup
 
-Now, we need to check the version of the game.
+Now, we need to check the version of the game and update if necessary.
 
 <include from="Library.topic" element-id="check-lbppsp-version" />
 
