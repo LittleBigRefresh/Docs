@@ -31,7 +31,7 @@ Do the same for `LittleBigRefresh (Domain)` and `LittleBigRefresh (Format)`.
 This installs the plugin, and sets it up to connect to LittleBigRefresh.
 
 If you are running PRO-C or ME firmware and cannot edit your plugin list, 
-you can scroll down on the website and download `game.txt` to download a pre-setup config file for Refresh. 
+you can scroll down on the website and download the `game.txt` file, a pre-setup config file for Allefresher. 
 Please note that doing this will clear out all of your enabled plugins.
 If you *can* easily edit your plugin list, you can add a new line containing `ms0:/SEPLUGINS/Allefresher.prx 1` to your `game.txt` file located in the `ms0:/SEPLUGINS/` folder to enable the plugin.
 If the `ms0:/SEPLUGINS/` directory or the `game.txt` file within doesn't exist, you can create them yourself.
