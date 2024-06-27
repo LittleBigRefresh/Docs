@@ -33,10 +33,10 @@ https://discord.gg/Q5RkRBtpWC
 
 This is an LBP oriented server with a focus on modding. If you're an LBP modder, interested in LBP mods, want to learn how to mod, or just like installing and playing with other mods, this is the server for you!
 
-https://discord.gg/v7UqKBsj3c
+https://discord.gg/gkQhf8Kx6J
 
 ## LittleBigCheese
 
 LittleBigCheese is a community centered around LBP, with a focus on making LBP3-story-like 'level hubs' and in-game events. They're pretty chill, hosting game nights every so often and such.
 
-https://discord.gg/dCUutB4Hm3
+https://discord.gg/gkQhf8Kx6J
