@@ -39,4 +39,4 @@ https://discord.gg/gkQhf8Kx6J
 
 LittleBigCheese is a community centered around LBP, with a focus on making LBP3-story-like 'level hubs' and in-game events. They're pretty chill, hosting game nights every so often and such.
 
-https://discord.gg/gkQhf8Kx6J
+https://discord.gg/Q69VXyrP3A
