@@ -60,7 +60,15 @@
     
     <snippet id="final-patching-message">
         <p>
-            When all is set and ready to go, register an account on <a href="https://lbp.littlebigrefresh.com/">our website</a>, and then open the game!
+            When all is set and ready to go, register an account on <a href="https://lbp.littlebigrefresh.com/">our website</a>,
+            and then open the game and start browsing levels to activate your account!
         </p>
+    </snippet>
+
+    <snippet id="check-lbppsp-version">
+        <p>Open the game and look at the language selection screen.
+            The grid paper should be purple if you are using the latest release. If it is not, please follow the following instructions to update.
+            For a UMD or Playstation Store copy, press triangle on the game in the XMB and select Update.
+            For a dumped copy of the game, you can use <a href="https://old.reddit.com/r/PSP/wiki/updateiso/">this guide</a> to update your dump.</p>
     </snippet>
 </topic>
