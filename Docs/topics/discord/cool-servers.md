@@ -3,11 +3,6 @@ channelId: 1134030451154096148
 title: Cool Servers
 ---
 
-## LittleBigPlanet PSVita Discord
-The unofficial official Discord for LBP Vita.
-
-https://discord.gg/P9C2NnWpXB
-
 ## Imagisphere
 A community centered around reverse engineering, modding, and preserving development history around LittleBigPlanet.
 
