@@ -14,7 +14,10 @@ This page contains a list of them and what they do.
 - `/unescapexmlon`: Un-escapes the XML sent to the `/filter` endpoint.
 This allows you to use XML sequences in-game not normally possible, such as putting player icons in magic mouths.
 - `/unescapexmloff`: Restores normal `/filter` functionality.
-- `/play [level id]`: Tells the server that you want to play a particular level by the level's ID.
+- `/showmods`: Shows levels with modded content.
+- `/hidemods`: Hides levels with modded content.
+- `/play [level id]`: Tells the server that you want to play a given level on the server.
+- `/play [level hash]`: Tells the server that you want to play a specific level's root resource hash.
 - `/beta`: Switches the token to be `TokenGame.BetaBuild`. Can be used for builds that do not properly identify themselves as beta builds, e.g. deploy.
 - `/revoketoken`: Revokes the token in use by the client, essentially forcing the game to redo the handshake with the server. 
 This can be used to switch away from beta mode, but it can also just be generally useful.
