@@ -41,7 +41,7 @@ The client MAY specify a `titleId` as a query parameter to identify the game in 
 
 `GET /autodiscover?titleId=NPUA80662 HTTP/1.1`
 
-If the server chooses to, it MAY change the output of the `url` parameter based on the given `titleId`. For example a LBP3 client may require HTTPS, but other clients may not be able to connect via HTTPS. In this case you would want to change to a http(s) URL for those clients.
+If the server chooses to, it MAY change the output of the `url` parameter based on the given `titleId`. For example an LBP3 client may require HTTPS, but other clients may not be able to connect via HTTPS. In this case you would want to change to an http(s) URL for those clients.
 
 The server MUST NOT reject a request that does not include the `titleId` parameter.
 
