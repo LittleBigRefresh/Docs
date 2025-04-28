@@ -3,7 +3,7 @@
 <include from="Library.topic" element-id="supported-version-notice"/>
 
 It is possible to install Allefresher PSP using the PSP's built-in web browser. 
-This will allow you to connect to LittleBigRefresh on a modded PSP.
+This will allow you to connect to Bonsai on a modded PSP.
 
 If you prefer a video guide, you can view the video form of this guide [here](https://www.youtube.com/watch?v=Y0Oj16YzQzY).
 
@@ -28,7 +28,7 @@ On your PSP's XMB, select `Network` → `Internet Browser`.
 Navigate to the `Address` bar at the top of the screen, and type in `http://psp.littlebigrefresh.com:2095`.
 Select `Download Allefresher`, then select `Memory Stick`. If `Memory Stick` is unavailable, select `System Storage` instead.
 Do the same for `LittleBigRefresh (Domain)` and `LittleBigRefresh (Format)`. 
-This installs the plugin, and sets it up to connect to LittleBigRefresh.
+This installs the plugin, and sets it up to connect to Bonsai.
 
 If you are running PRO-C or ME firmware and cannot edit your plugin list, 
 you can scroll down on the website and download the `game.txt` file, a pre-setup config file for Allefresher. 

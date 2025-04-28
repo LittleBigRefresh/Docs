@@ -1,5 +1,5 @@
-# Welcome to LittleBigRefresh's Documentation Hub!
-Welcome! Here we serve documentation surrounding LBP, Refresh, Bunkum, everything LittleBigRefresh!
+# Welcome to Bonsai's Documentation Hub!
+Welcome! Here we serve documentation surrounding LBP, Refresh, Bunkum, everything Bonsai!
 
 ## Sections
 
@@ -12,7 +12,7 @@ Any information we deem useful or important we jot down here.
 
 ### Patching
 
-This is where we put our patching guides. If you'd like to connect to LittleBigRefresh, this is the place to go!
+This is where we put our patching guides. If you'd like to connect to Bonsai, this is the place to go!
 
 ### Discord
 

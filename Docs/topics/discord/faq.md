@@ -7,7 +7,7 @@ This channel contains answers frequently asked questions we see. If your questio
 
 ## Does Refresh have an official server?
 
-Yes! On August 26th, 2023, we launched LittleBigRefresh. If you'd like to connect, head on over to <#1144875410786623568>!
+Yes! On August 26th, 2023, we launched Bonsai. If you'd like to connect, head on over to <#1144875410786623568>!
 
 ## How do I make my own Refresh server?
 
@@ -17,7 +17,7 @@ If you'd like to patch to your own server, our own guides should work for that a
 
 ## What are Refresher and Allefresher?
 
-[Refresher](https://github.com/LittleBigRefresh/Refresh) is the patcher that lets you modify your game to connect to custom servers. It can technically work for other games than just the LBP series, but it is still a work in progress. It aims to be smart, communicating with the server for proper patching instructions via our "AutoDiscover" protocol.
+[Refresher](https://github.com/LittleBigRefresh/Refresher) is the patcher that lets you modify your game to connect to custom servers. It can technically work for other games than just the LBP series, but it is still a work in progress. It aims to be smart, communicating with the server for proper patching instructions via our "AutoDiscover" protocol.
 
 [Allefresher](https://github.com/LittleBigRefresh/Allefresher) is a set of CFW plugins which automatically patch a game at startup, this removes the need for you to manually re-patch your game from a PC whenever you want to switch server, allowing you to switch server entirely on-console. Right now, Allefresher exists for PSP and Vita.
 
@@ -43,7 +43,7 @@ Try disabling the `reScaler` plugin, as it conflicts with the PSP web browser.
 
 ## I get a 403 on connecting!
 
-Make sure you have an account registered [on our website](https://lbp.littlebigrefresh.com/).
+Make sure you have an account registered [on our website](https://lbp.lbpbonsai.com/).
 
 ## Whenever I press the button to accept the EULA, nothing happens!
 

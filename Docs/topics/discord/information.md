@@ -1,11 +1,11 @@
 ---
 channelId: 1049224956162097212
 ---
-# Welcome to LittleBigRefresh!
+# Welcome to Bonsai!
 
-LittleBigRefresh is a community to discuss anything and everything LittleBigPlanet, as well as development of Refresh, a second-generation custom server with improved quality of life features. LittleBigRefresh currently supports LBP1, LBP2, LBP3 (PS3), LBP Vita, and LBP PSP (PSP/Vita).
+Bonsai is a community to discuss anything and everything LittleBigPlanet, as well as development of Refresh, a second-generation custom server with improved quality of life features. Bonsai currently supports LBP1, LBP2, LBP3 (PS3), LBP Vita, and LBP PSP (PSP/Vita).
 
-![LittleBigRefresh Banner](https://raw.githubusercontent.com/LittleBigRefresh/Branding/main/banners/refresh_banner_1080x_notext.png)
+![Bonsai Banner](https://raw.githubusercontent.com/LittleBigRefresh/Branding/refs/heads/main/banners/Bonsai_Banner_16_9_1080.png)
 
 ## Rules
 
@@ -25,7 +25,7 @@ Generally, we try to be hands-off when it comes to punishment. Mistakes happen a
 
 ## Appealing
 
-We currently lack a proper appeals system due to lack of cases. However, if you believe a punishment was unfairly administered, you can reach out to a staff member on Discord–preferably not the one who issued the punishment (as to avoid bias)–or email us at support@littlebigrefresh.com or jvyden@jvyden.xyz to explain your perspective. Most punishments we issue tend to focus on general behavior rather than individual incidents so in most instances we probably won’t reverse a decision.
+We currently lack a proper appeals system due to lack of cases. However, if you believe a punishment was unfairly administered, you can reach out to a staff member on Discord–preferably not the one who issued the punishment (as to avoid bias)–or email us at support@lbpbonsai.com to explain your perspective. Most punishments we issue tend to focus on general behavior rather than individual incidents so in most instances we probably won’t reverse a decision.
 
 ## Server Invite
 

@@ -23,7 +23,7 @@ This allows you to use XML sequences in-game not normally possible, such as putt
 This can be used to switch away from beta mode, but it can also just be generally useful.
 
 ## Debug Command List
-These are debugging commands for developers that are not available in production instances of Refresh (e.g. LittleBigRefresh).
+These are debugging commands for developers that are not available in production instances of Refresh (e.g. Bonsai).
 
 - `/tokengame [game]`: Sets the requesting token's `TokenGame` to the given id.
   See [the source code](https://github.com/LittleBigRefresh/Refresh/blob/main/Refresh.GameServer/Authentication/TokenGame.cs#L5) for a list of games.
