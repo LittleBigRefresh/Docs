@@ -26,6 +26,7 @@
         <toc-element topic="labels.md"/>
         <toc-element topic="community-tab-data.md"/>
         <toc-element topic="recent-activity.md"/>
+        <toc-element topic="lbp-security.topic"/>
     </toc-element>
 
     <toc-element toc-title="Patching">

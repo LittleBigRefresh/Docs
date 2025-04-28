@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="LittleBigPlanet &amp; Security" id="lbp-security">
+
+    <note>
+        <p>
+            This page is a bit of a placeholder since I'm rushing to get registrations back up.
+            Sorry if this is confusing.
+            - jvyden
+        </p>
+    </note>
+    
+    <warning>
+        <p>
+            <b>TL;DR</b>: LBP is unsafe for both your save data, and the console it's running on when playing online.
+            You should play behind a VPN and take frequent backups of both your LBP save
+            and anything you else want to keep on the console you're playing on.
+        </p>
+        <p><b>
+            The best way to protect yourself against any attacks is to play offline.
+        </b></p>
+    </warning>
+    
+    <chapter title="What is 'scripting'?" id="scripting">
+        <p>
+            As the scripting portion of LittleBigPlanet has been cracked open,
+            there have been many vulnerabilities discovered in relation to multiplayer.
+        </p>
+
+        <p>
+            Scripting is a feature of the engine that allows you to run random code at runtime.
+            This is most commonly used in-game for UI;
+            presumably developers needed to quickly iterate on the layout in the pod computer or the popit.
+            
+            They can be attached to objects in levels (and by extension, planet decorations, as they are technically levels)
+        </p>
+
+        <p>
+            However, due to the nature of the scripting language being open, meaning scripts can be shared
+            across the server and in P2P multiplayer, scripts can be used for naughty things.
+        </p>
+
+        <note>
+            The community has also used scripts to develop innocent things, such as
+            <a href="https://gamebanana.com/mods/536722">LBAC</a>, an anti-cheat,
+            or server patchers, or certain joke items/meta memes.
+        </note>
+
+        <p>
+            These naughty things could be as innocent as moving all your levels to the top of your earth,
+            or things like deleting all the levels off of your moon.
+            <b>These attacks have already been done to people on the official servers.</b>
+        </p>
+
+        <p><b>
+            More recently, it was discovered that it's possible to execute arbitrary system calls under certain conditions,
+            meaning scripts could potentially affect things outside of LittleBigPlanet.
+        </b></p>
+    </chapter>
+    
+    <chapter title="Can we prevent scripting?" id="preventing-scripts">
+        <p>
+            Thankfully, <i>uploaded</i> scripts are blocked by most custom servers.
+            Any server worth their salt (e.g. Beacon or Bonsai) will deny people from
+            uploading custom scripts unless manually approved beforehand.
+        </p>
+        
+        <p>
+            However, this does <b>not exclude scripts from being sent over P2P multiplayer.</b>
+            If someone is playing with you online, they have the capability to perform an attack with scripting.
+        </p>
+        
+        <p>
+            As P2P multiplayer is uncontrolled by the server,
+            the server can't enforce its protections on scripts like it can
+            with scripts attached to levels and player earths.
+        </p>
+        
+        <p>
+            An attacker can spawn an object in your session with a script attached.
+            That script will not pass through the content filters imposed by the server,
+            and will go directly to your game and be executed. 
+        </p>
+        
+        <note>
+            <p>
+                It is possible to prevent this with a client-side patch to block scripts
+                from being received over multiplayer, <b>but this hasn't been developed yet</b>.
+            </p>
+        </note>
+    </chapter>
+    
+    <chapter title="Auto-Join" id="autojoin">
+        <p>
+            So, by now you're probably thinking to yourself,
+            '<i>
+                Okay, I'll just play my friends with who I trust and deny anyone else.
+            </i>'
+            
+            Unfortunately, using <i>another</i> exploit, it's possible for attackers to join your session
+            without any consent on your end.
+        </p>
+        
+        <p>
+            I won't go into how this is possible for obvious reasons, but just know that in theory,
+            someone could join your game and immediately spawn something that corrupts your save, or something far worse.
+        </p>
+    </chapter>
+    
+    <chapter title="Protecting Yourself" id="protections">
+        <p>
+            There's not much that could be done about these exploits right now,
+            pending some work on making patches to all the games that blocks P2P scripts from being synced over multiplayer.
+        </p>
+        
+        <p>
+            You could theoretically make a firewall rule to block P2P multiplayer, making yourself NAT type 3,
+            but this protection could potentially fail, and it blocks you from playing with your friends.
+        </p>
+        
+        <p>
+            Your best bet is to play offline while a patch is developed, or accept the risk and make frequent backups.
+            The silver lining is that these attacks haven't been performed yet, at least that I'm aware of. But that doesn't mean LBP is safe.
+        </p>
+        
+        <p>
+            Join our <a href="https://discord.gg/xN5yKdxmWG">Discord</a> and be the first to get notified when such a patch is developed.
+        </p>
+    </chapter>
+</topic>
