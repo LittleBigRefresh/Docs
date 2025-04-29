@@ -11,7 +11,7 @@
             Copy this URL into the second field - the one named 'Server URL'.
         </p>
         <p>
-            In the case of the official Bonsai instance, you will use the IP <code>http://lbp.Bonsai.com:2095/lbp</code>
+            In the case of the official Bonsai instance, you will use the IP <code>http://lbp.lbpbonsai.com:2095/lbp</code>
         </p>
         <p>
             Next, hit the button that says 'AutoDiscover'.
