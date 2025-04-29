@@ -31,7 +31,22 @@ At the end of this, you will be able to select your server of choice inside the 
 
 ![A Screenshot of Refresher's RPCS3 patching screen](refresher-rpcs3.png)
 
-## Step 1: Enter the location of RPCS3's filesystem
+## Step 1: Update your game to the latest version
+
+Refresh requires your game to be on the latest version. This is trivial on a real PS3, but not so trivial for RPCS3.
+
+Thankfully, the RPCS3 developers have provided a helpful guide on how to do this:
+
+<a href="https://wiki.rpcs3.net/index.php?title=Help:Installing_Game_Updates>">RPCS3 Wiki: Installing Game Updates</a>
+
+## Step 2: Enter the location of RPCS3's filesystem
+
+<warning>
+    <p>
+    Ensure your game is on the latest version before proceeding.
+    Not updating can cause strange, random issues that are difficult to understand.
+    </p>
+</warning>
 
 Every copy of RPCS3 has a folder titled `dev_hdd0` containing game files and digital licenses required for Refresher to modify the game. 
 Obviously, you can't patch anything without knowing where anything is, so we need to tell Refresher where this folder is!
@@ -47,11 +62,11 @@ Here's where it should be:
 Once you've found this folder, head back to Refresher and click 'Browse' in the top field. 
 Navigate to this directory and click Select Folder. Click 'Game To Patch' and all the games loaded into RPCS3 should appear.
 
-## Step 2: Fill in the server URL
+## Step 3: Fill in the server URL
 
 <include from="Library.topic" element-id="fill-in-server-url"/>
 
-## Step 3: Patch!
+## Step 4: Patch!
 
 Now, click the patch button. It should decrypt the game, and add a new entry to your game's patches menu.
 
@@ -60,3 +75,19 @@ Open up RPCS3, right-click the game and select "Manage Game Patches". Enable the
 ![A screenshot of RPCS3, indicating where to go.](rpcs3-patch-manager.png)
 
 <include from="Library.topic" element-id="final-patching-message" />
+
+## Step 5: Enable RPCN in RPCS3
+
+To actually *enable* RPCN, you need to adjust some settings in RPCS3. Here's how:
+
+1. Click 'Config' at the top of the RPCS3 main window.
+2. Go to the 'Network' tab.
+3. Set PSN Status to RPCN.
+4. Set Network Status to Connected.
+5. Set DNS to 8.8.8.8 or 1.1.1.1.
+6. Click the checkbox to Enable UPNP.
+7. Click Apply and Save.
+
+Your network settings should look like this now:
+
+![A screenshot of RPCS3's network settings, showing the correct options.](rpcs3-network-settings.png)
