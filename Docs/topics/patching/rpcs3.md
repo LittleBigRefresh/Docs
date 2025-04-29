@@ -12,6 +12,9 @@ At the end of this, you will be able to select your server of choice inside the 
     </p>
     <list>
     <li>
+        Run through Step 1 and Step 5, ignoring the steps between.
+    </li>
+    <li>
         Head to Manage -> Game Patches. If asked to update patches, click Yes.
     </li>
     <li>
