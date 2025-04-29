@@ -5,6 +5,28 @@
 Refresher has native support for decrypting and patching RPCS3 games. This guide aims to show you how to operate Refresher's RPCS3 patcher. 
 At the end of this, you will be able to select your server of choice inside the game patches menu of RPCS3.
 
+<warning>
+    <p>
+        If you're intending to play on <b>Bonsai</b>, you do not need to follow this guide.
+        Instead, follow these steps:
+    </p>
+    <list>
+    <li>
+        Head to Manage -> Game Patches. If asked to update patches, click Yes.
+    </li>
+    <li>
+        Click the box named "Only show owned games" and search for LittleBigRefresh
+        <i>(or search Bonsai, if none are shown)</i>
+    </li>
+    <li>
+        Expand and check all the boxes available.
+    </li>
+    <li>
+        You are now able to play on <b>Bonsai!</b>
+    </li>
+    </list>
+</warning>
+
 <include from="Library.topic" element-id="download-refresher"/>
 
 ![A Screenshot of Refresher's RPCS3 patching screen](refresher-rpcs3.png)
