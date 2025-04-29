@@ -84,6 +84,12 @@ Open up RPCS3, right-click the game and select "Manage Game Patches". Enable the
 To actually *enable* RPCN, you need to adjust some settings in RPCS3. Here's how:
 
 1. Click 'Config' at the top of the RPCS3 main window.
+<note>
+<p>
+If you're using a custom config for your game (marked by a symbol next to the game's name),
+right click the game and click 'Change Custom Configuration' instead.
+</p>
+</note>
 2. Go to the 'Network' tab.
 3. Set PSN Status to RPCN.
 4. Set Network Status to Connected.
