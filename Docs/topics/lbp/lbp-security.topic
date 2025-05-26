@@ -140,12 +140,12 @@
     
     <chapter title="Protecting Yourself" id="protections">
         <p>
-            A workaround has been developed by <a href="https://github.com/Zaprit">Zaprit</a>
-            that newer versions of <a href="https://github.com/LittleBigRefresh/Refresher">Refresher</a> will automatically deploy for you.
+            A workaround has been developed by <a href="https://github.com/Zaprit">Zaprit</a> called <b><a href="https://github.com/HugeSpaceship/Patchwork">Patchwork</a></b>
+            that newer versions of <a href="https://github.com/LittleBigRefresh/Refresher">S</a> will automatically deploy for you.
         </p>
         
         <p>
-            This workaround works by changing the encryption key used for P2P multiplayer,
+            Patchwork currently works by changing the encryption key used for P2P multiplayer,
             effectively preventing connections from people who don't know the key.
         </p>
         
@@ -162,7 +162,7 @@
         </note>
         
         <p>
-            Refresh will block connections that don't use the latest versions of these patches,
+            Servers like Bonsai and Beacon will block connections that don't use the latest versions of these patches,
             effectively requiring you to use these patches before you can play.
         </p>
         
