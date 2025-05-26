@@ -4,15 +4,6 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="LittleBigPlanet &amp; Security" id="lbp-security">
-
-    <note>
-        <p>
-            This page is a bit of a placeholder since I'm rushing to get registrations back up.
-            Sorry if this is confusing.
-            - jvyden
-        </p>
-    </note>
-    
     <warning>
         <p>
             <b>TL;DR</b>: LBP is unsafe for both your save data, and the console it's running on when playing online.
@@ -20,9 +11,15 @@
             and anything you else want to keep on the console you're playing on.
         </p>
         <p><b>
-            The best way to protect yourself against any attacks is to play offline.
+            Although there are some miscellaneous workarounds and patches,
+            the ultimate way to protect yourself against any attacks is to play offline.
         </b></p>
     </warning>
+    
+    <note>
+        These warnings don't apply to <b>LittleBigPlanet PSP</b>, as it doesn't use scripting or multiplayer.
+        It <i>is</i>, however, <b><i>still applicable</i></b> to <b>LBP Vita</b> as it is a fork of LBP2's engine.
+    </note>
     
     <chapter title="What is 'scripting'?" id="scripting">
         <p>
@@ -46,7 +43,7 @@
         <note>
             The community has also used scripts to develop innocent things, such as
             <a href="https://gamebanana.com/mods/536722">LBAC</a>, an anti-cheat,
-            or server patchers, or certain joke items/meta memes.
+            in-game server patchers, or certain joke items/meta memes.
         </note>
 
         <p>
@@ -100,34 +97,77 @@
                 Okay, I'll just play my friends with who I trust and deny anyone else.
             </i>'
             
-            Unfortunately, using <i>another</i> exploit, it's possible for attackers to join your session
+            Unfortunately, using <i>another</i> exploit, it's possible for attackers to fake an in-game invite and join your session
             without any consent on your end.
+        </p>
+    </chapter>
+    
+    <chapter title="Your IP is exposed because of P2P" id="ip">
+        <p>
+            The <i>LittleBigPlanet</i> games use a multiplayer scheme called peer-to-peer (P2P).
+            This means each player connects directly to a host - another player.
+        </p>
+        
+        <note>
+            Some modern P2P variants, like Steam Networking, can mask your IP address and obscure it from attackers.
+            However, the PS3's aging software doesn’t support anything like this.
+        </note>
+        
+        <p>
+            Because each player needs to know the host's IP to play multiplayer with them,
+            your IP is shared with anyone who connects to you on RPCN or PSN.
         </p>
         
         <p>
-            I won't go into how this is possible for obvious reasons, but just know that in theory,
-            someone could join your game and immediately spawn something that corrupts your save, or something far worse.
+            An attacker could use your IP to perform a DDoS attack (or "boot" you offline),
+            or to discover your general location.
+            
+            In rare cases, they might also mess with services you've port forwarded,
+            though most home networks don't have ports forwarded unless you've done so yourself.
         </p>
+        
+        <p>
+            To hide your IP and protect against these types of attacks, you can use a <b>VPN</b>
+            to route all traffic through a secure server.
+            
+            In the case of PS3, there is no explicit mechanism for VPNs, so you'll have to figure out how to proxy connections through your computer.
+        </p>
+        
+        <note>
+            An alternative to VPNs is tightening your firewall to disallow all incoming connections to your PS3.
+        </note>
     </chapter>
     
     <chapter title="Protecting Yourself" id="protections">
         <p>
-            There's not much that could be done about these exploits right now,
-            pending some work on making patches to all the games that blocks P2P scripts from being synced over multiplayer.
+            A workaround has been developed by <a href="https://github.com/Zaprit">Zaprit</a> called <b><a href="https://github.com/HugeSpaceship/Patchwork">Patchwork</a></b>
+            that newer versions of <a href="https://github.com/LittleBigRefresh/Refresher">S</a> will automatically deploy for you.
         </p>
         
         <p>
-            You could theoretically make a firewall rule to block P2P multiplayer, making yourself NAT type 3,
-            but this protection could potentially fail, and it blocks you from playing with your friends.
+            Patchwork currently works by changing the encryption key used for P2P multiplayer,
+            effectively preventing connections from people who don't know the key.
         </p>
         
         <p>
-            Your best bet is to play offline while a patch is developed, or accept the risk and make frequent backups.
-            The silver lining is that these attacks haven't been performed yet, at least that I'm aware of. But that doesn't mean LBP is safe.
+            The downside is that this still doesn't block scripts from being shared over P2P,
+            nor does it make it as easy to play with your friends.
+            By default, keys are randomized, and you'll have to share your own 'password' with friends to play with them.
+        </p>
+        
+        <note>
+            In real-world terms, this is like changing the locks on your safe instead of securing anything inside.
+            It'll still help, but if you get past the lock, either by breaking it or guessing the code,
+            you can still do whatever you want to what's inside.
+        </note>
+        
+        <p>
+            Servers like Bonsai and Beacon will block connections that don't use the latest versions of these patches,
+            effectively requiring you to use these patches before you can play.
         </p>
         
         <p>
-            Join our <a href="https://discord.gg/xN5yKdxmWG">Discord</a> and be the first to get notified when such a patch is developed.
+            Join our <a href="https://discord.gg/xN5yKdxmWG">Discord</a> and be the first to get notified when more patches are developed.
         </p>
     </chapter>
 </topic>

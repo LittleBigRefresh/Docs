@@ -2,7 +2,13 @@
 
 <include from="Library.topic" element-id="supported-version-notice"/>
 
-Refresher has native support for decrypting, encrypting and patching PS3 games. This guide aims to show you how to operate Refresher's PS3 patcher.
+Refresher has native support for decrypting, encrypting and patching PS3 games, including the LittleBigPlanet series.
+This guide shows you how to operate Refresher's PS3 patcher.
+
+<note>
+    For the LBP games, Refresher will instead use a new patching method called Patchwork to hook into the game to provide extra security patches.
+    It comes with the benefit that it is configurable without a full repatch, with the downside that it only works for select games. 
+</note>
 
 <include from="Library.topic" element-id="download-refresher"/>
 
@@ -20,7 +26,7 @@ Once you've gotten a modded firmware up and running, head on over to GitHub and 
 
 Move the installer .pkg onto your PS3, and use your PS3's package manager to get the installer on your PS3, then run it to install webMAN-MOD onto your system.
 
-<note>webMAN-MOD Lite will not work to patch digital copies. Please ensure you are using the full version of webMAN-MOD.</note>
+<warning>webMAN-MOD Lite will <i>not</i> work to patch digital copies. Please ensure you are using the full version of webMAN-MOD.</warning>
 
 ## Step 2: Find your PS3's IP Address
 
@@ -33,10 +39,21 @@ Click the 'Connect' button, and Refresher should connect to your PS3. It may tak
 
 ## Step 3: Fill in the server URL
 
+Next, go to Refresher and click either 'Patch LBP1/2/3 for PS3' or 'Patch any PS3 game' depending on if you're patching an LBP game.
+The latter will not work for LBP as it does not include critical security fixes through Patchwork, so beware!
+
 <include from="Library.topic" element-id="fill-in-server-url"/>
+
+## Step 3.5: Lobby passwords
+
+<include from="Library.topic" element-id="lobby-password"/>
 
 ## Step 4: Patch!
 
-Now, click the patch button. It should decrypt the game, patch, then place a working EBOOT onto your PS3.
+Now, click the patch button. It should decrypt the game, patch, then place a new EBOOT and a copy of Patchwork onto your PS3!
 
 <include from="Library.topic" element-id="final-patching-message" />
+
+## Step 4.5: Reconfiguring the patch
+
+<include from="Library.topic" element-id="reconfigure-patch" />

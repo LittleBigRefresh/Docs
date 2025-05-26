@@ -10,29 +10,38 @@
             You should have been given a URL by the person operating the server you're trying to connect to.
             Copy this URL into the second field - the one named 'Server URL'.
         </p>
-        <p>
-            In the case of the official Bonsai instance, you will use the IP <code>http://lbp.lbpbonsai.com:2095/lbp</code>
-        </p>
+        <note>
+            In the case of the official Bonsai instance, you should use the IP <code>http://lbp.lbpbonsai.com:2095/lbp</code>
+        </note>
         <p>
             Next, hit the button that says 'AutoDiscover'.
             This will trigger Refresher to attempt to connect to the remote server to gather more details and extra patching instructions from it.
             AutoDiscover is required for some games, so you should always use it.
         </p>
         <p>
-            Most servers based on Bunkum, most notably Refresh, should support this protocol.
-            Other servers such as Project Lighthouse do not support this protocol.
+            If successful, Refresher will automatically fill in the appropriate settings from that server.
         </p>
+    </snippet>
+    
+    <snippet id="lobby-password">
         <p>
-            If successful, Refresher will open a pop-up presenting the information it gathered from the server.
-            Click 'Yes' to accept these settings, and Refresher will automatically do the rest when you patch.
+            If patching an LBP game, you can also set a lobby password to play multiplayer.
+            Current security patches require that multiplayer be effectively disabled by randomizing the encryption key.
         </p>
-
-        <img src="autodiscover-success.png" alt="A dialog box from Refresher, indicating that AutoDiscover has been performed successfully." />
-
-        <note id="use-autodiscover-note">
-            <p>If you are a developer of a custom server for any game, you can read up on our AutoDiscover protocol's documentation <a href="https://docs.littlebigrefresh.com/autodiscover-api">here</a>.</p>
-            <p>We recommend you support it, as it helps users ensure that they are following the correct procedures before they launch the game.</p>
-        </note>
+        
+        <p>
+            By setting your own key for multiplayer,
+            you can regain the ability to play with those who are using the same key!
+        </p>
+        
+        <warning>
+            <p>
+                ONLY SHARE THIS CODE WITH YOUR FRIENDS, OTHERWISE FACE SECURITY VULNERABILITIES.
+            </p>
+            <p>
+                Read more about LBP security <a href="https://docs.littlebigrefresh.com/lbp-security.html">here</a>.
+            </p>
+        </warning>
     </snippet>
 
     <snippet id="download-refresher">
@@ -40,27 +49,26 @@
             To download Refresher, you must first visit the <a href="https://github.com/LittleBigRefresh/Refresher/releases/latest">Releases Page</a>.
         </p>
         <p>
-            Then, pick the option corresponding to the operating system that is running on your computer.
-            Refresher currently does not provide built binaries for macOS due to issues with code signing. To run
-            Refresher on macOS, you must build the project yourself via the dotnet toolset.
+            Then, pick the option corresponding to the OS running on your computer.
+            On macOS, you will have to run a terminal command to get Refresher to run correctly. Those instructions are listed on the GitHub release.
         </p>
         <img src="refresher-artifacts.png" alt="Refresher Artifacts"/>
         <p>
-            Once you have downloaded the built binaries for your operating system,
+            Once you have downloaded the built binaries for your computer,
             simply unzip the archive, and you should have an executable.
         </p>
     </snippet>
     
     <snippet id="supported-version-notice">
-        <note>
+        <warning>
             Refresh only officially supports the latest release of every LBP game.
             Please update your game to the latest release <b>before</b> following this guide, else you may run into unexpected errors.
-        </note>
+        </warning>
     </snippet>
     
     <snippet id="final-patching-message">
         <p>
-            When all is set and ready to go, register an account on <a href="https://lbp.littlebigrefresh.com/">our website</a>,
+            When all is set and ready to go, register an account on <a href="https://lbp.lbpbonsai.com/">our website</a>,
             and then open the game and start browsing levels to activate your account!
         </p>
     </snippet>
@@ -70,5 +78,19 @@
             The grid paper should be purple if you are using the latest release. If it is not, please follow the following instructions to update.
             For a UMD or Playstation Store copy, press triangle on the game in the XMB and select Update.
             For a dumped copy of the game, you can use <a href="https://old.reddit.com/r/PSP/wiki/updateiso/">this guide</a> to update your dump.</p>
+    </snippet>
+    
+    <snippet id="reconfigure-patch">
+        <note>
+            This only applies to the LBP games, which all use Patchwork.
+            You cannot use this method to patch new games, but all games that you've patched beforehand should automatically update.
+        </note>
+        <p>
+            If you'd like to switch servers, you can easily do so! In Refresher, click 'Reconfigure Patch for PS3'.
+            You should see your previous settings.
+        </p>
+        <p>
+            Simply change the Server URL, or whatever else you'd like to change, and hit 'Patch!'. Refresher will update Patchwork's configuration for you.
+        </p>
     </snippet>
 </topic>

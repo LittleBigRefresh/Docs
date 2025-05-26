@@ -7,6 +7,16 @@ At the end of this, you will be able to select your server of choice inside the 
 
 <warning>
     <p>
+        Refresher is currently out of date and doesn't support patching LBP games with Patchwork.
+        Following this guide for LBP games won't work for the time being.
+    </p>
+    <p>
+    Join our <a href="https://discord.gg/xN5yKdxmWG">Discord</a> and be the first to get notified when RPCS3 support is fixed!
+    </p>
+</warning>
+
+<warning>
+    <p>
         If you're intending to play on <b>Bonsai</b>, you do not need to follow this guide.
         Instead, follow these steps:
     </p>
