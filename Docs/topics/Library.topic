@@ -22,6 +22,27 @@
             If successful, Refresher will automatically fill in the appropriate settings from that server.
         </p>
     </snippet>
+    
+    <snippet id="lobby-password">
+        <p>
+            If patching an LBP game, you can also set a lobby password to play multiplayer.
+            Current security patches require that multiplayer be effectively disabled by randomizing the encryption key.
+        </p>
+        
+        <p>
+            By setting your own key for multiplayer,
+            you can regain the ability to play with those who are using the same key!
+        </p>
+        
+        <warning>
+            <p>
+                ONLY SHARE THIS CODE WITH YOUR FRIENDS, OTHERWISE FACE SECURITY VULNERABILITIES.
+            </p>
+            <p>
+                Read more about LBP security <a href="https://docs.littlebigrefresh.com/lbp-security.html">here</a>.
+            </p>
+        </warning>
+    </snippet>
 
     <snippet id="download-refresher">
         <p>

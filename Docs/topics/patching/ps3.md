@@ -44,6 +44,10 @@ The latter will not work for LBP as it does not include critical security fixes 
 
 <include from="Library.topic" element-id="fill-in-server-url"/>
 
+## Step 3.5: Lobby passwords
+
+<include from="Library.topic" element-id="lobby-password"/>
+
 ## Step 4: Patch!
 
 Now, click the patch button. It should decrypt the game, patch, then place a new EBOOT and a copy of Patchwork onto your PS3!
