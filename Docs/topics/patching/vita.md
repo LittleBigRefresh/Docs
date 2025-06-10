@@ -5,6 +5,16 @@
 Allefresher is a set of CFW plugins which patches LBP to custom servers. 
 This guide aims to show how to set it up on a modded Vita using AutoPlugin2.
 
+<warning>
+    <p>
+        Allefresher for PS Vita is currently out of date and doesn't support patching LBP Vita with the latest security patches.
+        Following this guide for LBP Vita won't work for the time being, although <b>LBP PSP</b> on Vita is unaffected.
+    </p>
+    <p>
+    Join our <a href="https://discord.gg/xN5yKdxmWG">Discord</a> and be the first to get notified when LBP Vita support is fixed!
+    </p>
+</warning>
+
 ## Step 1: Jailbreak your device and install a CFW
 
 We can't help you with this directly, but there are various guides out there you can go out and find. We personally recommend the guide on [vita.hacks.guide](https://vita.hacks.guide/). 

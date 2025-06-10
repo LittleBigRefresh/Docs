@@ -14,9 +14,11 @@ Before connecting, you have to manually register on the website. You can sign up
 
 For patching, you'll probably want to grab Refresher. The latest release can be found here: https://github.com/LittleBigRefresh/Refresher/releases/latest
 
-## Patching for RPCS3
+## Patching for RPCS3 (currently unsupported)
 
 View this guide on our site: https://docs.littlebigrefresh.com/rpcs3.html
+
+RPCS3 is currently unsupported, pending some security work.
 
 ## Patching for PS3
 
@@ -28,9 +30,11 @@ View this guide on our site: https://docs.littlebigrefresh.com/psp.html
 
 Or watch this short video guide: https://www.youtube.com/watch?v=Y0Oj16YzQzY
 
-## Patching for Vita (LBP Vita/LBP PSP)
+## Patching for PS Vita (LBP Vita (currently unsupported)/LBP PSP)
 
 View this guide on our site: https://docs.littlebigrefresh.com/vita.html
+
+LBP Vita is currently unsupported, pending some security work.
 
 ## Having trouble?
 
