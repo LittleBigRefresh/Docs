@@ -14,8 +14,10 @@ This page contains a list of them and what they do.
 - `/unescapexmlon`: Un-escapes the XML sent to the `/filter` endpoint.
 This allows you to use XML sequences in-game not normally possible, such as putting player icons in magic mouths.
 - `/unescapexmloff`: Restores normal `/filter` functionality.
-- `/showmods`: Shows levels with modded content.
+- `/showmods`: Shows levels with modded content. (default)
 - `/hidemods`: Hides levels with modded content.
+- `/showreuploads`: Shows levels that were reuploaded. (default)
+- `/hidereuploads`: Hides levels that were reuploaded.
 - `/play [level id]`: Tells the server that you want to play a given level on the server.
 - `/play [level hash]`: Tells the server that you want to play a specific level's root resource hash.
 - `/beta`: Switches the token to be `TokenGame.BetaBuild`. Can be used for builds that do not properly identify themselves as beta builds, e.g. deploy.
