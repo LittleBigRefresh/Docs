@@ -1,6 +1,6 @@
 # Recent Activity
 
-## Event Enum {collapsible="true"}
+## Event Enum
 ```
 heart_level
 unheart_level
