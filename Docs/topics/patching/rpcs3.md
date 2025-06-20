@@ -2,43 +2,13 @@
 
 <include from="Library.topic" element-id="supported-version-notice"/>
 
-Refresher has native support for decrypting and patching RPCS3 games. This guide aims to show you how to operate Refresher's RPCS3 patcher. 
-At the end of this, you will be able to select your server of choice inside the game patches menu of RPCS3.
+Refresher has native support for decrypting and patching RPCS3 games, including the LittleBigPlanet series.
+This guide aims to show you how to operate Refresher's RPCS3 patcher.
 
-<warning>
-    <p>
-        Refresher is currently out of date and doesn't support patching LBP games with Patchwork.
-        Following this guide for LBP games won't work for the time being.
-    </p>
-    <p>
-    Join our <a href="https://discord.gg/xN5yKdxmWG">Discord</a> and be the first to get notified when RPCS3 support is fixed!
-    </p>
-</warning>
-
-<warning>
-    <p>
-        If you're intending to play on <b>Bonsai</b>, you do not need to follow this guide.
-        Instead, follow these steps:
-    </p>
-    <list>
-    <li>
-        Run through Step 1 and Step 5, ignoring the steps between.
-    </li>
-    <li>
-        Head to Manage -> Game Patches. If asked to update patches, click Yes.
-    </li>
-    <li>
-        Click the box named "Only show owned games" and search for LittleBigRefresh
-        <i>(or search Bonsai, if none are shown)</i>
-    </li>
-    <li>
-        Expand and check all the boxes available.
-    </li>
-    <li>
-        You are now able to play on <b>Bonsai!</b>
-    </li>
-    </list>
-</warning>
+<note>
+    For the LBP games, Refresher will instead use a new patching method called Patchwork to hook into the game to provide extra security patches.
+    It comes with the benefit that it is configurable without a full repatch, with the downside that it only works for select games. 
+</note>
 
 <include from="Library.topic" element-id="download-refresher"/>
 
@@ -52,12 +22,18 @@ Thankfully, the RPCS3 developers have provided a helpful guide on how to do this
 
 <a href="https://wiki.rpcs3.net/index.php?title=Help:Installing_Game_Updates>">RPCS3 Wiki: Installing Game Updates</a>
 
+<warning>
+    <p>
+        It's important that you install each update <b>IN ORDER, ONE AT A TIME</b>. Each update depends on the last.
+    </p>
+</warning>
+
 ## Step 2: Enter the location of RPCS3's filesystem
 
 <warning>
     <p>
-    Ensure your game is on the latest version before proceeding.
-    Not updating can cause strange, random issues that are difficult to understand.
+        Ensure your game is on the latest version and boots before proceeding.
+        Not updating can cause strange, random issues that are difficult to understand.
     </p>
 </warning>
 
@@ -77,17 +53,27 @@ Navigate to this directory and click Select Folder. Click 'Game To Patch' and al
 
 ## Step 3: Fill in the server URL
 
+Next, go to Refresher and click either 'Patch LBP1/2/3 for RPCS3' or 'Patch any RPCS3 game' depending on if you're patching an LBP game.
+The latter will not work for LBP as it does not include critical security fixes through Patchwork, so beware!
+The former creates a patch file. It does not replace the EBOOT - you will have to enable the patch in RPCS3's patch manager!
+
 <include from="Library.topic" element-id="fill-in-server-url"/>
+
+## Step 3.5: Lobby passwords
+
+<include from="Library.topic" element-id="lobby-password"/>
 
 ## Step 4: Patch!
 
-Now, click the patch button. It should decrypt the game, and add a new entry to your game's patches menu.
+Now, click the patch button. It should decrypt the game, patch, then place a new EBOOT and a copy of Patchwork into RPCS3!
 
-Open up RPCS3, right-click the game and select "Manage Game Patches". Enable the patch titled "Refresher".
+<note>
+    Other game patches (such as the one to disable score bubbles) will not work for the time being.
+</note>
 
-![A screenshot of RPCS3, indicating where to go.](rpcs3-patch-manager.png)
+## Step 4.5: Reconfiguring the patch
 
-<include from="Library.topic" element-id="final-patching-message" />
+<include from="Library.topic" element-id="reconfigure-patch" />
 
 ## Step 5: Enable RPCN in RPCS3
 
@@ -110,3 +96,6 @@ right click the game and click 'Change Custom Configuration' instead.
 Your network settings should look like this now:
 
 ![A screenshot of RPCS3's network settings, showing the correct options.](rpcs3-network-settings.png)
+
+## Step 6: Connect!
+<include from="Library.topic" element-id="final-patching-message" />
