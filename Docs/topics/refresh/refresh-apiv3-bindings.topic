@@ -19,7 +19,7 @@
 
         <p>
             Past that, though, we automatically generate API documentation at runtime and serve that over the API.
-            You can view that in a browser on our production instance <a href="https://lbp.littlebigrefresh.com/documentation">here</a> if you would like,
+            You can view that in a browser on our production instance <a href="https://lbp.lbpbonsai.com/documentation">here</a> if you would like,
             but the documentation is also exposed on every Refresh server's API via <code>/api/v3/documentation</code>.
         </p>
 

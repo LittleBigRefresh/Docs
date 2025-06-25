@@ -6,7 +6,7 @@
     <build-profile instance="docs">
         <variables>
             <noindex-content>false</noindex-content>
-            <primary-color>forest</primary-color>
+            <primary-color>dracula</primary-color>
             <header-logo>icon.svg</header-logo>
         </variables>
     </build-profile>

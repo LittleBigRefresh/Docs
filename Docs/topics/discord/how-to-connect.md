@@ -16,23 +16,23 @@ For patching, you'll probably want to grab Refresher. The latest release can be 
 
 ## Patching for RPCS3 (currently unsupported)
 
-View this guide on our site: https://docs.littlebigrefresh.com/rpcs3.html
+View this guide on our site: https://docs.lbpbonsai.com/rpcs3.html
 
 RPCS3 is currently unsupported, pending some security work.
 
 ## Patching for PS3
 
-View this guide on our site: https://docs.littlebigrefresh.com/ps3.html
+View this guide on our site: https://docs.lbpbonsai.com/ps3.html
 
 ## Patching for PSP
 
-View this guide on our site: https://docs.littlebigrefresh.com/psp.html
+View this guide on our site: https://docs.lbpbonsai.com/psp.html
 
 Or watch this short video guide: https://www.youtube.com/watch?v=Y0Oj16YzQzY
 
 ## Patching for PS Vita (LBP Vita (currently unsupported)/LBP PSP)
 
-View this guide on our site: https://docs.littlebigrefresh.com/vita.html
+View this guide on our site: https://docs.lbpbonsai.com/vita.html
 
 LBP Vita is currently unsupported, pending some security work.
 

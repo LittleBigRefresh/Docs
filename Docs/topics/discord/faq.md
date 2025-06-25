@@ -3,7 +3,7 @@ channelId: 1115713043163263027
 ---
 # FAQ
 
-This channel contains answers frequently asked questions we see. If your question isn't answered in this channel, take a peek at our docs site online: <https://docs.littlebigrefresh.com/>
+This channel contains answers frequently asked questions we see. If your question isn't answered in this channel, take a peek at our docs site online: <https://docs.lbpbonsai.com/>
 
 ## Does Refresh have an official server?
 

@@ -25,7 +25,7 @@ we'd recommend dual-booting PRO-C as well until Allefresher is guaranteed to wor
 <note>If you cannot connect your PSP to your main network, try using a password-less hotspot from your computer or phone.</note>
 
 On your PSP's XMB, select `Network` → `Internet Browser`. 
-Navigate to the `Address` bar at the top of the screen, and type in `http://psp.littlebigrefresh.com:2095`.
+Navigate to the `Address` bar at the top of the screen, and type in `http://psp.lbpbonsai.com:2095`.
 Select `Download Allefresher`, then select `Memory Stick`. If `Memory Stick` is unavailable, select `System Storage` instead.
 Do the same for `LittleBigRefresh (Domain)` and `LittleBigRefresh (Format)`. 
 This installs the plugin, and sets it up to connect to Bonsai.

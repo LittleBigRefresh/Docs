@@ -32,7 +32,7 @@ Server: Bunkum
 Connection: close
 Date: Thu, 12 Oct 2023 00:47:58 GMT
 
-{"version":3,"serverBrand":"LBR Dev (Refresh)","serverDescription":"The primary development instance for Refresh.","url":"https://lbp.littlebigrefresh.com/lbp","bannerImageUrl":"https://github.com/LittleBigRefresh/Branding/blob/main/logos/refresh_type.png?raw=true","usesCustomDigestKey":true}
+{"version":3,"serverBrand":"LBR Dev (Refresh)","serverDescription":"The primary development instance for Refresh.","url":"https://lbp.lbpbonsai.com/lbp","bannerImageUrl":"https://github.com/LittleBigRefresh/Branding/blob/main/logos/refresh_type.png?raw=true","usesCustomDigestKey":true}
 ```
 
 The server MUST reply with JSON data.

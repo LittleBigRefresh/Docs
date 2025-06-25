@@ -1,3 +1,3 @@
 # Docs
 
-https://docs.littlebigrefresh.com
+https://docs.lbpbonsai.com
