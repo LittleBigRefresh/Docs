@@ -14,11 +14,9 @@ Before connecting, you have to manually register on the website. You can sign up
 
 For patching, you'll probably want to grab Refresher. The latest release can be found here: https://github.com/LittleBigRefresh/Refresher/releases/latest
 
-## Patching for RPCS3 (currently unsupported)
+## Patching for RPCS3
 
 View this guide on our site: https://docs.lbpbonsai.com/rpcs3.html
-
-RPCS3 is currently unsupported, pending some security work.
 
 ## Patching for PS3
 
