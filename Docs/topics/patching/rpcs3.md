@@ -20,7 +20,7 @@ Refresh requires your game to be on the latest version. This is trivial on a rea
 
 Thankfully, the RPCS3 developers have provided a helpful guide on how to do this:
 
-<a href="https://wiki.rpcs3.net/index.php?title=Help:Installing_Game_Updates>">RPCS3 Wiki: Installing Game Updates</a>
+<a href="https://wiki.rpcs3.net/index.php?title=Help:Installing_Game_Updates">RPCS3 Wiki: Installing Game Updates</a>
 
 <warning>
     <p>
